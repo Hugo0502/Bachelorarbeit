@@ -1,0 +1,185 @@
+% Document class
+\documentclass[
+  11pt,
+  a4paper,
+  oneside
+]{book}
+
+% Fonts
+\usepackage[]{times}
+\usepackage{setspace}
+\setstretch{1.5}
+\usepackage{amssymb,amsmath}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{textcomp} % provides euro and other symbols
+\usepackage{lipsum}
+\usepackage{import}
+
+% remove Chapter N from Chapters
+\usepackage{titlesec}
+\titleformat{\chapter}[display]
+  {\normalfont\bfseries}{}{0pt}{\Huge}
+\titlespacing*{\chapter}{0pt}{0pt}{40pt} % minimize space between heading and top of the page
+
+\titleformat{\chapter}[hang]{\Huge\bfseries}{\thechapter{. }}{0pt}{\Huge\bfseries} %creates number in front of chapter
+
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+
+% Use microtype if available, for a nicer text
+\IfFileExists{microtype.sty}{
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+
+% Language. Change to ngerman if you write in German
+\usepackage[ngerman]{babel}
+
+% Margins
+\usepackage[margin=1in]{geometry}
+
+% Paragraphs
+\makeatletter
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\makeatother
+\usepackage{xcolor}
+
+% Links
+\usepackage[hyphens]{url}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\usepackage[unicode=true]{hyperref}
+\hypersetup{
+  pdftitle={Thesis template}, % CHANGE ME
+  pdfauthor={Insert Your Name},
+  pdfborder={0 0 0}, % CHANGE ME
+  colorlinks=true,
+  linkcolor=.,
+  citecolor=.,
+  urlcolor=blue,
+  breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+
+% Graphics
+\usepackage{graphicx}
+\graphicspath{ {./img/} }
+
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% plain: Page numbers in the footer. Use "fancy" for nice headers.
+\usepackage{fancyhdr}
+\pagestyle{plain}
+
+% Bibliography
+\usepackage{natbib}
+
+% Start of the document
+\begin{document}
+\frontmatter
+
+% Title page % CHANGE ME
+\begin{titlepage}
+\begin{center}
+ \includegraphics[width=0.5\textwidth]{tuc}\\ % Logo
+ {\huge\bfseries Your title\\[5pt] } % Title and optional subtitle
+ \vspace{1.5cm}
+ {\Large\bfseries Hugo Wienhold}\\[5pt] % Author
+ \vspace{2cm}
+% {Submitted in partial fulfilment for the award of the degree of} \\[2cm]
+{zum Erlangung des akademischen Grades} \\[2cm]
+\textsc{\Large{{B.Sc. Informatik}}} \\[5pt] % Degree
+ \vfill
+% {Department of Computer Science}\\[5pt] % Departement
+{Fakultät für Informatik}\\[5pt] % Departement
+% {Professorship for Artificial Intelligence}\\[5pt] % Professorship
+{Professur Medieninformatik}\\[5pt] % Professorship
+ \vfill
+\emph{Supervisors:}\\ % Supervisors
+% \emph{Gutachter:}\\ % Supervisors
+Dr. Thomas Wilhelm-Stein \\
+ % Dr.~habil. Julien Vitay \\
+ \vfill
+{\today} % Date of submission
+\end{center}
+\end{titlepage}
+
+\chapter*{Abstract}
+\label{sec:abstract}
+\input{chapters/0_Abstract/Abstract}
+
+% Table of Contents
+{
+\setcounter{tocdepth}{3}
+\hypersetup{linkcolor=black}
+\tableofcontents
+}
+
+% Optional: list of figures and tables
+% \listoffigures
+% \listoftables
+
+% Content
+\mainmatter
+
+\chapter*{Einleitung}
+\addcontentsline{toc}{chapter}{Einleitung}
+\label{sec:introduction}
+
+% includes für die Einführung
+
+
+\chapter{Grundlagen der Ladegeschwindigkeiten von Webseiten}
+\label{sec:grundlagen_der_ladegeschwindigkeiten_von_websiten}
+
+\input{chapters/2_Theoretische_Grundlagen/21_Grundlagen_der_Ladegeschwindigkeit}
+
+\input{chapters/2_Theoretische_Grundlagen/22_Tests_fur_Ladegeschwindigkeiten}
+
+\chapter{Website Usability}
+\label{sec:website_usability}
+
+\input{chapters/2_Theoretische_Grundlagen/23_Website_Usability}
+
+\input{chapters/2_Theoretische_Grundlagen/24_Usabilitytests}
+
+
+
+
+\chapter{Praktischer Teil}
+\label{sec:methods}
+
+\input{chapters/3_Praktischer_Teil/31_Methodik}
+
+\input{chapters/3_Praktischer_Teil/32_Implementierung_der_Datenerfassung}
+
+\input{chapters/3_Praktischer_Teil/33_Ergebnisse}
+
+
+
+\chapter{Disskussion}
+\label{sec:results}
+
+% includes für Diskusion
+
+
+
+\chapter{Ausblick}
+\label{sec:discussion}
+
+% includes für den Ausblick
+
+
+
+\bibliographystyle{frontiers} % frontiers.bst
+\bibliography{biblio} % biblio.bib
+
+\end{document}

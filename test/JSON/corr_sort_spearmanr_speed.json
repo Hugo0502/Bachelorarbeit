@@ -1,0 +1,80 @@
+[
+    {
+        "Baymard ScoreLCP TimePearson Coefficient": -0.2098862024309065,
+        "Baymard ScoreLCP TimePearson P-Value": 0.00339405703537468,
+        "Baymard ScoreLCP TimeSpearman Coefficient": -0.21798456816707665,
+        "Baymard ScoreLCP TimeSpearman P-Value": 0.0023239143626350967
+    },
+    {
+        "Baymard ScoreCLS TimePearson Coefficient": -0.10991067277120023,
+        "Baymard ScoreCLS TimePearson P-Value": 0.1281036805756884,
+        "Baymard ScoreCLS TimeSpearman Coefficient": -0.17581500432902664,
+        "Baymard ScoreCLS TimeSpearman P-Value": 0.014456528844354215
+    },
+    {
+        "Baymard ScoreFMP TimePearson Coefficient": -0.04003014523053093,
+        "Baymard ScoreFMP TimePearson P-Value": 0.5804513243157797,
+        "Baymard ScoreFMP TimeSpearman Coefficient": -0.07361278265668562,
+        "Baymard ScoreFMP TimeSpearman P-Value": 0.30896354558650946
+    },
+    {
+        "Baymard ScoreFCP TimePearson Coefficient": -0.043846326525890364,
+        "Baymard ScoreFCP TimePearson P-Value": 0.5448687766960001,
+        "Baymard ScoreFCP TimeSpearman Coefficient": -0.041052757266868065,
+        "Baymard ScoreFCP TimeSpearman P-Value": 0.5708111222273613
+    },
+    {
+        "Baymard ScoreLayout ShiftsPearson Coefficient": 0.0019240986793184253,
+        "Baymard ScoreLayout ShiftsPearson P-Value": 0.9788132180607199,
+        "Baymard ScoreLayout ShiftsSpearman Coefficient": -0.04053549431925162,
+        "Baymard ScoreLayout ShiftsSpearman P-Value": 0.5756779234887146
+    },
+    {
+        "Baymard ScoreSpeed IndexPearson Coefficient": 0.014028503482728265,
+        "Baymard ScoreSpeed IndexPearson P-Value": 0.8464627030620814,
+        "Baymard ScoreSpeed IndexSpearman Coefficient": 0.018166099744185846,
+        "Baymard ScoreSpeed IndexSpearman P-Value": 0.8020052395943562
+    },
+    {
+        "Baymard ScoreCLS ScorePearson Coefficient": 0.0696483616850663,
+        "Baymard ScoreCLS ScorePearson P-Value": 0.3358136556454061,
+        "Baymard ScoreCLS ScoreSpearman Coefficient": 0.0780642236272362,
+        "Baymard ScoreCLS ScoreSpearman P-Value": 0.2805406958987633
+    },
+    {
+        "Baymard ScoreLCP ScorePearson Coefficient": 0.11803016751583112,
+        "Baymard ScoreLCP ScorePearson P-Value": 0.1020920031707877,
+        "Baymard ScoreLCP ScoreSpearman Coefficient": 0.12379468960141908,
+        "Baymard ScoreLCP ScoreSpearman P-Value": 0.08630071391768063
+    },
+    {
+        "Baymard ScoreTime to InteractivePearson Coefficient": 0.14547466675645498,
+        "Baymard ScoreTime to InteractivePearson P-Value": 0.04352658291545756,
+        "Baymard ScoreTime to InteractiveSpearman Coefficient": 0.1318779780742179,
+        "Baymard ScoreTime to InteractiveSpearman P-Value": 0.06751968904264485
+    },
+    {
+        "Baymard ScoreDOM SizePearson Coefficient": 0.11846992974013205,
+        "Baymard ScoreDOM SizePearson P-Value": 0.10081209060059884,
+        "Baymard ScoreDOM SizeSpearman Coefficient": 0.14325353520939216,
+        "Baymard ScoreDOM SizeSpearman P-Value": 0.04686963772597385
+    },
+    {
+        "Baymard ScoreOverall CategoryPearson Coefficient": 0.1493736178975973,
+        "Baymard ScoreOverall CategoryPearson P-Value": 0.038141510783900066,
+        "Baymard ScoreOverall CategorySpearman Coefficient": 0.17544055203024395,
+        "Baymard ScoreOverall CategorySpearman P-Value": 0.014670051303812558
+    },
+    {
+        "Baymard ScoreTBTPearson Coefficient": 0.18375341311587412,
+        "Baymard ScoreTBTPearson P-Value": 0.01052700058333464,
+        "Baymard ScoreTBTSpearman Coefficient": 0.18380140733863132,
+        "Baymard ScoreTBTSpearman P-Value": 0.010506441179511722
+    },
+    {
+        "Baymard ScoreFCP ScorePearson Coefficient": 0.17737490808358583,
+        "Baymard ScoreFCP ScorePearson P-Value": 0.013596016772245461,
+        "Baymard ScoreFCP ScoreSpearman Coefficient": 0.19459369636616225,
+        "Baymard ScoreFCP ScoreSpearman P-Value": 0.006692035546034169
+    }
+]

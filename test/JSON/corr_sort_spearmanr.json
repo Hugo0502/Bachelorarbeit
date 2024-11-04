@@ -1,0 +1,542 @@
+[
+    {
+        "LCP ScoreAnzahl div TagsPearson Coefficient": -0.13667215224107096,
+        "LCP ScoreAnzahl div TagsPearson P-Value": 0.05805541585110976,
+        "LCP ScoreAnzahl div TagsSpearman Coefficient": -0.14229782658142098,
+        "LCP ScoreAnzahl div TagsSpearman P-Value": 0.0483726593365772
+    },
+    {
+        "LCP ScoreAnzahl IMG TagsPearson Coefficient": -0.10098281902651746,
+        "LCP ScoreAnzahl IMG TagsPearson P-Value": 0.16230551165745835,
+        "LCP ScoreAnzahl IMG TagsSpearman Coefficient": -0.10826696263005486,
+        "LCP ScoreAnzahl IMG TagsSpearman P-Value": 0.1339434386062182
+    },
+    {
+        "CLS ScoreAnzahl div TagsPearson Coefficient": -0.15162336505358323,
+        "CLS ScoreAnzahl div TagsPearson P-Value": 0.03529819102163293,
+        "CLS ScoreAnzahl div TagsSpearman Coefficient": -0.07899745797891636,
+        "CLS ScoreAnzahl div TagsSpearman P-Value": 0.2748128250805852
+    },
+    {
+        "LCP ScoreAnzahl Button TagsPearson Coefficient": -0.050917804429461935,
+        "LCP ScoreAnzahl Button TagsPearson P-Value": 0.48190996913559214,
+        "LCP ScoreAnzahl Button TagsSpearman Coefficient": -0.05766781657834977,
+        "LCP ScoreAnzahl Button TagsSpearman P-Value": 0.4256799953784943
+    },
+    {
+        "LCP ScoreAnzahl a TagsPearson Coefficient": 0.011137095988997116,
+        "LCP ScoreAnzahl a TagsPearson P-Value": 0.8778295939033891,
+        "LCP ScoreAnzahl a TagsSpearman Coefficient": -0.03906108473066765,
+        "LCP ScoreAnzahl a TagsSpearman P-Value": 0.5896559206256984
+    },
+    {
+        "CLS ScoreAnzahl a TagsPearson Coefficient": -0.06235277991199657,
+        "CLS ScoreAnzahl a TagsPearson P-Value": 0.38899355285424364,
+        "CLS ScoreAnzahl a TagsSpearman Coefficient": -0.03489510134284251,
+        "CLS ScoreAnzahl a TagsSpearman P-Value": 0.6299651811640106
+    },
+    {
+        "LCP ScoreAnzahl p TagsPearson Coefficient": -0.0781982456498364,
+        "LCP ScoreAnzahl p TagsPearson P-Value": 0.2797132047810317,
+        "LCP ScoreAnzahl p TagsSpearman Coefficient": -0.021294703277386605,
+        "LCP ScoreAnzahl p TagsSpearman P-Value": 0.768798369883501
+    },
+    {
+        "Baymard ScoreAnzahl p TagsPearson Coefficient": 0.007041345272644051,
+        "Baymard ScoreAnzahl p TagsPearson P-Value": 0.922577698381953,
+        "Baymard ScoreAnzahl p TagsSpearman Coefficient": -0.01452742287889411,
+        "Baymard ScoreAnzahl p TagsSpearman P-Value": 0.8410731789074276
+    },
+    {
+        "CLS ScoreAnzahl Button TagsPearson Coefficient": -0.014660448749928019,
+        "CLS ScoreAnzahl Button TagsPearson P-Value": 0.8396374170078731,
+        "CLS ScoreAnzahl Button TagsSpearman Coefficient": -0.004553104785065808,
+        "CLS ScoreAnzahl Button TagsSpearman P-Value": 0.9498913832216089
+    },
+    {
+        "Overall CategoryAnzahl div TagsPearson Coefficient": -0.06474007527400502,
+        "Overall CategoryAnzahl div TagsPearson P-Value": 0.3710575675255467,
+        "Overall CategoryAnzahl div TagsSpearman Coefficient": 0.0027420329469913306,
+        "Overall CategoryAnzahl div TagsSpearman P-Value": 0.9698103471435325
+    },
+    {
+        "CLS ScoreAnzahl IMG TagsPearson Coefficient": -0.02015785841646471,
+        "CLS ScoreAnzahl IMG TagsPearson P-Value": 0.780819668385841,
+        "CLS ScoreAnzahl IMG TagsSpearman Coefficient": 0.010243561093095937,
+        "CLS ScoreAnzahl IMG TagsSpearman P-Value": 0.8875639359564838
+    },
+    {
+        "TBTAnzahl p TagsPearson Coefficient": 0.18322869952926302,
+        "TBTAnzahl p TagsPearson P-Value": 0.010754100008491054,
+        "TBTAnzahl p TagsSpearman Coefficient": 0.011966482124563412,
+        "TBTAnzahl p TagsSpearman P-Value": 0.8688104406682448
+    },
+    {
+        "Speed IndexAnzahl p TagsPearson Coefficient": 0.07572564858846331,
+        "Speed IndexAnzahl p TagsPearson P-Value": 0.2952453212266724,
+        "Speed IndexAnzahl p TagsSpearman Coefficient": 0.016553043780376517,
+        "Speed IndexAnzahl p TagsSpearman P-Value": 0.8192699629252655
+    },
+    {
+        "FCP ScoreAnzahl div TagsPearson Coefficient": 0.010348298837300401,
+        "FCP ScoreAnzahl div TagsPearson P-Value": 0.8864220028425752,
+        "FCP ScoreAnzahl div TagsSpearman Coefficient": 0.036466325389280047,
+        "FCP ScoreAnzahl div TagsSpearman P-Value": 0.6146247677155605
+    },
+    {
+        "FCP ScoreAnzahl Button TagsPearson Coefficient": -0.054320934005138016,
+        "FCP ScoreAnzahl Button TagsPearson P-Value": 0.4530725547770367,
+        "FCP ScoreAnzahl Button TagsSpearman Coefficient": 0.04129455476156546,
+        "FCP ScoreAnzahl Button TagsSpearman P-Value": 0.5685427953697257
+    },
+    {
+        "Baymard ScoreAnzahl a TagsPearson Coefficient": 0.07995184512697448,
+        "Baymard ScoreAnzahl a TagsPearson P-Value": 0.26903760627164547,
+        "Baymard ScoreAnzahl a TagsSpearman Coefficient": 0.044615235030737346,
+        "Baymard ScoreAnzahl a TagsSpearman P-Value": 0.5378316993708943
+    },
+    {
+        "Overall CategoryAnzahl IMG TagsPearson Coefficient": 0.026537874113687528,
+        "Overall CategoryAnzahl IMG TagsPearson P-Value": 0.7141072653203497,
+        "Overall CategoryAnzahl IMG TagsSpearman Coefficient": 0.045554067861215124,
+        "Overall CategoryAnzahl IMG TagsSpearman P-Value": 0.5293013041240024
+    },
+    {
+        "LCP TimeAnzahl Button TagsPearson Coefficient": -0.021813699685233404,
+        "LCP TimeAnzahl Button TagsPearson P-Value": 0.7633284560697743,
+        "LCP TimeAnzahl Button TagsSpearman Coefficient": 0.047524526970228534,
+        "LCP TimeAnzahl Button TagsSpearman P-Value": 0.511622176484379
+    },
+    {
+        "FCP TimeAnzahl Button TagsPearson Coefficient": 0.16908564997419412,
+        "FCP TimeAnzahl Button TagsPearson P-Value": 0.01873788939495792,
+        "FCP TimeAnzahl Button TagsSpearman Coefficient": 0.054183916253037645,
+        "FCP TimeAnzahl Button TagsSpearman P-Value": 0.45421461883724157
+    },
+    {
+        "Overall CategoryAnzahl a TagsPearson Coefficient": 0.00831022517414037,
+        "Overall CategoryAnzahl a TagsPearson P-Value": 0.9086818434965689,
+        "Overall CategoryAnzahl a TagsSpearman Coefficient": 0.058087923234928625,
+        "Overall CategoryAnzahl a TagsSpearman P-Value": 0.4223107214434346
+    },
+    {
+        "Time to InteractiveAnzahl p TagsPearson Coefficient": 0.13318213929483558,
+        "Time to InteractiveAnzahl p TagsPearson P-Value": 0.0648282920756532,
+        "Time to InteractiveAnzahl p TagsSpearman Coefficient": 0.058251393587992265,
+        "Time to InteractiveAnzahl p TagsSpearman P-Value": 0.4210038840295701
+    },
+    {
+        "CLS TimeAnzahl Button TagsPearson Coefficient": 0.025662073343179482,
+        "CLS TimeAnzahl Button TagsPearson P-Value": 0.7231505132718998,
+        "CLS TimeAnzahl Button TagsSpearman Coefficient": 0.06373378471740265,
+        "CLS TimeAnzahl Button TagsSpearman P-Value": 0.3785549620222547
+    },
+    {
+        "FCP ScoreAnzahl a TagsPearson Coefficient": 0.060480284707111295,
+        "FCP ScoreAnzahl a TagsPearson P-Value": 0.403421587858844,
+        "FCP ScoreAnzahl a TagsSpearman Coefficient": 0.0638735924786677,
+        "FCP ScoreAnzahl a TagsSpearman P-Value": 0.3775078213670773
+    },
+    {
+        "FMP TimeAnzahl Button TagsPearson Coefficient": 0.1524449500729072,
+        "FMP TimeAnzahl Button TagsPearson P-Value": 0.03430557810538785,
+        "FMP TimeAnzahl Button TagsSpearman Coefficient": 0.0661382828570059,
+        "FMP TimeAnzahl Button TagsSpearman P-Value": 0.36079318838421714
+    },
+    {
+        "CLS TimeAnzahl IMG TagsPearson Coefficient": 0.057809856242759944,
+        "CLS TimeAnzahl IMG TagsPearson P-Value": 0.4245390929026337,
+        "CLS TimeAnzahl IMG TagsSpearman Coefficient": 0.07098477598881794,
+        "CLS TimeAnzahl IMG TagsSpearman P-Value": 0.32660062396873835
+    },
+    {
+        "Layout ShiftsAnzahl p TagsPearson Coefficient": 0.006572709501132649,
+        "Layout ShiftsAnzahl p TagsPearson P-Value": 0.9277160201181829,
+        "Layout ShiftsAnzahl p TagsSpearman Coefficient": 0.07705398638676526,
+        "Layout ShiftsAnzahl p TagsSpearman P-Value": 0.28683125146194094
+    },
+    {
+        "FCP ScoreAnzahl IMG TagsPearson Coefficient": 0.05110104182310523,
+        "FCP ScoreAnzahl IMG TagsPearson P-Value": 0.48033244311312506,
+        "FCP ScoreAnzahl IMG TagsSpearman Coefficient": 0.08065577186522081,
+        "FCP ScoreAnzahl IMG TagsSpearman P-Value": 0.26483131809361327
+    },
+    {
+        "Overall CategoryAnzahl Button TagsPearson Coefficient": 0.0314356005411692,
+        "Overall CategoryAnzahl Button TagsPearson P-Value": 0.6642974007741604,
+        "Overall CategoryAnzahl Button TagsSpearman Coefficient": 0.08563736208193408,
+        "Overall CategoryAnzahl Button TagsSpearman P-Value": 0.23634954036441927
+    },
+    {
+        "FCP TimeAnzahl p TagsPearson Coefficient": 0.15732122966544562,
+        "FCP TimeAnzahl p TagsPearson P-Value": 0.028888609251447414,
+        "FCP TimeAnzahl p TagsSpearman Coefficient": 0.08936217767347364,
+        "FCP TimeAnzahl p TagsSpearman P-Value": 0.21650742277200724
+    },
+    {
+        "CLS TimeAnzahl p TagsPearson Coefficient": 0.11379552931839904,
+        "CLS TimeAnzahl p TagsPearson P-Value": 0.11508313449514425,
+        "CLS TimeAnzahl p TagsSpearman Coefficient": 0.08942233560532936,
+        "CLS TimeAnzahl p TagsSpearman P-Value": 0.21619703287420505
+    },
+    {
+        "CLS TimeAnzahl div TagsPearson Coefficient": 0.007060383220433199,
+        "CLS TimeAnzahl div TagsPearson P-Value": 0.9223690245231986,
+        "CLS TimeAnzahl div TagsSpearman Coefficient": 0.11033100075201056,
+        "CLS TimeAnzahl div TagsSpearman P-Value": 0.12664234654167825
+    },
+    {
+        "FCP ScoreAnzahl p TagsPearson Coefficient": 0.04152221220244355,
+        "FCP ScoreAnzahl p TagsPearson P-Value": 0.5664110329657788,
+        "FCP ScoreAnzahl p TagsSpearman Coefficient": 0.11217719377407165,
+        "FCP ScoreAnzahl p TagsSpearman P-Value": 0.12037578199234174
+    },
+    {
+        "Baymard ScoreAnzahl IMG TagsPearson Coefficient": 0.10953234308132277,
+        "Baymard ScoreAnzahl IMG TagsPearson P-Value": 0.12943009268499892,
+        "Baymard ScoreAnzahl IMG TagsSpearman Coefficient": 0.11854758633870542,
+        "Baymard ScoreAnzahl IMG TagsSpearman P-Value": 0.10058739729981014
+    },
+    {
+        "Speed IndexAnzahl a TagsPearson Coefficient": 0.14446861951843049,
+        "Speed IndexAnzahl a TagsPearson P-Value": 0.04501518415385332,
+        "Speed IndexAnzahl a TagsSpearman Coefficient": 0.12370650490415734,
+        "Speed IndexAnzahl a TagsSpearman P-Value": 0.08652661142746013
+    },
+    {
+        "CLS ScoreAnzahl p TagsPearson Coefficient": 0.005609253983338929,
+        "CLS ScoreAnzahl p TagsPearson P-Value": 0.9382889212138354,
+        "CLS ScoreAnzahl p TagsSpearman Coefficient": 0.12390345580144241,
+        "CLS ScoreAnzahl p TagsSpearman P-Value": 0.08602274518634244
+    },
+    {
+        "CLS TimeAnzahl a TagsPearson Coefficient": 0.02286382643378699,
+        "CLS TimeAnzahl a TagsPearson P-Value": 0.7522967856248112,
+        "CLS TimeAnzahl a TagsSpearman Coefficient": 0.1313094486833467,
+        "CLS TimeAnzahl a TagsSpearman P-Value": 0.06872117339049831
+    },
+    {
+        "Layout ShiftsAnzahl IMG TagsPearson Coefficient": 0.026569983009407556,
+        "Layout ShiftsAnzahl IMG TagsPearson P-Value": 0.713776465614863,
+        "Layout ShiftsAnzahl IMG TagsSpearman Coefficient": 0.13313697081913473,
+        "Layout ShiftsAnzahl IMG TagsSpearman P-Value": 0.06492001557941751
+    },
+    {
+        "Overall CategoryAnzahl p TagsPearson Coefficient": 0.02750489726853163,
+        "Overall CategoryAnzahl p TagsPearson P-Value": 0.7041682059189521,
+        "Overall CategoryAnzahl p TagsSpearman Coefficient": 0.1340734354989614,
+        "Overall CategoryAnzahl p TagsSpearman P-Value": 0.06303993496766341
+    },
+    {
+        "LCP TimeAnzahl IMG TagsPearson Coefficient": 0.13784482989844984,
+        "LCP TimeAnzahl IMG TagsPearson P-Value": 0.055914999828296987,
+        "LCP TimeAnzahl IMG TagsSpearman Coefficient": 0.13752279181730293,
+        "LCP TimeAnzahl IMG TagsSpearman P-Value": 0.05649619715166421
+    },
+    {
+        "Baymard ScoreAnzahl div TagsPearson Coefficient": 0.14773655979158176,
+        "Baymard ScoreAnzahl div TagsPearson P-Value": 0.04032990173330851,
+        "Baymard ScoreAnzahl div TagsSpearman Coefficient": 0.14106676348823116,
+        "Baymard ScoreAnzahl div TagsSpearman P-Value": 0.05036771008884095
+    },
+    {
+        "FMP TimeAnzahl p TagsPearson Coefficient": 0.13007800180309692,
+        "FMP TimeAnzahl p TagsPearson P-Value": 0.07138341594447974,
+        "FMP TimeAnzahl p TagsSpearman Coefficient": 0.1488416988112959,
+        "FMP TimeAnzahl p TagsSpearman P-Value": 0.03884131434376659
+    },
+    {
+        "Layout ShiftsAnzahl a TagsPearson Coefficient": 0.09960035287761745,
+        "Layout ShiftsAnzahl a TagsPearson P-Value": 0.16816221841986734,
+        "Layout ShiftsAnzahl a TagsSpearman Coefficient": 0.149576134961447,
+        "Layout ShiftsAnzahl a TagsSpearman P-Value": 0.03787788556761581
+    },
+    {
+        "LCP TimeAnzahl a TagsPearson Coefficient": 0.10760081473009367,
+        "LCP TimeAnzahl a TagsPearson P-Value": 0.13636747816454187,
+        "LCP TimeAnzahl a TagsSpearman Coefficient": 0.15227004649232523,
+        "LCP TimeAnzahl a TagsSpearman P-Value": 0.034514884874104874
+    },
+    {
+        "Time to InteractiveAnzahl Button TagsPearson Coefficient": 0.10599250144074317,
+        "Time to InteractiveAnzahl Button TagsPearson P-Value": 0.14235831057891346,
+        "Time to InteractiveAnzahl Button TagsSpearman Coefficient": 0.15520976754664575,
+        "Time to InteractiveAnzahl Button TagsSpearman P-Value": 0.0311372397207213
+    },
+    {
+        "FMP TimeAnzahl IMG TagsPearson Coefficient": 0.17350062048463305,
+        "FMP TimeAnzahl IMG TagsPearson P-Value": 0.015820979377464715,
+        "FMP TimeAnzahl IMG TagsSpearman Coefficient": 0.15708720339984195,
+        "FMP TimeAnzahl IMG TagsSpearman P-Value": 0.029130802364461833
+    },
+    {
+        "Layout ShiftsAnzahl Button TagsPearson Coefficient": 0.052987172110764334,
+        "Layout ShiftsAnzahl Button TagsPearson P-Value": 0.4642578338288835,
+        "Layout ShiftsAnzahl Button TagsSpearman Coefficient": 0.1577348286356308,
+        "Layout ShiftsAnzahl Button TagsSpearman P-Value": 0.028464781571803828
+    },
+    {
+        "TBTAnzahl IMG TagsPearson Coefficient": 0.22700834472190234,
+        "TBTAnzahl IMG TagsPearson P-Value": 0.0014995758444603321,
+        "TBTAnzahl IMG TagsSpearman Coefficient": 0.15904194194090632,
+        "TBTAnzahl IMG TagsSpearman P-Value": 0.02716010361749678
+    },
+    {
+        "Speed IndexAnzahl IMG TagsPearson Coefficient": 0.25233792115585246,
+        "Speed IndexAnzahl IMG TagsPearson P-Value": 0.00039969793925637544,
+        "Speed IndexAnzahl IMG TagsSpearman Coefficient": 0.15921541762710797,
+        "Speed IndexAnzahl IMG TagsSpearman P-Value": 0.026990860922173145
+    },
+    {
+        "FCP TimeAnzahl div TagsPearson Coefficient": 0.18668533321534564,
+        "FCP TimeAnzahl div TagsPearson P-Value": 0.009334279523417205,
+        "FCP TimeAnzahl div TagsSpearman Coefficient": 0.16144005085172433,
+        "FCP TimeAnzahl div TagsSpearman P-Value": 0.024899323854011533
+    },
+    {
+        "Speed IndexAnzahl Button TagsPearson Coefficient": 0.1523317009664811,
+        "Speed IndexAnzahl Button TagsPearson P-Value": 0.03444097990022529,
+        "Speed IndexAnzahl Button TagsSpearman Coefficient": 0.16494234548022316,
+        "Speed IndexAnzahl Button TagsSpearman P-Value": 0.021888900169566475
+    },
+    {
+        "Time to InteractiveAnzahl a TagsPearson Coefficient": 0.21578509047451422,
+        "Time to InteractiveAnzahl a TagsPearson P-Value": 0.002579154535477225,
+        "Time to InteractiveAnzahl a TagsSpearman Coefficient": 0.1651329415315871,
+        "Time to InteractiveAnzahl a TagsSpearman P-Value": 0.021734499043282902
+    },
+    {
+        "LCP TimeAnzahl div TagsPearson Coefficient": 0.1510561416060351,
+        "LCP TimeAnzahl div TagsPearson P-Value": 0.03599759282945616,
+        "LCP TimeAnzahl div TagsSpearman Coefficient": 0.17022521093603993,
+        "LCP TimeAnzahl div TagsSpearman P-Value": 0.01794349503469822
+    },
+    {
+        "FCP TimeAnzahl IMG TagsPearson Coefficient": 0.22220834488771243,
+        "FCP TimeAnzahl IMG TagsPearson P-Value": 0.0018970907649751203,
+        "FCP TimeAnzahl IMG TagsSpearman Coefficient": 0.17034542025204336,
+        "FCP TimeAnzahl IMG TagsSpearman P-Value": 0.017861428341321296
+    },
+    {
+        "TBTAnzahl a TagsPearson Coefficient": 0.13133264804992675,
+        "TBTAnzahl a TagsPearson P-Value": 0.06867180686022736,
+        "TBTAnzahl a TagsSpearman Coefficient": 0.1711674263487256,
+        "TBTAnzahl a TagsSpearman P-Value": 0.017308939891344265
+    },
+    {
+        "LCP TimeAnzahl p TagsPearson Coefficient": 0.10447669245361729,
+        "LCP TimeAnzahl p TagsPearson P-Value": 0.14818613977769585,
+        "LCP TimeAnzahl p TagsSpearman Coefficient": 0.17231696576068004,
+        "LCP TimeAnzahl p TagsSpearman P-Value": 0.01656127365578387
+    },
+    {
+        "Baymard ScoreAnzahl Button TagsPearson Coefficient": 0.21217448939666167,
+        "Baymard ScoreAnzahl Button TagsPearson P-Value": 0.003053733785896535,
+        "Baymard ScoreAnzahl Button TagsSpearman Coefficient": 0.1823379298891943,
+        "Baymard ScoreAnzahl Button TagsSpearman P-Value": 0.011149536931100369
+    },
+    {
+        "Layout ShiftsAnzahl div TagsPearson Coefficient": 0.07164009428846817,
+        "Layout ShiftsAnzahl div TagsPearson P-Value": 0.32214307221183136,
+        "Layout ShiftsAnzahl div TagsSpearman Coefficient": 0.18588971301186383,
+        "Layout ShiftsAnzahl div TagsSpearman P-Value": 0.009645498140619695
+    },
+    {
+        "FMP TimeAnzahl div TagsPearson Coefficient": 0.1846972229440735,
+        "FMP TimeAnzahl div TagsPearson P-Value": 0.01012914844574156,
+        "FMP TimeAnzahl div TagsSpearman Coefficient": 0.1943153633651265,
+        "FMP TimeAnzahl div TagsSpearman P-Value": 0.006772294715690578
+    },
+    {
+        "Time to InteractiveAnzahl IMG TagsPearson Coefficient": 0.2945403639624238,
+        "Time to InteractiveAnzahl IMG TagsPearson P-Value": 3.2116130667242355e-05,
+        "Time to InteractiveAnzahl IMG TagsSpearman Coefficient": 0.19447554546130794,
+        "Time to InteractiveAnzahl IMG TagsSpearman P-Value": 0.006726000943547269
+    },
+    {
+        "TBTAnzahl Button TagsPearson Coefficient": 0.15159274167422937,
+        "TBTAnzahl Button TagsPearson P-Value": 0.035335654467309525,
+        "TBTAnzahl Button TagsSpearman Coefficient": 0.211057676653002,
+        "TBTAnzahl Button TagsSpearman P-Value": 0.0032157716781569335
+    },
+    {
+        "FCP TimeAnzahl a TagsPearson Coefficient": 0.12815946458058566,
+        "FCP TimeAnzahl a TagsPearson P-Value": 0.07569761698942801,
+        "FCP TimeAnzahl a TagsSpearman Coefficient": 0.22649199950645663,
+        "FCP TimeAnzahl a TagsSpearman P-Value": 0.001538347595901167
+    },
+    {
+        "Speed IndexAnzahl div TagsPearson Coefficient": 0.28684593656409896,
+        "Speed IndexAnzahl div TagsPearson P-Value": 5.245158936843541e-05,
+        "Speed IndexAnzahl div TagsSpearman Coefficient": 0.2447977127214828,
+        "Speed IndexAnzahl div TagsSpearman P-Value": 0.0006011375157760547
+    },
+    {
+        "FMP TimeAnzahl a TagsPearson Coefficient": 0.11727549925170605,
+        "FMP TimeAnzahl a TagsPearson P-Value": 0.10431830569656324,
+        "FMP TimeAnzahl a TagsSpearman Coefficient": 0.25040541581547504,
+        "FMP TimeAnzahl a TagsSpearman P-Value": 0.0004442980398088883
+    },
+    {
+        "DOM SizeAnzahl p TagsPearson Coefficient": 0.12492356937982568,
+        "DOM SizeAnzahl p TagsPearson P-Value": 0.08345047593196198,
+        "DOM SizeAnzahl p TagsSpearman Coefficient": 0.2609107125500092,
+        "DOM SizeAnzahl p TagsSpearman P-Value": 0.00024750797219900305
+    },
+    {
+        "TBTAnzahl div TagsPearson Coefficient": 0.2942045877794952,
+        "TBTAnzahl div TagsPearson P-Value": 3.282071367790254e-05,
+        "TBTAnzahl div TagsSpearman Coefficient": 0.2925019713104416,
+        "TBTAnzahl div TagsSpearman P-Value": 3.662330425692802e-05
+    },
+    {
+        "Time to InteractiveAnzahl div TagsPearson Coefficient": 0.379630928532702,
+        "Time to InteractiveAnzahl div TagsPearson P-Value": 5.1816404580015156e-08,
+        "Time to InteractiveAnzahl div TagsSpearman Coefficient": 0.3062952453439585,
+        "Time to InteractiveAnzahl div TagsSpearman P-Value": 1.476744685583757e-05
+    },
+    {
+        "Anzahl p TagsAnzahl div TagsPearson Coefficient": 0.30990640018394333,
+        "Anzahl p TagsAnzahl div TagsPearson P-Value": 1.155310415269484e-05,
+        "Anzahl p TagsAnzahl div TagsSpearman Coefficient": 0.3982563229150014,
+        "Anzahl p TagsAnzahl div TagsSpearman P-Value": 9.700960431447576e-09
+    },
+    {
+        "Anzahl div TagsAnzahl p TagsPearson Coefficient": 0.30990640018394333,
+        "Anzahl div TagsAnzahl p TagsPearson P-Value": 1.155310415269484e-05,
+        "Anzahl div TagsAnzahl p TagsSpearman Coefficient": 0.39825632291500146,
+        "Anzahl div TagsAnzahl p TagsSpearman P-Value": 9.700960431447507e-09
+    },
+    {
+        "Anzahl p TagsAnzahl Button TagsPearson Coefficient": 0.19252835249955663,
+        "Anzahl p TagsAnzahl Button TagsPearson P-Value": 0.007308347863845056,
+        "Anzahl p TagsAnzahl Button TagsSpearman Coefficient": 0.43428707026983415,
+        "Anzahl p TagsAnzahl Button TagsSpearman P-Value": 2.7896795606545744e-10
+    },
+    {
+        "Anzahl Button TagsAnzahl p TagsPearson Coefficient": 0.19252835249955663,
+        "Anzahl Button TagsAnzahl p TagsPearson P-Value": 0.007308347863845056,
+        "Anzahl Button TagsAnzahl p TagsSpearman Coefficient": 0.43428707026983415,
+        "Anzahl Button TagsAnzahl p TagsSpearman P-Value": 2.7896795606545744e-10
+    },
+    {
+        "Anzahl a TagsAnzahl p TagsPearson Coefficient": 0.2139391606632931,
+        "Anzahl a TagsAnzahl p TagsPearson P-Value": 0.002812711508540579,
+        "Anzahl a TagsAnzahl p TagsSpearman Coefficient": 0.4594058232515452,
+        "Anzahl a TagsAnzahl p TagsSpearman P-Value": 1.8140370191372363e-11
+    },
+    {
+        "Anzahl p TagsAnzahl a TagsPearson Coefficient": 0.2139391606632931,
+        "Anzahl p TagsAnzahl a TagsPearson P-Value": 0.002812711508540579,
+        "Anzahl p TagsAnzahl a TagsSpearman Coefficient": 0.4594058232515452,
+        "Anzahl p TagsAnzahl a TagsSpearman P-Value": 1.8140370191372363e-11
+    },
+    {
+        "DOM SizeAnzahl Button TagsPearson Coefficient": 0.38576181122810665,
+        "DOM SizeAnzahl Button TagsPearson P-Value": 3.01939540445175e-08,
+        "DOM SizeAnzahl Button TagsSpearman Coefficient": 0.47954829318151165,
+        "DOM SizeAnzahl Button TagsSpearman P-Value": 1.7157401298341136e-12
+    },
+    {
+        "Anzahl p TagsAnzahl IMG TagsPearson Coefficient": 0.35114841711775197,
+        "Anzahl p TagsAnzahl IMG TagsPearson P-Value": 5.528876512132858e-07,
+        "Anzahl p TagsAnzahl IMG TagsSpearman Coefficient": 0.48812604238254376,
+        "Anzahl p TagsAnzahl IMG TagsSpearman P-Value": 5.991904902413797e-13
+    },
+    {
+        "Anzahl IMG TagsAnzahl p TagsPearson Coefficient": 0.3511484171177519,
+        "Anzahl IMG TagsAnzahl p TagsPearson P-Value": 5.528876512132858e-07,
+        "Anzahl IMG TagsAnzahl p TagsSpearman Coefficient": 0.48812604238254376,
+        "Anzahl IMG TagsAnzahl p TagsSpearman P-Value": 5.991904902413797e-13
+    },
+    {
+        "DOM SizeAnzahl IMG TagsPearson Coefficient": 0.5011810868591253,
+        "DOM SizeAnzahl IMG TagsPearson P-Value": 1.1410328598598162e-13,
+        "DOM SizeAnzahl IMG TagsSpearman Coefficient": 0.48973582997401116,
+        "DOM SizeAnzahl IMG TagsSpearman P-Value": 4.902232248914883e-13
+    },
+    {
+        "Anzahl a TagsAnzahl Button TagsPearson Coefficient": 0.37749895009605905,
+        "Anzahl a TagsAnzahl Button TagsPearson P-Value": 6.236008267763245e-08,
+        "Anzahl a TagsAnzahl Button TagsSpearman Coefficient": 0.5408741156407466,
+        "Anzahl a TagsAnzahl Button TagsSpearman P-Value": 4.663635227251487e-16
+    },
+    {
+        "Anzahl Button TagsAnzahl a TagsPearson Coefficient": 0.37749895009605905,
+        "Anzahl Button TagsAnzahl a TagsPearson P-Value": 6.236008267763245e-08,
+        "Anzahl Button TagsAnzahl a TagsSpearman Coefficient": 0.5408741156407467,
+        "Anzahl Button TagsAnzahl a TagsSpearman P-Value": 4.663635227251487e-16
+    },
+    {
+        "Anzahl a TagsAnzahl IMG TagsPearson Coefficient": 0.48846194743985116,
+        "Anzahl a TagsAnzahl IMG TagsPearson P-Value": 5.746627538384382e-13,
+        "Anzahl a TagsAnzahl IMG TagsSpearman Coefficient": 0.5687938627768142,
+        "Anzahl a TagsAnzahl IMG TagsSpearman P-Value": 6.169749354563328e-18
+    },
+    {
+        "Anzahl IMG TagsAnzahl a TagsPearson Coefficient": 0.4884619474398511,
+        "Anzahl IMG TagsAnzahl a TagsPearson P-Value": 5.746627538384382e-13,
+        "Anzahl IMG TagsAnzahl a TagsSpearman Coefficient": 0.5687938627768142,
+        "Anzahl IMG TagsAnzahl a TagsSpearman P-Value": 6.169749354563328e-18
+    },
+    {
+        "DOM SizeAnzahl a TagsPearson Coefficient": 0.6157816317677599,
+        "DOM SizeAnzahl a TagsPearson P-Value": 1.5688221271266525e-21,
+        "DOM SizeAnzahl a TagsSpearman Coefficient": 0.5769356291643788,
+        "DOM SizeAnzahl a TagsSpearman P-Value": 1.6157625331594753e-18
+    },
+    {
+        "Anzahl IMG TagsAnzahl Button TagsPearson Coefficient": 0.39551980109687324,
+        "Anzahl IMG TagsAnzahl Button TagsPearson P-Value": 1.2490257463132402e-08,
+        "Anzahl IMG TagsAnzahl Button TagsSpearman Coefficient": 0.6010186502526159,
+        "Anzahl IMG TagsAnzahl Button TagsSpearman P-Value": 2.4485118716646778e-20
+    },
+    {
+        "Anzahl Button TagsAnzahl IMG TagsPearson Coefficient": 0.39551980109687324,
+        "Anzahl Button TagsAnzahl IMG TagsPearson P-Value": 1.2490257463132402e-08,
+        "Anzahl Button TagsAnzahl IMG TagsSpearman Coefficient": 0.601018650252616,
+        "Anzahl Button TagsAnzahl IMG TagsSpearman P-Value": 2.448511871664643e-20
+    },
+    {
+        "Anzahl div TagsAnzahl Button TagsPearson Coefficient": 0.4522760191705173,
+        "Anzahl div TagsAnzahl Button TagsPearson P-Value": 4.0312714650276765e-11,
+        "Anzahl div TagsAnzahl Button TagsSpearman Coefficient": 0.6485196719231224,
+        "Anzahl div TagsAnzahl Button TagsSpearman P-Value": 2.0507939495785273e-24
+    },
+    {
+        "Anzahl Button TagsAnzahl div TagsPearson Coefficient": 0.4522760191705173,
+        "Anzahl Button TagsAnzahl div TagsPearson P-Value": 4.0312714650276765e-11,
+        "Anzahl Button TagsAnzahl div TagsSpearman Coefficient": 0.6485196719231224,
+        "Anzahl Button TagsAnzahl div TagsSpearman P-Value": 2.0507939495785273e-24
+    },
+    {
+        "DOM SizeAnzahl div TagsPearson Coefficient": 0.6149141680113072,
+        "DOM SizeAnzahl div TagsPearson P-Value": 1.8511068275076266e-21,
+        "DOM SizeAnzahl div TagsSpearman Coefficient": 0.6650074012463612,
+        "DOM SizeAnzahl div TagsSpearman P-Value": 5.26431177131661e-26
+    },
+    {
+        "Anzahl div TagsAnzahl a TagsPearson Coefficient": 0.5986703795629436,
+        "Anzahl div TagsAnzahl a TagsPearson P-Value": 3.741717193276383e-20,
+        "Anzahl div TagsAnzahl a TagsSpearman Coefficient": 0.6662021741663807,
+        "Anzahl div TagsAnzahl a TagsSpearman P-Value": 4.000760296984334e-26
+    },
+    {
+        "Anzahl a TagsAnzahl div TagsPearson Coefficient": 0.5986703795629436,
+        "Anzahl a TagsAnzahl div TagsPearson P-Value": 3.741717193276383e-20,
+        "Anzahl a TagsAnzahl div TagsSpearman Coefficient": 0.6662021741663808,
+        "Anzahl a TagsAnzahl div TagsSpearman P-Value": 4.0007602969842485e-26
+    },
+    {
+        "Anzahl IMG TagsAnzahl div TagsPearson Coefficient": 0.6857998958873934,
+        "Anzahl IMG TagsAnzahl div TagsPearson P-Value": 3.675682484798625e-28,
+        "Anzahl IMG TagsAnzahl div TagsSpearman Coefficient": 0.7368292363702491,
+        "Anzahl IMG TagsAnzahl div TagsSpearman P-Value": 2.6370195125185306e-34
+    },
+    {
+        "Anzahl div TagsAnzahl IMG TagsPearson Coefficient": 0.6857998958873934,
+        "Anzahl div TagsAnzahl IMG TagsPearson P-Value": 3.675682484798625e-28,
+        "Anzahl div TagsAnzahl IMG TagsSpearman Coefficient": 0.7368292363702492,
+        "Anzahl div TagsAnzahl IMG TagsSpearman P-Value": 2.6370195125184185e-34
+    }
+]
