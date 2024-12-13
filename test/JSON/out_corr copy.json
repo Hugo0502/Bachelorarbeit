@@ -2575,6 +2575,24 @@
         "Anzahl IMG Tags": 0,
         "Anzahl Button Tags": 0
     },
+    "http://progressive.com": {
+        "Website ID": "https://www.progressive.com/",
+        "Overall Category": "FAST",
+        "First Contentful Paint Time": 390.5,
+        "First Contentful Paint Score": "FAST",
+        "Largest Contentful Paint Time": 390.5,
+        "Largest Contentful PaintCP Score": "FAST",
+        "Total Blocking Time": 0,
+        "Cumulative Layout Shift Time": 0,
+        "Cumulative Layout Shift Score": "FAST",
+        "Layout Shifts": -100,
+        "Speed Index": 803.5572083295633,
+        "Time to Interactive": 390.5,
+        "DOM Size": 3,
+        "Offscreen Images": 0,
+        "Total Byte Weight": 5829,
+        "Baymard Score": 30.4
+    },
     "http://aninebing.com": {
         "Website ID": "https://eu.aninebing.com/",
         "Overall Category": "SLOW",

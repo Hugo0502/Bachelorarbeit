@@ -1,4 +1,5 @@
 import json
+import time
 import numpy as np
 import matplotlib.pyplot as plt
 import traceback
@@ -74,8 +75,8 @@ def convert_values(input):
 def sorting_clean(list_one, list_two):
     one = []
     two = []
-    one , two = sorting(list_one, list_two)
-    one, two = clean(one, two)
+    #one , two = sorting(list_one, list_two) --> Werte müssen nicht sortiert werden (wie dumm von mir)
+    one, two = clean(list_one, list_two)
     return one, two
 
 # sortiert die Werte anhand erster List (aufgerufen von sorting_clean)
@@ -104,7 +105,7 @@ def prozentwert(gesamtwert, prozentsatz):
 #erstellt einen Graphen zwischen 2 Kategorien + lineare Regression
 def create_graph(ax, ay, x_label, y_label, save_location):
     # Label für den Graphen erstellen
-    label = f"{x_label}{y_label}"
+    file_name = f"{x_label}_{y_label}"
 
     # Werte sortieren und -100 Werte entfernen
     ax, ay = sorting_clean(ax, ay)
@@ -116,13 +117,14 @@ def create_graph(ax, ay, x_label, y_label, save_location):
     
 
     # Graph erstellen
-    plt.figure(figsize=(10, 6))
+    plt.figure(figsize=(10, 10))
 
     #! Erstellen Sie einen Graphen mit einer linearen Regression
     # lineare Regression
     coef = np.polyfit(ax,ay,1)
     poly1d_fn = np.poly1d(coef)
-    plt.plot(ax,ay, 'b.', ax, poly1d_fn(ax), '--r') 
+    plt.plot(ax,ay, 'b.')
+    plt.plot(ax, poly1d_fn(ax), '--r', label='Lineare Regression') 
     
     # #! Erstellen des Graphen mit Regression 2. Ordnung
     # # Berechnung der Koeffizienten des Polynoms 2. Grades
@@ -135,10 +137,41 @@ def create_graph(ax, ay, x_label, y_label, save_location):
     plt.xlim(min_width, max_width)
     plt.ylim(min_height, max_height)
     plt.xticks(rotation=90)  # Drehen Sie die x-Achsenbeschriftungen um 90 Grad
-    plt.xlabel(x_label)  # Beschriftung der x-Achse
-    plt.ylabel(y_label)  # Beschriftung der y-Achse
-    plt.savefig(f"{save_location}/Circle with Regression/{x_label}/{label}.png") 
+    unit_x = get_unit(x_label)
+    unit_y = get_unit(y_label)
+    plt.xlabel(f'{x_label} {unit_x}')  # Beschriftung der x-Achse
+    plt.ylabel(f'{y_label} {unit_y}')  # Beschriftung der y-Achse
+    plt.legend(fontsize='large', loc = 'upper left')  # Legende hinzufügen
+    plt.savefig(f"{save_location}/Circle with Regression/{x_label}/{file_name}.png") 
     plt.close()
+
+def get_unit(key):
+    switcher = {
+        'Overall Category': '',
+        'First Contentful Paint Time': 'in ms',
+        'First Contentful Paint Score': '',
+        'Largest Contentful Paint Time': 'in ms',
+        'Largest Contentful PaintCP Score': '',
+        'Total Blocking Time': 'in ms',
+        'Cumulative Layout Shift Time': 'in ms',
+        'Cumulative Layout Shift Score': '',
+        'Layout Shifts': '',
+        'Speed Index': 'in ms',
+        'Time to Interactive': 'in ms',
+        'DOM Size': '',
+        'Offscreen Images': '',
+        'Total Byte Weight': 'in Bytes',
+        'Baymard Score': 'in Punkten',
+        'Anzahl a Tags': '',
+        'Anzahl p Tags': '',
+        'Anzahl div Tags': '',
+        'Anzahl IMG Tags': '',
+        'Anzahl Button Tags': ''
+    }
+    return switcher.get(key, "Invalid Key")
+
+
+    
 
 def create_graphs_one_category(data, category, keys, save_location):
     ax = data[category]
@@ -158,7 +191,17 @@ def main():
     data = extract(file, keys)
     # for key , value in data.items():
     #     print(f"{key}: {value}\n\n")
-    create_graphs_one_category(data, 'Baymard Score', keys, save_location)
+
+    for key in keys:
+        if key in unwanted:
+            continue
+        try:
+            create_graphs_one_category(data, key, keys, save_location)
+            # time.sleep(10)
+        except Exception as e:
+            print(f"Ein Fehler ist aufgetreten: {e}")
+            continue
+    # create_graphs_one_category(data, 'Anzahl Button Tags', keys, save_location)
 
 if __name__ == "__main__":
     main()

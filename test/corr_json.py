@@ -20,7 +20,7 @@ def correlate_data(dataframe, key_one, key_two):
     correlation_in_json(corr)
 
 def correlation_in_json(data):
-    with open('corr_out.jso', 'a') as f:
+    with open('correlation_out.json', 'a') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
 def correlate_all(dataframe, keys):
