@@ -18,4 +18,8 @@ def two():
         ordner_pfad = f'/Users/HugoWienhold/Desktop/Graphen/Circle with Regression/{key}'
         os.makedirs(ordner_pfad, exist_ok=True)
 
-two()
+def three():
+    for i in range(0,4):
+        print(i)
+
+three()

@@ -5,8 +5,8 @@ def load_json(file):
         data = json.load(f)
     return data
 
-def sort(data):
-    sortierte_liste = sorted(data, key=lambda x: list(x.values())[2])
+def sort(data, method):
+    sortierte_liste = sorted(data, key=lambda x: list(x.values())[method])
     return sortierte_liste
 
 def write_json(data, file):
@@ -14,9 +14,11 @@ def write_json(data, file):
         json.dump(data, f, ensure_ascii=False, indent=4)
 
 def __main__():
-    data = load_json('correlation_speed.json')
-    sortierte_liste = sort(data)
-    write_json(sortierte_liste, 'corr_sort_spearmanr_speed.json')
+    data = load_json('/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/correlation_out.json')
+    pearson = sort(data, 0)
+    spearman = sort(data, 2)
+    write_json(pearson, 'corr_sort_pearson.json')
+    write_json(spearman, 'corr_sort_spearman.json')
 
 if __name__ == "__main__":
     __main__()

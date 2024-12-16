@@ -51,7 +51,7 @@ def convert_to_numeric(values):
     numeric_values = []
     for value in values:
         try:
-            numeric_values.append(int(value))
+            numeric_values.append(float(value))
         except ValueError:
             print(f"Nicht-numerischer Wert gefunden und ignoriert: {value}")
             continue
@@ -89,7 +89,7 @@ def clean(list_one, list_two):
     # Liste von Tupeln erstellen
     list_of_tuples = list(zip(list_one, list_two))
     # Kriterium: Behalte nur Tupel, bei denen beide Elemente >= -100 sind
-    filtered_list = [tup for tup in list_of_tuples if tup[0] != -100 and tup[0] != 0 and tup[1] != -100]
+    filtered_list = [tup for tup in list_of_tuples if tup[0] != -100 and tup[1] != -100]
     # Listen wieder entpacken
     if filtered_list:  # Überprüfen, ob die gefilterte Liste nicht leer ist
         list_one, list_two = zip(*filtered_list)
@@ -142,8 +142,9 @@ def create_graph(ax, ay, x_label, y_label, save_location):
     plt.xlabel(f'{x_label} {unit_x}')  # Beschriftung der x-Achse
     plt.ylabel(f'{y_label} {unit_y}')  # Beschriftung der y-Achse
     plt.legend(fontsize='large', loc = 'upper left')  # Legende hinzufügen
-    plt.savefig(f"{save_location}/Circle with Regression/{x_label}/{file_name}.png") 
-    plt.close()
+    plt.savefig(f"{save_location}/Circle with Regression test/{x_label}/{file_name}.png") 
+    plt.show()
+    # plt.close()
 
 def get_unit(key):
     switcher = {
@@ -192,16 +193,16 @@ def main():
     # for key , value in data.items():
     #     print(f"{key}: {value}\n\n")
 
-    for key in keys:
-        if key in unwanted:
-            continue
-        try:
-            create_graphs_one_category(data, key, keys, save_location)
-            # time.sleep(10)
-        except Exception as e:
-            print(f"Ein Fehler ist aufgetreten: {e}")
-            continue
-    # create_graphs_one_category(data, 'Anzahl Button Tags', keys, save_location)
+    # for key in keys:
+    #     if key in unwanted:
+    #         continue
+    #     try:
+    #         create_graphs_one_category(data, key, keys, save_location)
+    #         # time.sleep(10)
+    #     except Exception as e:
+    #         print(f"Ein Fehler ist aufgetreten: {e}")
+    #         continue
+    create_graphs_one_category(data, 'Cumulative Layout Shift Time', keys, save_location)
 
 if __name__ == "__main__":
     main()
