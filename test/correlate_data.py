@@ -1,5 +1,5 @@
 import json
-from scipy.stats import pearsonr, spearmanr
+from scipy.stats import pearsonr, spearmanr, kendalltau
 file_path = '/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/out_corr.json'
 unwanted = ["Overall Category", "First Contentful Paint Score", "Largest Contentful PaintCP Score", "Cumulative Layout Shift Score", "Website ID"]
 
@@ -91,16 +91,16 @@ def corr(data, key_one, key_two):
     one = data[key_one]
     two = data[key_two]
     list_one, list_two = clean(one, two) 
-    print(f'list_one {key_one}: {list_one}\n {len(list_one)}\n\n')
-    print(f'list_two {key_two}: {list_two}\n {len(list_two)}')
     
-    pearson_coeff, pearson_p_value, spearman_coeff, spearman_p_value = corr_two_keys(list_one, list_two)
+    pearson_coeff, pearson_p_value, spearman_coeff, spearman_p_value, kendall_coeff, kendall_p_value = corr_two_keys(list_one, list_two)
     
     corr = {
         f"{key_one}{key_two}Pearson Coefficient": pearson_coeff,
         f"{key_one}{key_two}Pearson P-Value": pearson_p_value,
         f"{key_one}{key_two}Spearman Coefficient": spearman_coeff,
-        f"{key_one}{key_two}Spearman P-Value": spearman_p_value
+        f"{key_one}{key_two}Spearman P-Value": spearman_p_value,
+        f"{key_one}{key_two}Kendall Coefficient": kendall_coeff,
+        f"{key_one}{key_two}Kendall P-Value": kendall_p_value
         }
     correlation_in_json(corr)
     
@@ -108,7 +108,8 @@ def corr(data, key_one, key_two):
 def corr_two_keys(list_one, list_two):
     pearson_coeff, pearson_p_value = pearsonr(list_one, list_two)
     spearman_coeff, spearman_p_value = spearmanr(list_one, list_two)
-    return pearson_coeff, pearson_p_value, spearman_coeff, spearman_p_value
+    kendall_coeff, kendall_p_value = kendalltau(list_one, list_two)
+    return pearson_coeff, pearson_p_value, spearman_coeff, spearman_p_value, kendall_coeff, kendall_p_value
 
 def correlation_in_json(data):
     with open('/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/correlation_out.json', 'a') as f:

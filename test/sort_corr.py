@@ -17,8 +17,10 @@ def __main__():
     data = load_json('/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/correlation_out.json')
     pearson = sort(data, 0)
     spearman = sort(data, 2)
+    kendall = sort(data, 4)
     write_json(pearson, 'corr_sort_pearson.json')
     write_json(spearman, 'corr_sort_spearman.json')
+    write_json(kendall, 'corr_sort_kendall.json')
 
 if __name__ == "__main__":
     __main__()
