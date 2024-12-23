@@ -1,5 +1,5 @@
 {
-    "editor.wordWrap": "on",
+    "editor.wordWrap": "off",
     "editor.wordBasedSuggestions": "off",
     "cSpell.words": [
         "Baymard",
