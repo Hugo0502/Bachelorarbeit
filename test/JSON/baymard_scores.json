@@ -27,7 +27,7 @@
         "Overall UX Performance": 34.6,
         "Desktop": 36.7,
         "Homepage_Navigation": 32.7,
-        "Homepage": -100
+        "Homepage": 92.9
     },
     "adobe.com": {
         "Overall UX Performance": -100,
@@ -67,15 +67,15 @@
     },
     "allstate.com": {
         "Overall UX Performance": -100,
-        "Desktop": -100,
+        "Desktop": 35,
         "Homepage_Navigation": 50.1,
         "Homepage": 45.7
     },
     "amazon.com": {
-        "Overall UX Performance": -100,
+        "Overall UX Performance": 44,
         "Desktop": 48.7,
-        "Homepage_Navigation": 46.0,
-        "Homepage": -100
+        "Homepage_Navigation": -16.3,
+        "Homepage": 30.4
     },
     "ae.com": {
         "Overall UX Performance": 15.5,

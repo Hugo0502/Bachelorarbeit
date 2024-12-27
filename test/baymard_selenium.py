@@ -280,17 +280,23 @@ def scrape_data(url):
         #! overall_found gibt an ob die Kategorie Overall UX Performance existiert -> dies beeinflusst wo welche Daten in der Liste titles/subtitles stehen -> daher muss eine Verschiebung von 1 eingebaut werden je nachdem ob Overall UX Performance existiert oder nicht
         overall_found = 0 
         
-        if "Overall UX Performance" in titles[0].text:
+        if titles[0].text.find("Overall") != -1:
             overall_found = 1
-            try:
-                performance_value = float(subtitles[0].text.split("Performance:")[1].strip())
-            except:
-                performance_value = -100
-            data[website_name]["Overall UX Performance"] = performance_value
-        else:
-            data[website_name]["Overall UX Performance"] = -100
+        #     try:
+        #         performance_value = float(subtitles[0].text.split("Performance:")[1].strip().replace("~", ""))
+        #     except:
+        #         performance_value = -100
+        #     data[website_name]["Overall UX Performance"] = performance_value
+        # else:
+        #     data[website_name]["Overall UX Performance"] = -100
 
         #! hier die anderen 3 Kategorien in das Dict schreiben
+
+        try:
+            overall_text = driver.find_element(By.XPATH, "//span[contains(text(), 'Performance')]/following-sibling::span/span[1]")
+            overall = float(overall_text.text.replace("~", ""))
+        except:
+            overall = -100
         try:
             desktop_text = subtitles[0 + overall_found].text.split("Performance:")[1].strip().replace("~", "")
             desktop = float(desktop_text)
@@ -307,11 +313,13 @@ def scrape_data(url):
         except:
             homepage = -100
 
+        data[website_name]["Overall UX Performance"] = overall
         data[website_name]["Desktop"] = desktop
         data[website_name]["Homepage_Navigation"] = homepage_navigation
         data[website_name]["Homepage"] = homepage
 
         return data
+    
     except Exception as e:
         print(f"Error scraping {url}: {e}")
         return {

@@ -1,5 +1,6 @@
 
 import os
+import json
 
 def one():
     ax = [1,2,3,4,5]
@@ -22,4 +23,24 @@ def three():
     for i in range(0,4):
         print(i)
 
-three()
+
+def read_json(file_path):
+    with open(file_path, 'r') as file:
+        data = json.load(file)
+    return data
+
+
+def four():
+    all = read_json('/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/out_corr.json')
+    baymard = read_json('/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/baymard_scores.json')
+
+    for all_key in all.keys():
+        for baymard_key in baymard.keys():
+            if all_key.find(baymard_key) != -1:
+                all[all_key].update(baymard[baymard_key])
+
+    with open('/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/merged_data.json', 'w') as file:
+        json.dump(all, file, ensure_ascii=False, indent=4)
+
+def five():
+    print(float(subtitles[0].text.split("Performance:")[1].strip().replace("~", "")))
