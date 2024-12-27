@@ -270,14 +270,16 @@ def scrape_data(url):
         driver.get(url)
 
         # Element 1: Website Name
-        website_name = driver.find_element(By.CLASS_NAME, "truncate").text
+
 
         # Daten-Dictionary vorbereiten
-        data = {website_name: {}}
 
         # Finden aller relevanten Elemente mit den Klassen _title_hfdxh_10 und _subTitle_hfdxh_23
-        titles = driver.find_elements(By.CLASS_NAME, "_title_hfdxh_10")
-        subtitles = driver.find_elements(By.CLASS_NAME, "_subTitle_hfdxh_23")
+        parent_div = driver.find_elements(By.CLASS_NAME, "_d3Container_1u38f_9")
+        for i in range(5):
+            for child in parent_div[i].find_elements(By.XPATH, ".//*"):
+                if child.get_attribute('data-site-review-id') is None: continue
+                
 
 
         # Prüfung, ob "Overall UX Performance" existiert
