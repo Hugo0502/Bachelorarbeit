@@ -297,7 +297,7 @@ def scrape_data(url):
         #! hier die anderen 3 Kategorien in das Dict schreiben
 
         try:
-            overall_text = driver.find_element(By.XPATH, "//span[contains(text(), 'Performance')]/following-sibling::span/span[1]")
+            overall_text = subtitles[0]
             overall = clean_tag(overall_text)
         except:
             overall = -100
@@ -316,6 +316,7 @@ def scrape_data(url):
             homepage = clean_tag(homepage_text)
         except:
             homepage = -100
+        
 
         data[website_name]["Overall UX Performance"] = overall
         data[website_name]["Desktop"] = desktop
@@ -338,7 +339,7 @@ def scrape_data(url):
         driver.quit()
 
 def parallel_scrape(urls):
-    with multiprocessing.Pool(processes=4) as pool:
+    with multiprocessing.Pool(processes=8) as pool:
         results = pool.map(scrape_data, urls)
     all_data = {}
     for result in results:
@@ -378,7 +379,7 @@ def main():
 
     all_data = parallel_scrape(urls)
 
-    write_to_json(all_data, '/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/baymard_scores_1.json')
+    write_to_json(all_data, '/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/baymard_scores_2.json')
 
     end_time = time.time()
     print(f"Time: {int(end_time - start_time)}s")
