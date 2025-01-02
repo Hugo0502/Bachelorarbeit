@@ -4,6 +4,7 @@ import json
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
+from baymard_selenium import clean_tag as clean_tag
 
 def two():
     data = read_json('/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/merged_data_1.json')
@@ -58,5 +59,38 @@ def six():
     print(f"Time: {int(end_time - start_time)}s")
     print(results)
 
-two()
 
+
+def seven():
+    driver = webdriver.Chrome()
+    driver.get("https://baymard.com/ux-benchmark/case-studies/adidas")
+    try:
+        wrapper = driver.find_elements(By.CLASS_NAME, "_wrapper_7m4vv_1")
+        wrapper[1].click()
+        time.sleep(5)
+    except:
+        print("No more buttons")
+    
+    try:
+        new_wrapper = driver.find_elements(By.CLASS_NAME, "_wrapper_7m4vv_1")
+        new_wrapper[2].click()
+        time.sleep(5)
+    except:
+        print("No more buttons")
+
+    try:
+        subtitles = driver.find_elements(By.CLASS_NAME, "_subTitle_hfdxh_23")
+
+        print(f'Overall: {clean_tag(subtitles[0])}')
+        print(f'Desktop: {clean_tag(subtitles[1])}')
+        print(f'Homepage & Navigation: {clean_tag(subtitles[2])}')
+        print(f'Homepage: {clean_tag(subtitles[3])}')
+    
+    except:
+        print("No more subtitles")
+
+    
+    while True:
+        continue
+
+seven()
