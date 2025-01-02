@@ -5,6 +5,8 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 from baymard_selenium import clean_tag as clean_tag
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 def two():
     data = read_json('/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/merged_data_1.json')
@@ -63,28 +65,54 @@ def six():
 
 def seven():
     driver = webdriver.Chrome()
+    driver.delete_all_cookies()
+
     driver.get("https://baymard.com/ux-benchmark/case-studies/adidas")
+    time.sleep(2)
+    try:
+        cookie_button = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "CybotCookiebotDialogBodyButtonAccept")))
+        cookie_button.click()
+        time.sleep(1)
+    except Exception as e:
+        print(f'Cookie error {url}')
+        print(e)
+
     try:
         wrapper = driver.find_elements(By.CLASS_NAME, "_wrapper_7m4vv_1")
-        wrapper[1].click()
-        time.sleep(5)
-    except:
-        print("No more buttons")
+        if len(wrapper) <= 4:
+            wrapper[1].click()
+        time.sleep(1)
+
+    except Exception as e:
+        print(e)
     
     try:
         new_wrapper = driver.find_elements(By.CLASS_NAME, "_wrapper_7m4vv_1")
         new_wrapper[2].click()
-        time.sleep(5)
-    except:
-        print("No more buttons")
+        time.sleep(1)
+
+    except Exception as e:
+        print(e)
+    
 
     try:
         subtitles = driver.find_elements(By.CLASS_NAME, "_subTitle_hfdxh_23")
-
-        print(f'Overall: {clean_tag(subtitles[0])}')
-        print(f'Desktop: {clean_tag(subtitles[1])}')
-        print(f'Homepage & Navigation: {clean_tag(subtitles[2])}')
-        print(f'Homepage: {clean_tag(subtitles[3])}')
+        try:
+            print(f'Overall: {clean_tag(subtitles[0])}')
+        except:
+            print(f'Overall: -100')
+        try:
+            print(f'Desktop: {clean_tag(subtitles[1])}')
+        except:
+            print(f'Desktop: -100')
+        try:
+            print(f'Homepage Category: {clean_tag(subtitles[2])}')
+        except:
+            print(f'Homepage Category: -100')
+        try:
+            print(f'Homepage: {clean_tag(subtitles[3])}')
+        except:
+            print(f'Homepage: -100')
     
     except:
         print("No more subtitles")

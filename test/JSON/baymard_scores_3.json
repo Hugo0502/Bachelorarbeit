@@ -1,0 +1,32 @@
+{
+    "abcam.com": {
+        "Overall UX Performance": 22.1,
+        "Desktop": 34.5,
+        "Homepage_Navigation": 70.3,
+        "Homepage": 58.8
+    },
+    "abelandcole.co.uk": {
+        "Overall UX Performance": 8.5,
+        "Desktop": 8.5,
+        "Homepage_Navigation": 67.2,
+        "Homepage": 107.3
+    },
+    "academy.com": {
+        "Overall UX Performance": 36.6,
+        "Desktop": 36.6,
+        "Homepage_Navigation": 43.6,
+        "Homepage": -13.3
+    },
+    "acehardware.com": {
+        "Overall UX Performance": 49.4,
+        "Desktop": 49.4,
+        "Homepage_Navigation": 58.0,
+        "Homepage": 42.1
+    },
+    "adidas.co.uk": {
+        "Overall UX Performance": 37.4,
+        "Desktop": 39.4,
+        "Homepage_Navigation": 58.3,
+        "Homepage": 93.2
+    }
+}

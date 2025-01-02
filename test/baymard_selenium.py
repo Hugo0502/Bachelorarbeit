@@ -1,8 +1,10 @@
 import multiprocessing
 import time
+import json
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-import json
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 urls = [
 "https://baymard.com/ux-benchmark/case-studies/abcam",
@@ -10,11 +12,11 @@ urls = [
 "https://baymard.com/ux-benchmark/case-studies/academy",
 "https://baymard.com/ux-benchmark/case-studies/ace-hardware",
 "https://baymard.com/ux-benchmark/case-studies/adidas",
-"https://baymard.com/ux-benchmark/case-studies/adobe",
-"https://baymard.com/ux-benchmark/case-studies/advance-auto-parts",
-"https://baymard.com/ux-benchmark/case-studies/airbnb",
-"https://baymard.com/ux-benchmark/case-studies/albertsons",
-"https://baymard.com/ux-benchmark/case-studies/aldi",
+# "https://baymard.com/ux-benchmark/case-studies/adobe",
+# "https://baymard.com/ux-benchmark/case-studies/advance-auto-parts",
+# "https://baymard.com/ux-benchmark/case-studies/airbnb",
+# "https://baymard.com/ux-benchmark/case-studies/albertsons",
+# "https://baymard.com/ux-benchmark/case-studies/aldi",
 # "https://baymard.com/ux-benchmark/case-studies/allegro-medical",
 # "https://baymard.com/ux-benchmark/case-studies/allstate",
 # "https://baymard.com/ux-benchmark/case-studies/amazon",
@@ -267,8 +269,17 @@ def scrape_data(url):
     driver = webdriver.Chrome(options=op)
 
     try:
+        driver.delete_all_cookies()
+
         driver.get(url)
         time.sleep(2)
+        try:
+            cookie_button = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "CybotCookiebotDialogBodyButtonAccept")))
+            cookie_button.click()
+            time.sleep(1)
+        except Exception as e:
+            print(f'Cookie error {url}')
+            print(e)
         # Element 1: Website Name
 
         website_name = driver.find_element(By.CLASS_NAME, "truncate").text
@@ -284,15 +295,41 @@ def scrape_data(url):
         
         if titles[0].text.find("Overall") != -1:
             overall_found = 1
-            try:
-                wrapper = driver.find_elements(By.CLASS_NAME, "_wrapper_7m4vv_1")
-                wrapper[1].click()
-                time.sleep(2)
-            except:
-                print(f"No more buttons {url}")
 
         #! hier die anderen 3 Kategorien in das Dict schreiben
         
+        try:
+            wrapper = driver.find_elements(By.CLASS_NAME, "_wrapper_7m4vv_1")
+            # Kein Overall und alles eingeklappt
+            if len(wrapper) <= 3 and overall_found == 0:
+                # Desktop ausklappen
+                wrapper[0].click()
+                # Homepage & Category ausklappen --> danach alles sichtbar
+                new_wrapper = driver.find_elements(By.CLASS_NAME, "_wrapper_7m4vv_1")
+                new_wrapper[1].click()
+
+            # Kein Overall und Desktop ausgeklappt
+            elif len(wrapper) > 3 and overall_found == 0:
+                # Homepage & Category ausklappen --> danach alles sichtbar
+                wrapper[1].click()
+
+            # Overall + Desktop NICHT ausgeklappt
+            elif len(wrapper) <= 3 and overall_found == 1:
+                # Desktop ausklappen
+                wrapper[1].click()
+                # Homepage & Category ausklappen --> danach alles sichtbar
+                new_wrapper = driver.find_elements(By.CLASS_NAME, "_wrapper_7m4vv_1")
+                new_wrapper[2].click()
+
+            # Overall + Desktop ausgeklappt
+            elif len(wrapper) > 3 and overall_found == 1:
+                # Homepage & Category ausklappen --> danach alles sichtbar
+                wrapper[2].click()
+
+            time.sleep(1)
+
+        except Exception as e:
+            print(e)
 
         subtitles = driver.find_elements(By.CLASS_NAME, "_subTitle_hfdxh_23")
 
@@ -311,6 +348,11 @@ def scrape_data(url):
             homepage_navigation = clean_tag(homepage_navigation_text)
         except:
             homepage_navigation = -100
+        try:
+            homepage_text = subtitles[2 + overall_found]
+            homepage = clean_tag(homepage_text)
+        except:
+            homepage = -100
         
 
         # Daten-Dictionary vorbereiten
@@ -319,7 +361,8 @@ def scrape_data(url):
         data[website_name]["Overall UX Performance"] = overall
         data[website_name]["Desktop"] = desktop
         data[website_name]["Homepage_Navigation"] = homepage_navigation
-
+        data[website_name]["Homepage"] = homepage
+        print(data)
         return data
     
     except Exception as e:
@@ -329,13 +372,14 @@ def scrape_data(url):
                 "Overall UX Performance": -100,
                 "Desktop": -100,
                 "Homepage_Navigation": -100,
+                # "Homepage": -100
             }
         }
     finally:
         driver.quit()
 
 def parallel_scrape(urls):
-    with multiprocessing.Pool(processes=5) as pool:
+    with multiprocessing.Pool(processes=4) as pool:
         results = pool.map(scrape_data, urls)
     all_data = {}
     for result in results:
@@ -357,6 +401,9 @@ def clean_tag(tag):
     score = float(score_text.split()[0])
 
     return score
+
+
+        
 
 
 def main():
