@@ -1,6 +1,6 @@
 import json
 from scipy.stats import pearsonr, spearmanr, kendalltau
-file_path = '/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/out_corr.json'
+file_path = '/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/merged_data_1.json'
 unwanted = ["Overall Category", "First Contentful Paint Score", "Largest Contentful PaintCP Score", "Cumulative Layout Shift Score", "Website ID"]
 
 def read_json(file_path):
@@ -78,8 +78,8 @@ def clean(list_one, list_two):
     return list_one, list_two
 
 def correlate(data, keys):
-    for i in range(0, 16):
-        for j in range(0,16):
+    for i in range(len(keys)):
+        for j in range(len(keys)):
             if j != i:
                 corr(data, keys[i], keys[j])
 
@@ -112,7 +112,7 @@ def corr_two_keys(list_one, list_two):
     return pearson_coeff, pearson_p_value, spearman_coeff, spearman_p_value, kendall_coeff, kendall_p_value
 
 def correlation_in_json(data):
-    with open('/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/correlation_out.json', 'a') as f:
+    with open('/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/correlation_merged.json', 'a') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
 def main():

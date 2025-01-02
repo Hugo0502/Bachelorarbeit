@@ -14,13 +14,13 @@ def write_json(data, file):
         json.dump(data, f, ensure_ascii=False, indent=4)
 
 def __main__():
-    data = load_json('/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/correlation_out.json')
+    data = load_json('/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/correlation_merged.json')
     pearson = sort(data, 0)
     spearman = sort(data, 2)
     kendall = sort(data, 4)
-    write_json(pearson, 'corr_sort_pearson.json')
-    write_json(spearman, 'corr_sort_spearman.json')
-    write_json(kendall, 'corr_sort_kendall.json')
+    write_json(pearson, '/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/corr_sort_pearson.json')
+    write_json(spearman, '/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/corr_sort_spearman.json')
+    write_json(kendall, '/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/corr_sort_kendall.json')
 
 if __name__ == "__main__":
     __main__()

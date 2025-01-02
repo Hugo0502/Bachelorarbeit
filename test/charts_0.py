@@ -75,7 +75,7 @@ def convert_values(input):
 def sorting_clean(list_one, list_two):
     one = []
     two = []
-    #one , two = sorting(list_one, list_two) --> Werte müssen nicht sortiert werden (wie dumm von mir)
+    # one , two = sorting(list_one, list_two) # --> Werte müssen nicht sortiert werden (wie dumm von mir)
     one, two = clean(list_one, list_two)
     return one, two
 
@@ -110,6 +110,10 @@ def create_graph(ax, ay, x_label, y_label, save_location):
     # Werte sortieren und -100 Werte entfernen
     ax, ay = sorting_clean(ax, ay)
 
+    sorted_indices = np.argsort(ax)
+    ax = np.array(ax)[sorted_indices]
+    ay = np.array(ay)[sorted_indices]
+
     # min und max Werte für die Achsen berechnen
     min_width , max_width = min(ax) - prozentwert(max(ax),5), max(ax) + prozentwert(max(ax),5)
     min_height, max_height = min(ay) - prozentwert(max(ay),5), max(ay) + prozentwert(max(ay),5)
@@ -121,18 +125,19 @@ def create_graph(ax, ay, x_label, y_label, save_location):
 
     #! Erstellen Sie einen Graphen mit einer linearen Regression
     # lineare Regression
-    coef = np.polyfit(ax,ay,1)
-    poly1d_fn = np.poly1d(coef)
-    plt.plot(ax,ay, 'b.')
-    plt.plot(ax, poly1d_fn(ax), '--r', label='Lineare Regression') 
+    # coef = np.polyfit(ax,ay,1)
+    # poly1d_fn = np.poly1d(coef)
+    # plt.plot(ax,ay, 'b.')
+    # plt.plot(ax, poly1d_fn(ax), '--r', label='Lineare Regression') 
     
     # #! Erstellen des Graphen mit Regression 2. Ordnung
-    # # Berechnung der Koeffizienten des Polynoms 2. Grades
-    # coefficients = np.polyfit(ax, ay, 2)
-    # # Erstellen der Polynomfunktion
-    # poly2d_fn = np.poly1d(coefficients)
-    # plt.plot(ax, ay, 'b.', label='Originaldaten') 
-    # plt.plot(ax, poly2d_fn(ax), '--r', label='Quadratische Regression')
+    # Berechnung der Koeffizienten des Polynoms 2. Grades
+    coefficients = np.polyfit(ax, ay, 2)
+    # Erstellen der Polynomfunktion
+    poly2d_fn = np.poly1d([])
+    poly2d_fn = np.poly1d(coefficients)
+    plt.plot(ax, ay, 'b.')
+    plt.plot(ax, poly2d_fn(ax), '--r', label='Quadratische Regression')
 
     plt.xlim(min_width, max_width)
     plt.ylim(min_height, max_height)
@@ -142,9 +147,9 @@ def create_graph(ax, ay, x_label, y_label, save_location):
     plt.xlabel(f'{x_label} {unit_x}')  # Beschriftung der x-Achse
     plt.ylabel(f'{y_label} {unit_y}')  # Beschriftung der y-Achse
     plt.legend(fontsize='large', loc = 'upper left')  # Legende hinzufügen
-    plt.savefig(f"{save_location}/Circle with Regression test/{x_label}/{file_name}.png") 
-    plt.show()
-    # plt.close()
+    plt.savefig(f"{save_location}/Circle with Regression Quadrat/{x_label}/{file_name}.png") 
+    # plt.show()
+    plt.close()
 
 def get_unit(key):
     switcher = {
@@ -167,7 +172,12 @@ def get_unit(key):
         'Anzahl p Tags': '',
         'Anzahl div Tags': '',
         'Anzahl IMG Tags': '',
-        'Anzahl Button Tags': ''
+        'Anzahl Button Tags': '',
+        'Overall UX Performance': 'in Punkten',
+        'Desktop UX Performance': 'in Punkten',
+        'Homepage & Navigation UX Performance': 'in Punkten',
+        'Homepage UX Performance': 'in Punkten',
+
     }
     return switcher.get(key, "Invalid Key")
 
@@ -187,22 +197,22 @@ def create_graphs_one_category(data, category, keys, save_location):
 # 'Layout Shifts', 'Speed Index', 'Time to Interactive', 'DOM Size', 'Offscreen Images', 'Total Byte Weight', 'Baymard Score', 
 # 'Anzahl a Tags', 'Anzahl p Tags', 'Anzahl div Tags', 'Anzahl IMG Tags', 'Anzahl Button Tags'
 def main():
-    file = "/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/out_corr.json"
+    file = "/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/merged_data_1.json"
     keys = get_keys(file)
     data = extract(file, keys)
     # for key , value in data.items():
     #     print(f"{key}: {value}\n\n")
 
-    # for key in keys:
-    #     if key in unwanted:
-    #         continue
-    #     try:
-    #         create_graphs_one_category(data, key, keys, save_location)
-    #         # time.sleep(10)
-    #     except Exception as e:
-    #         print(f"Ein Fehler ist aufgetreten: {e}")
-    #         continue
-    create_graphs_one_category(data, 'Cumulative Layout Shift Time', keys, save_location)
+    for key in keys:
+        if key in unwanted:
+            continue
+        try:
+            create_graphs_one_category(data, key, keys, save_location)
+            # time.sleep(10)
+        except Exception as e:
+            print(f"Ein Fehler ist aufgetreten: {e}")
+            continue
+    # create_graphs_one_category(data, 'Cumulative Layout Shift Time', keys, save_location)
 
 if __name__ == "__main__":
     main()
