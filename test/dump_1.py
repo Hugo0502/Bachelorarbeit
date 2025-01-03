@@ -23,14 +23,14 @@ def read_json(file_path):
 
 def four():
     all = read_json('/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/out_corr.json')
-    baymard = read_json('/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/baymard_scores_2.json')
+    baymard = read_json('/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/baymard_scores_3.json')
 
     for all_key in all.keys():
         for baymard_key in baymard.keys():
             if all_key.find(baymard_key) != -1:
                 all[all_key].update(baymard[baymard_key])
 
-    with open('/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/merged_data_1.json', 'w') as file:
+    with open('/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/merged_data.json', 'w') as file:
         json.dump(all, file, ensure_ascii=False, indent=4)
 
 
@@ -74,7 +74,6 @@ def seven():
         cookie_button.click()
         time.sleep(1)
     except Exception as e:
-        print(f'Cookie error {url}')
         print(e)
 
     try:
@@ -121,4 +120,4 @@ def seven():
     while True:
         continue
 
-seven()
+four()

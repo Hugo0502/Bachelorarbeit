@@ -147,7 +147,7 @@ def create_graph(ax, ay, x_label, y_label, save_location):
     plt.xlabel(f'{x_label} {unit_x}')  # Beschriftung der x-Achse
     plt.ylabel(f'{y_label} {unit_y}')  # Beschriftung der y-Achse
     plt.legend(fontsize='large', loc = 'upper left')  # Legende hinzufügen
-    plt.savefig(f"{save_location}/Circle with Regression Quadrat/{x_label}/{file_name}.png") 
+    plt.savefig(f"{save_location}/Circle with Regression/{x_label}/{file_name}.png") 
     # plt.show()
     plt.close()
 
@@ -197,7 +197,7 @@ def create_graphs_one_category(data, category, keys, save_location):
 # 'Layout Shifts', 'Speed Index', 'Time to Interactive', 'DOM Size', 'Offscreen Images', 'Total Byte Weight', 'Baymard Score', 
 # 'Anzahl a Tags', 'Anzahl p Tags', 'Anzahl div Tags', 'Anzahl IMG Tags', 'Anzahl Button Tags'
 def main():
-    file = "/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/merged_data_1.json"
+    file = "/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/merged_data.json"
     keys = get_keys(file)
     data = extract(file, keys)
     # for key , value in data.items():
