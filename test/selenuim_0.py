@@ -6,12 +6,15 @@ import json
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-out_json = 'out.json'
+out_json = '/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/save.json'
 
 def scrape_page(url): 
     try:
+        print(f"Scraping {url}")
         result = []
-        driver = webdriver.Chrome()
+        op = webdriver.ChromeOptions()
+        op.add_argument('--headless')
+        driver = webdriver.Chrome(options=op)
         driver.get(url)
         # Warten Sie, bis der gesamte Body geladen ist
         WebDriverWait(driver, 60).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
@@ -29,7 +32,7 @@ def scrape_page(url):
         print(f"Error in scraping {url}: {e}") 
 
 def scrape_pages_mp(urls): 
-	with mp.Pool(4) as p: 
+	with mp.Pool(8) as p: 
 		results = p.map(scrape_page, urls) 
 	return results 
 
@@ -56,7 +59,7 @@ def write_json(results):
         except Exception as e:
             print(f"Error in writing: {e}")
             continue
-    with open(out_json, 'w') as f:
+    with open('out_new_test.json', 'w') as f:
         json.dump(data, f, indent=4)
 
 if __name__ == "__main__": 

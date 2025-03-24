@@ -1,0 +1,1522 @@
+{
+    "Homepage UX PerformanceLayout Shifts": [
+        -0.15544047735030983,
+        0.04870089976457744
+    ],
+    "Layout ShiftsHomepage UX Performance": [
+        -0.15544047735030983,
+        0.04870089976457744
+    ],
+    "Baymard ScoreLargest Contentful Paint Time": [
+        -0.14672206185230482,
+        0.014551224829153686
+    ],
+    "Largest Contentful Paint TimeBaymard Score": [
+        -0.1467220618523048,
+        0.014551224829153686
+    ],
+    "Largest Contentful Paint TimeOverall UX Performance": [
+        -0.14542040242602494,
+        0.015017748829092075
+    ],
+    "Overall UX PerformanceLargest Contentful Paint Time": [
+        -0.14542040242602494,
+        0.015017748829092075
+    ],
+    "Desktop UX PerformanceLargest Contentful Paint Time": [
+        -0.14037986991793958,
+        0.017979743225366728
+    ],
+    "Largest Contentful Paint TimeDesktop UX Performance": [
+        -0.14037986991793958,
+        0.01797974322536673
+    ],
+    "Homepage & Navigation UX PerformanceLargest Contentful Paint Time": [
+        -0.10896589759297641,
+        0.09533444541917295
+    ],
+    "Largest Contentful Paint TimeHomepage & Navigation UX Performance": [
+        -0.10896589759297641,
+        0.09533444541917295
+    ],
+    "Layout ShiftsHomepage & Navigation UX Performance": [
+        -0.10650405734585495,
+        0.13493244441109395
+    ],
+    "Homepage & Navigation UX PerformanceLayout Shifts": [
+        -0.10650405734585494,
+        0.13493244441109395
+    ],
+    "DOM SizeHomepage UX Performance": [
+        -0.08038593904109378,
+        0.24426298921391565
+    ],
+    "Homepage UX PerformanceDOM Size": [
+        -0.08038593904109378,
+        0.24426298921391568
+    ],
+    "DOM SizeHomepage & Navigation UX Performance": [
+        -0.078351592538859,
+        0.19316660918155426
+    ],
+    "Homepage & Navigation UX PerformanceDOM Size": [
+        -0.078351592538859,
+        0.19316660918155426
+    ],
+    "Homepage UX PerformanceOffscreen Images": [
+        -0.0771099269170352,
+        0.382364122317368
+    ],
+    "Offscreen ImagesHomepage UX Performance": [
+        -0.07710992691703518,
+        0.3823641223173689
+    ],
+    "Homepage UX PerformanceLargest Contentful Paint Time": [
+        -0.06838824672491293,
+        0.3202345237044796
+    ],
+    "Largest Contentful Paint TimeHomepage UX Performance": [
+        -0.06838824672491293,
+        0.32023452370447963
+    ],
+    "Layout ShiftsBaymard Score": [
+        -0.06756175087628563,
+        0.306201748324056
+    ],
+    "Baymard ScoreLayout Shifts": [
+        -0.06756175087628563,
+        0.306201748324056
+    ],
+    "Baymard ScoreFirst Contentful Paint Time": [
+        -0.06388448421127237,
+        0.28110578307771544
+    ],
+    "First Contentful Paint TimeBaymard Score": [
+        -0.06388448421127237,
+        0.28110578307771544
+    ],
+    "Overall UX PerformanceLayout Shifts": [
+        -0.06240518003107329,
+        0.3485885783080171
+    ],
+    "Layout ShiftsOverall UX Performance": [
+        -0.06240518003107329,
+        0.34858857830801715
+    ],
+    "Homepage UX PerformanceAnzahl a Tags": [
+        -0.05077828196164702,
+        0.4653172269042482
+    ],
+    "Anzahl a TagsHomepage UX Performance": [
+        -0.050778281961647,
+        0.4653172269042482
+    ],
+    "Desktop UX PerformanceLayout Shifts": [
+        -0.050151579074466636,
+        0.4484654491592079
+    ],
+    "Layout ShiftsDesktop UX Performance": [
+        -0.05015157907446662,
+        0.4484654491592079
+    ],
+    "Total Blocking TimeHomepage & Navigation UX Performance": [
+        -0.048261773395298906,
+        0.41800538865098485
+    ],
+    "Homepage & Navigation UX PerformanceTotal Blocking Time": [
+        -0.048261773395298906,
+        0.41800538865098485
+    ],
+    "Homepage & Navigation UX PerformanceAnzahl a Tags": [
+        -0.046227005496639884,
+        0.42711891102306204
+    ],
+    "Anzahl a TagsHomepage & Navigation UX Performance": [
+        -0.046227005496639884,
+        0.42711891102306204
+    ],
+    "Anzahl div TagsHomepage & Navigation UX Performance": [
+        -0.0453343932847671,
+        0.43818851617666804
+    ],
+    "Homepage & Navigation UX PerformanceAnzahl div Tags": [
+        -0.04533439328476709,
+        0.43818851617666804
+    ],
+    "Homepage UX PerformanceAnzahl div Tags": [
+        -0.04226637587423062,
+        0.51813076663018
+    ],
+    "Anzahl div TagsHomepage UX Performance": [
+        -0.042266375874230606,
+        0.5181307666301799
+    ],
+    "Cumulative Layout Shift TimeBaymard Score": [
+        -0.03757395940483448,
+        0.5263627667769293
+    ],
+    "Baymard ScoreCumulative Layout Shift Time": [
+        -0.037573959404834475,
+        0.5263627667769293
+    ],
+    "Desktop UX PerformanceCumulative Layout Shift Time": [
+        -0.03644304922400641,
+        0.5410903545534488
+    ],
+    "Cumulative Layout Shift TimeDesktop UX Performance": [
+        -0.03644304922400641,
+        0.5410903545534498
+    ],
+    "Homepage UX PerformanceTotal Byte Weight": [
+        -0.035783020051170976,
+        0.6025872306319996
+    ],
+    "Total Byte WeightHomepage UX Performance": [
+        -0.035783020051170976,
+        0.6025872306319996
+    ],
+    "First Contentful Paint TimeDesktop UX Performance": [
+        -0.0341950501536031,
+        0.6183929799494094
+    ],
+    "Desktop UX PerformanceFirst Contentful Paint Time": [
+        -0.03419505015360309,
+        0.6183929799494094
+    ],
+    "Overall UX PerformanceCumulative Layout Shift Time": [
+        -0.03391400450736761,
+        0.568465860839016
+    ],
+    "Cumulative Layout Shift TimeOverall UX Performance": [
+        -0.033914004507367604,
+        0.568465860839016
+    ],
+    "Anzahl IMG TagsHomepage UX Performance": [
+        -0.032722906134801215,
+        0.6268054664586793
+    ],
+    "Homepage UX PerformanceAnzahl IMG Tags": [
+        -0.032722906134801215,
+        0.6268054664586793
+    ],
+    "Anzahl p TagsOffscreen Images": [
+        -0.030141740301925592,
+        0.6334647150194879
+    ],
+    "Offscreen ImagesAnzahl p Tags": [
+        -0.030141740301925585,
+        0.6334647150194879
+    ],
+    "Homepage UX PerformanceAnzahl Button Tags": [
+        -0.030101201612741907,
+        0.6188692737535064
+    ],
+    "Anzahl Button TagsHomepage UX Performance": [
+        -0.030101201612741907,
+        0.6188692737535064
+    ],
+    "First Contentful Paint TimeOverall UX Performance": [
+        -0.02995004944387176,
+        0.6235181605085645
+    ],
+    "Overall UX PerformanceFirst Contentful Paint Time": [
+        -0.02995004944387176,
+        0.6235181605085645
+    ],
+    "Cumulative Layout Shift TimeHomepage UX Performance": [
+        -0.029591723691509777,
+        0.6650382552318078
+    ],
+    "Homepage UX PerformanceCumulative Layout Shift Time": [
+        -0.029591723691509766,
+        0.6650382552318078
+    ],
+    "Homepage & Navigation UX PerformanceAnzahl Button Tags": [
+        -0.02900729933834767,
+        0.6121169396444309
+    ],
+    "Anzahl Button TagsHomepage & Navigation UX Performance": [
+        -0.02900729933834766,
+        0.6121169396444309
+    ],
+    "Anzahl IMG TagsHomepage & Navigation UX Performance": [
+        -0.027824021709160363,
+        0.624684586251771
+    ],
+    "Homepage & Navigation UX PerformanceAnzahl IMG Tags": [
+        -0.02782402170916036,
+        0.624684586251771
+    ],
+    "Speed IndexHomepage & Navigation UX Performance": [
+        -0.021790661805093602,
+        0.6110785770020778
+    ],
+    "Homepage & Navigation UX PerformanceSpeed Index": [
+        -0.021790661805093602,
+        0.6110785770020778
+    ],
+    "First Contentful Paint TimeHomepage UX Performance": [
+        -0.014666893986779686,
+        0.8289264399865869
+    ],
+    "Homepage UX PerformanceFirst Contentful Paint Time": [
+        -0.014666893986779686,
+        0.8289264399865869
+    ],
+    "Speed IndexOverall UX Performance": [
+        -0.009318493450821199,
+        0.8495545362612004
+    ],
+    "Overall UX PerformanceSpeed Index": [
+        -0.009318493450821192,
+        0.8495545362612004
+    ],
+    "Homepage & Navigation UX PerformanceAnzahl p Tags": [
+        -0.00902556431287573,
+        0.8666540279684399
+    ],
+    "Anzahl p TagsHomepage & Navigation UX Performance": [
+        -0.009025564312875723,
+        0.8666540279684399
+    ],
+    "Desktop UX PerformanceSpeed Index": [
+        -0.008378331876077887,
+        0.8153005046554402
+    ],
+    "Speed IndexDesktop UX Performance": [
+        -0.00837833187607788,
+        0.8153005046554402
+    ],
+    "Speed IndexBaymard Score": [
+        0.003204956360790633,
+        0.8723136785595879
+    ],
+    "Baymard ScoreSpeed Index": [
+        0.0032049563607906353,
+        0.8723136785595879
+    ],
+    "Time to InteractiveHomepage & Navigation UX Performance": [
+        0.006649087242793259,
+        0.9148943380315157
+    ],
+    "Homepage & Navigation UX PerformanceTime to Interactive": [
+        0.006649087242793262,
+        0.9148943380315157
+    ],
+    "Layout ShiftsAnzahl p Tags": [
+        0.00882192827868536,
+        0.4287065068028788
+    ],
+    "Anzahl p TagsLayout Shifts": [
+        0.00882192827868536,
+        0.4287065068028788
+    ],
+    "First Contentful Paint TimeHomepage & Navigation UX Performance": [
+        0.011263867354693577,
+        0.8481779505651371
+    ],
+    "Homepage & Navigation UX PerformanceFirst Contentful Paint Time": [
+        0.011263867354693582,
+        0.8481779505651371
+    ],
+    "Total Blocking TimeOffscreen Images": [
+        0.015441821818704403,
+        0.8014969947861275
+    ],
+    "Offscreen ImagesTotal Blocking Time": [
+        0.015441821818704404,
+        0.8014969947861275
+    ],
+    "Cumulative Layout Shift TimeHomepage & Navigation UX Performance": [
+        0.016118073447297102,
+        0.7992015257856325
+    ],
+    "Homepage & Navigation UX PerformanceCumulative Layout Shift Time": [
+        0.01611807344729711,
+        0.7992015257856325
+    ],
+    "Homepage UX PerformanceTime to Interactive": [
+        0.028142484605867546,
+        0.7006795909994067
+    ],
+    "Time to InteractiveHomepage UX Performance": [
+        0.028142484605867546,
+        0.7006795909994067
+    ],
+    "Offscreen ImagesOverall UX Performance": [
+        0.033348847375561604,
+        0.6426006994793344
+    ],
+    "Overall UX PerformanceOffscreen Images": [
+        0.033348847375561604,
+        0.6426006994793344
+    ],
+    "Total Blocking TimeLayout Shifts": [
+        0.036361480505368214,
+        0.40873583906473837
+    ],
+    "Layout ShiftsTotal Blocking Time": [
+        0.036361480505368214,
+        0.40873583906473837
+    ],
+    "Anzahl p TagsHomepage UX Performance": [
+        0.03904172164015172,
+        0.5825744370840377
+    ],
+    "Homepage UX PerformanceAnzahl p Tags": [
+        0.03904172164015172,
+        0.5825744370840377
+    ],
+    "Total Blocking TimeFirst Contentful Paint Time": [
+        0.039568153472698965,
+        0.348644242222643
+    ],
+    "First Contentful Paint TimeTotal Blocking Time": [
+        0.03956815347269897,
+        0.34864424222264295
+    ],
+    "Offscreen ImagesHomepage & Navigation UX Performance": [
+        0.03958522123130367,
+        0.6268019684514393
+    ],
+    "Homepage & Navigation UX PerformanceOffscreen Images": [
+        0.039585221231303674,
+        0.6268019684514393
+    ],
+    "Baymard ScoreOffscreen Images": [
+        0.042328624171622475,
+        0.6370433581031644
+    ],
+    "Offscreen ImagesBaymard Score": [
+        0.04232862417162248,
+        0.6370433581031644
+    ],
+    "Speed IndexAnzahl p Tags": [
+        0.0495062189973371,
+        0.4014970713262691
+    ],
+    "Anzahl p TagsSpeed Index": [
+        0.04950621899733711,
+        0.4014970713262691
+    ],
+    "Anzahl p TagsBaymard Score": [
+        0.04962033375823876,
+        0.39706417669015376
+    ],
+    "Baymard ScoreAnzahl p Tags": [
+        0.049620333758238766,
+        0.39706417669015287
+    ],
+    "Offscreen ImagesDesktop UX Performance": [
+        0.052451662488562555,
+        0.48226565536035676
+    ],
+    "Desktop UX PerformanceOffscreen Images": [
+        0.05245166248856256,
+        0.48226565536035676
+    ],
+    "Anzahl a TagsOverall UX Performance": [
+        0.05310129700266853,
+        0.35737319972820875
+    ],
+    "Overall UX PerformanceAnzahl a Tags": [
+        0.05310129700266853,
+        0.35737319972820886
+    ],
+    "Overall UX PerformanceAnzahl p Tags": [
+        0.0538126659959772,
+        0.36813598469976666
+    ],
+    "Anzahl p TagsOverall UX Performance": [
+        0.053812665995977206,
+        0.36813598469976666
+    ],
+    "DOM SizeBaymard Score": [
+        0.054356549163160316,
+        0.3633037109845291
+    ],
+    "Baymard ScoreDOM Size": [
+        0.054356549163160316,
+        0.3633037109845291
+    ],
+    "Overall UX PerformanceAnzahl div Tags": [
+        0.056783488082398435,
+        0.3219082151985415
+    ],
+    "Anzahl div TagsOverall UX Performance": [
+        0.056783488082398435,
+        0.3219082151985415
+    ],
+    "DOM SizeOverall UX Performance": [
+        0.057652746465973466,
+        0.3361790583572133
+    ],
+    "Overall UX PerformanceDOM Size": [
+        0.05765274646597348,
+        0.3361790583572133
+    ],
+    "First Contentful Paint TimeAnzahl IMG Tags": [
+        0.05988456516761395,
+        0.32251730213209195
+    ],
+    "Anzahl IMG TagsFirst Contentful Paint Time": [
+        0.05988456516761396,
+        0.32251730213209195
+    ],
+    "Desktop UX PerformanceAnzahl p Tags": [
+        0.06154775427514824,
+        0.3009503830121169
+    ],
+    "Anzahl p TagsDesktop UX Performance": [
+        0.06154775427514824,
+        0.30095038301211696
+    ],
+    "Baymard ScoreAnzahl a Tags": [
+        0.0615566529678509,
+        0.28456058128007167
+    ],
+    "Anzahl a TagsBaymard Score": [
+        0.0615566529678509,
+        0.28456058128007167
+    ],
+    "Speed IndexHomepage UX Performance": [
+        0.06444869728340212,
+        0.3640203737195374
+    ],
+    "Homepage UX PerformanceSpeed Index": [
+        0.06444869728340212,
+        0.3640203737195374
+    ],
+    "Total Byte WeightHomepage & Navigation UX Performance": [
+        0.0649764468127212,
+        0.37280427102487873
+    ],
+    "Homepage & Navigation UX PerformanceTotal Byte Weight": [
+        0.0649764468127212,
+        0.3728042710248789
+    ],
+    "Time to InteractiveOverall UX Performance": [
+        0.0656058573165746,
+        0.28819983972812147
+    ],
+    "Overall UX PerformanceTime to Interactive": [
+        0.06560585731657462,
+        0.28819983972812147
+    ],
+    "Offscreen ImagesLayout Shifts": [
+        0.06579699122358369,
+        0.42422214091938426
+    ],
+    "Layout ShiftsOffscreen Images": [
+        0.06579699122358369,
+        0.42422214091938426
+    ],
+    "Anzahl a TagsDesktop UX Performance": [
+        0.0661535369009103,
+        0.2513427150010514
+    ],
+    "Desktop UX PerformanceAnzahl a Tags": [
+        0.0661535369009103,
+        0.2513427150010514
+    ],
+    "Anzahl Button TagsFirst Contentful Paint Time": [
+        0.06931530802877293,
+        0.28755249027101987
+    ],
+    "First Contentful Paint TimeAnzahl Button Tags": [
+        0.06931530802877295,
+        0.28755249027101987
+    ],
+    "Desktop UX PerformanceDOM Size": [
+        0.06942509488314373,
+        0.24323484659210015
+    ],
+    "DOM SizeDesktop UX Performance": [
+        0.06942509488314373,
+        0.24323484659210018
+    ],
+    "Total Blocking TimeAnzahl p Tags": [
+        0.06955381808518514,
+        0.37084781765928815
+    ],
+    "Anzahl p TagsTotal Blocking Time": [
+        0.06955381808518514,
+        0.37084781765928815
+    ],
+    "Anzahl p TagsFirst Contentful Paint Time": [
+        0.07122465306435273,
+        0.2300548945842925
+    ],
+    "First Contentful Paint TimeAnzahl p Tags": [
+        0.07122465306435273,
+        0.2300548945842925
+    ],
+    "Anzahl div TagsDesktop UX Performance": [
+        0.07148665841299194,
+        0.21243767979025416
+    ],
+    "Desktop UX PerformanceAnzahl div Tags": [
+        0.07148665841299194,
+        0.21243767979025416
+    ],
+    "Cumulative Layout Shift TimeAnzahl p Tags": [
+        0.07166250566788578,
+        0.2166898246871191
+    ],
+    "Anzahl p TagsCumulative Layout Shift Time": [
+        0.07166250566788578,
+        0.2166898246871191
+    ],
+    "Baymard ScoreAnzahl div Tags": [
+        0.07219178076055464,
+        0.20795077998434117
+    ],
+    "Anzahl div TagsBaymard Score": [
+        0.07219178076055464,
+        0.20795077998434117
+    ],
+    "Total Blocking TimeOverall UX Performance": [
+        0.07271227016542245,
+        0.22573465093120337
+    ],
+    "Overall UX PerformanceTotal Blocking Time": [
+        0.07271227016542245,
+        0.22573465093120337
+    ],
+    "First Contentful Paint TimeLayout Shifts": [
+        0.07629663509873154,
+        0.2899659634088756
+    ],
+    "Layout ShiftsFirst Contentful Paint Time": [
+        0.07629663509873154,
+        0.2899659634088756
+    ],
+    "Offscreen ImagesCumulative Layout Shift Time": [
+        0.07630898076318195,
+        0.32032835866845516
+    ],
+    "Cumulative Layout Shift TimeOffscreen Images": [
+        0.07630898076318195,
+        0.32032835866845516
+    ],
+    "Offscreen ImagesAnzahl a Tags": [
+        0.07755670792254739,
+        0.2417136745793663
+    ],
+    "Anzahl a TagsOffscreen Images": [
+        0.07755670792254742,
+        0.2417136745793663
+    ],
+    "Anzahl Button TagsCumulative Layout Shift Time": [
+        0.08175132498092536,
+        0.2436876472950449
+    ],
+    "Cumulative Layout Shift TimeAnzahl Button Tags": [
+        0.08175132498092536,
+        0.2436876472950449
+    ],
+    "Time to InteractiveDesktop UX Performance": [
+        0.0824694533649311,
+        0.17389723263144508
+    ],
+    "Desktop UX PerformanceTime to Interactive": [
+        0.08246945336493111,
+        0.17389723263144508
+    ],
+    "Offscreen ImagesFirst Contentful Paint Time": [
+        0.08248233709094983,
+        0.20825049805353976
+    ],
+    "First Contentful Paint TimeOffscreen Images": [
+        0.08248233709094986,
+        0.20825049805353976
+    ],
+    "Anzahl p TagsTime to Interactive": [
+        0.08428803485032245,
+        0.3293683594356031
+    ],
+    "Time to InteractiveAnzahl p Tags": [
+        0.08428803485032248,
+        0.3293683594356031
+    ],
+    "Time to InteractiveBaymard Score": [
+        0.08463930600824911,
+        0.1682294344090612
+    ],
+    "Baymard ScoreTime to Interactive": [
+        0.08463930600824913,
+        0.16822943440906116
+    ],
+    "Desktop UX PerformanceTotal Blocking Time": [
+        0.08568244033593665,
+        0.15034841571131843
+    ],
+    "Total Blocking TimeDesktop UX Performance": [
+        0.08568244033593665,
+        0.15034841571131843
+    ],
+    "Anzahl Button TagsOverall UX Performance": [
+        0.08663984047891622,
+        0.1368786472666707
+    ],
+    "Overall UX PerformanceAnzahl Button Tags": [
+        0.08663984047891622,
+        0.1368786472666707
+    ],
+    "Speed IndexOffscreen Images": [
+        0.08799023363301783,
+        0.17397185215361563
+    ],
+    "Offscreen ImagesSpeed Index": [
+        0.08799023363301783,
+        0.17397185215361563
+    ],
+    "Anzahl IMG TagsOverall UX Performance": [
+        0.09454201225261445,
+        0.09882189758306803
+    ],
+    "Overall UX PerformanceAnzahl IMG Tags": [
+        0.09454201225261445,
+        0.09882189758306803
+    ],
+    "First Contentful Paint TimeAnzahl div Tags": [
+        0.09505487373625336,
+        0.11452017660947049
+    ],
+    "Anzahl div TagsFirst Contentful Paint Time": [
+        0.09505487373625336,
+        0.11452017660947049
+    ],
+    "Anzahl IMG TagsBaymard Score": [
+        0.09687354884495362,
+        0.09138014470809262
+    ],
+    "Baymard ScoreAnzahl IMG Tags": [
+        0.09687354884495362,
+        0.09138014470809284
+    ],
+    "Desktop UX PerformanceAnzahl Button Tags": [
+        0.09836206070839049,
+        0.08884107867319592
+    ],
+    "Anzahl Button TagsDesktop UX Performance": [
+        0.09836206070839049,
+        0.08884107867319592
+    ],
+    "Total Blocking TimeHomepage UX Performance": [
+        0.09924310061768332,
+        0.16827382706640073
+    ],
+    "Homepage UX PerformanceTotal Blocking Time": [
+        0.09924310061768332,
+        0.16827382706640073
+    ],
+    "Offscreen ImagesTime to Interactive": [
+        0.0992580351906327,
+        0.11397472641123252
+    ],
+    "Time to InteractiveOffscreen Images": [
+        0.0992580351906327,
+        0.11397472641123253
+    ],
+    "Baymard ScoreAnzahl Button Tags": [
+        0.10041590002426186,
+        0.08419186544861833
+    ],
+    "Anzahl Button TagsBaymard Score": [
+        0.10041590002426187,
+        0.08419186544861833
+    ],
+    "Layout ShiftsLargest Contentful Paint Time": [
+        0.11201069380730393,
+        0.20638654565323988
+    ],
+    "Largest Contentful Paint TimeLayout Shifts": [
+        0.11201069380730393,
+        0.20638654565323988
+    ],
+    "Baymard ScoreTotal Blocking Time": [
+        0.11459064160128933,
+        0.0538174648053869
+    ],
+    "Total Blocking TimeBaymard Score": [
+        0.11459064160128933,
+        0.0538174648053869
+    ],
+    "Cumulative Layout Shift TimeAnzahl IMG Tags": [
+        0.11529306377366448,
+        0.06583349784091243
+    ],
+    "Anzahl IMG TagsCumulative Layout Shift Time": [
+        0.1152930637736645,
+        0.06583349784091243
+    ],
+    "Total Blocking TimeCumulative Layout Shift Time": [
+        0.11680390934952978,
+        0.2488099517803051
+    ],
+    "Cumulative Layout Shift TimeTotal Blocking Time": [
+        0.11680390934952978,
+        0.2488099517803051
+    ],
+    "Desktop UX PerformanceAnzahl IMG Tags": [
+        0.11709462055880908,
+        0.04111611398473805
+    ],
+    "Anzahl IMG TagsDesktop UX Performance": [
+        0.11709462055880908,
+        0.04111611398473805
+    ],
+    "Speed IndexAnzahl IMG Tags": [
+        0.11789383504539248,
+        0.05086342357633623
+    ],
+    "Anzahl IMG TagsSpeed Index": [
+        0.11789383504539248,
+        0.05086342357633623
+    ],
+    "Offscreen ImagesAnzahl Button Tags": [
+        0.11846425397687875,
+        0.11373438310453639
+    ],
+    "Anzahl Button TagsOffscreen Images": [
+        0.11846425397687875,
+        0.11373438310453643
+    ],
+    "Layout ShiftsAnzahl a Tags": [
+        0.12109218215864381,
+        0.09337166868500286
+    ],
+    "Anzahl a TagsLayout Shifts": [
+        0.12109218215864383,
+        0.09337166868500286
+    ],
+    "Anzahl Button TagsLargest Contentful Paint Time": [
+        0.12413416161827563,
+        0.03971906854932442
+    ],
+    "Largest Contentful Paint TimeAnzahl Button Tags": [
+        0.12413416161827566,
+        0.03971906854932442
+    ],
+    "Offscreen ImagesAnzahl div Tags": [
+        0.12544488601496603,
+        0.05474760687533648
+    ],
+    "Anzahl div TagsOffscreen Images": [
+        0.12544488601496606,
+        0.054747606875336474
+    ],
+    "Anzahl p TagsLargest Contentful Paint Time": [
+        0.12848005720978853,
+        0.0882849932959505
+    ],
+    "Largest Contentful Paint TimeAnzahl p Tags": [
+        0.12848005720978853,
+        0.0882849932959505
+    ],
+    "Total Blocking TimeAnzahl a Tags": [
+        0.12947104017352754,
+        0.041148325143479915
+    ],
+    "Anzahl a TagsTotal Blocking Time": [
+        0.12947104017352754,
+        0.041148325143479915
+    ],
+    "Offscreen ImagesTotal Byte Weight": [
+        0.13164035424180223,
+        0.11109631292172688
+    ],
+    "Total Byte WeightOffscreen Images": [
+        0.13164035424180223,
+        0.11109631292172688
+    ],
+    "Anzahl IMG TagsOffscreen Images": [
+        0.13194232778770568,
+        0.036330404150809806
+    ],
+    "Offscreen ImagesAnzahl IMG Tags": [
+        0.13194232778770568,
+        0.03633040415080981
+    ],
+    "Total Byte WeightBaymard Score": [
+        0.13384177833483676,
+        0.03799389046627331
+    ],
+    "Baymard ScoreTotal Byte Weight": [
+        0.13384177833483676,
+        0.03799389046627332
+    ],
+    "Layout ShiftsAnzahl IMG Tags": [
+        0.13532278993650262,
+        0.09785946619490347
+    ],
+    "Anzahl IMG TagsLayout Shifts": [
+        0.13532278993650268,
+        0.09785946619490347
+    ],
+    "Speed IndexAnzahl Button Tags": [
+        0.1355356535206151,
+        0.026980296344530866
+    ],
+    "Anzahl Button TagsSpeed Index": [
+        0.1355356535206151,
+        0.026980296344530866
+    ],
+    "Anzahl a TagsFirst Contentful Paint Time": [
+        0.13658135716490724,
+        0.09844802409836684
+    ],
+    "First Contentful Paint TimeAnzahl a Tags": [
+        0.13658135716490724,
+        0.09844802409836684
+    ],
+    "Speed IndexAnzahl a Tags": [
+        0.13901363047407256,
+        0.045133405923956454
+    ],
+    "Anzahl a TagsSpeed Index": [
+        0.13901363047407256,
+        0.045133405923956454
+    ],
+    "Largest Contentful Paint TimeAnzahl IMG Tags": [
+        0.14364761963686887,
+        0.021419548844347002
+    ],
+    "Anzahl IMG TagsLargest Contentful Paint Time": [
+        0.14364761963686887,
+        0.021419548844347002
+    ],
+    "Total Byte WeightAnzahl a Tags": [
+        0.14366362368664187,
+        0.2851276396618723
+    ],
+    "Anzahl a TagsTotal Byte Weight": [
+        0.14366362368664187,
+        0.2851276396618723
+    ],
+    "Total Byte WeightOverall UX Performance": [
+        0.1443606886008984,
+        0.029975589674324208
+    ],
+    "Overall UX PerformanceTotal Byte Weight": [
+        0.14436068860089843,
+        0.029975589674324194
+    ],
+    "Anzahl p TagsTotal Byte Weight": [
+        0.14556541905486986,
+        0.1486316865402418
+    ],
+    "Total Byte WeightAnzahl p Tags": [
+        0.1455654190548699,
+        0.1486316865402418
+    ],
+    "Total Byte WeightDesktop UX Performance": [
+        0.14716708323503228,
+        0.020542632422849826
+    ],
+    "Desktop UX PerformanceTotal Byte Weight": [
+        0.14716708323503228,
+        0.020542632422849826
+    ],
+    "Speed IndexLayout Shifts": [
+        0.14926633915399268,
+        0.05940737094707905
+    ],
+    "Layout ShiftsSpeed Index": [
+        0.1492663391539927,
+        0.05940737094707905
+    ],
+    "Layout ShiftsTotal Byte Weight": [
+        0.15007094934263562,
+        0.24995013773566244
+    ],
+    "Total Byte WeightLayout Shifts": [
+        0.15007094934263562,
+        0.24995013773566244
+    ],
+    "Time to InteractiveLayout Shifts": [
+        0.15189528904574773,
+        0.07918886058074869
+    ],
+    "Layout ShiftsTime to Interactive": [
+        0.15189528904574773,
+        0.07918886058074881
+    ],
+    "Anzahl a TagsLargest Contentful Paint Time": [
+        0.15556413410095413,
+        0.013088484793582744
+    ],
+    "Largest Contentful Paint TimeAnzahl a Tags": [
+        0.15556413410095413,
+        0.013088484793582744
+    ],
+    "Total Blocking TimeAnzahl IMG Tags": [
+        0.15600169084080237,
+        0.02440004047629239
+    ],
+    "Anzahl IMG TagsTotal Blocking Time": [
+        0.15600169084080237,
+        0.02440004047629239
+    ],
+    "Offscreen ImagesDOM Size": [
+        0.15647129309192154,
+        0.013408733545434653
+    ],
+    "DOM SizeOffscreen Images": [
+        0.15647129309192156,
+        0.013408733545434653
+    ],
+    "Anzahl Button TagsLayout Shifts": [
+        0.1591188341130965,
+        0.051242111904302216
+    ],
+    "Layout ShiftsAnzahl Button Tags": [
+        0.1591188341130965,
+        0.051242111904302216
+    ],
+    "Anzahl IMG TagsTotal Byte Weight": [
+        0.16230073578527926,
+        0.1313105573153732
+    ],
+    "Total Byte WeightAnzahl IMG Tags": [
+        0.1623007357852793,
+        0.1313105573153732
+    ],
+    "Total Byte WeightAnzahl Button Tags": [
+        0.16545441765092542,
+        0.1791339037087495
+    ],
+    "Anzahl Button TagsTotal Byte Weight": [
+        0.16545441765092542,
+        0.1791339037087495
+    ],
+    "DOM SizeAnzahl p Tags": [
+        0.16970911732705476,
+        0.07149526714967018
+    ],
+    "Anzahl p TagsDOM Size": [
+        0.16970911732705476,
+        0.07149526714967018
+    ],
+    "Homepage & Navigation UX PerformanceHomepage UX Performance": [
+        0.17132381836694063,
+        0.009490424218521545
+    ],
+    "Homepage UX PerformanceHomepage & Navigation UX Performance": [
+        0.17132381836694063,
+        0.009490424218521545
+    ],
+    "Total Blocking TimeAnzahl Button Tags": [
+        0.17401032431183264,
+        0.03904518728324125
+    ],
+    "Anzahl Button TagsTotal Blocking Time": [
+        0.17401032431183264,
+        0.03904518728324125
+    ],
+    "Cumulative Layout Shift TimeAnzahl div Tags": [
+        0.17761217806198415,
+        0.006155088615296928
+    ],
+    "Anzahl div TagsCumulative Layout Shift Time": [
+        0.17761217806198415,
+        0.00615508861529693
+    ],
+    "Anzahl div TagsTotal Byte Weight": [
+        0.1784184730079299,
+        0.1501583832857192
+    ],
+    "Total Byte WeightAnzahl div Tags": [
+        0.1784184730079299,
+        0.1501583832857192
+    ],
+    "Cumulative Layout Shift TimeAnzahl a Tags": [
+        0.17952869272392605,
+        0.0036203957784332543
+    ],
+    "Anzahl a TagsCumulative Layout Shift Time": [
+        0.1795286927239261,
+        0.0036203957784332504
+    ],
+    "Largest Contentful Paint TimeOffscreen Images": [
+        0.1903869521869265,
+        0.008174722489578625
+    ],
+    "Offscreen ImagesLargest Contentful Paint Time": [
+        0.1903869521869265,
+        0.008174722489578625
+    ],
+    "Cumulative Layout Shift TimeFirst Contentful Paint Time": [
+        0.19117296934428593,
+        0.01084160884894547
+    ],
+    "First Contentful Paint TimeCumulative Layout Shift Time": [
+        0.19117296934428593,
+        0.010841608848945555
+    ],
+    "Layout ShiftsAnzahl div Tags": [
+        0.19120904474982345,
+        0.027574395029580322
+    ],
+    "Anzahl div TagsLayout Shifts": [
+        0.19120904474982345,
+        0.027574395029580322
+    ],
+    "Time to InteractiveAnzahl a Tags": [
+        0.19200264583275725,
+        0.002461744251815569
+    ],
+    "Anzahl a TagsTime to Interactive": [
+        0.19200264583275725,
+        0.002461744251815569
+    ],
+    "Speed IndexAnzahl div Tags": [
+        0.19630823293992997,
+        0.0019881379841298614
+    ],
+    "Anzahl div TagsSpeed Index": [
+        0.19630823293993002,
+        0.0019881379841298614
+    ],
+    "Cumulative Layout Shift TimeSpeed Index": [
+        0.19676138762947226,
+        0.06889539542970083
+    ],
+    "Speed IndexCumulative Layout Shift Time": [
+        0.19676138762947226,
+        0.06889539542970083
+    ],
+    "Time to InteractiveAnzahl Button Tags": [
+        0.19729215890940208,
+        0.007161674305087285
+    ],
+    "Anzahl Button TagsTime to Interactive": [
+        0.19729215890940208,
+        0.007161674305087285
+    ],
+    "Largest Contentful Paint TimeAnzahl div Tags": [
+        0.19848777469221401,
+        0.000782769211028022
+    ],
+    "Anzahl div TagsLargest Contentful Paint Time": [
+        0.19848777469221401,
+        0.000782769211028022
+    ],
+    "Total Byte WeightCumulative Layout Shift Time": [
+        0.20790147247427146,
+        0.2680287596226841
+    ],
+    "Cumulative Layout Shift TimeTotal Byte Weight": [
+        0.20790147247427146,
+        0.2680287596226841
+    ],
+    "Time to InteractiveAnzahl IMG Tags": [
+        0.21032183922550718,
+        0.00038672544259060884
+    ],
+    "Anzahl IMG TagsTime to Interactive": [
+        0.21032183922550718,
+        0.00038672544259060884
+    ],
+    "Total Blocking TimeAnzahl div Tags": [
+        0.2143419174934554,
+        0.0026610314996753106
+    ],
+    "Anzahl div TagsTotal Blocking Time": [
+        0.2143419174934554,
+        0.0026610314996753106
+    ],
+    "Time to InteractiveCumulative Layout Shift Time": [
+        0.22425728337904882,
+        0.020483118577778008
+    ],
+    "Cumulative Layout Shift TimeTime to Interactive": [
+        0.22425728337904885,
+        0.020483118577778008
+    ],
+    "Total Byte WeightFirst Contentful Paint Time": [
+        0.23724694542257221,
+        0.024559993117475875
+    ],
+    "First Contentful Paint TimeTotal Byte Weight": [
+        0.23724694542257221,
+        0.024559993117475875
+    ],
+    "Cumulative Layout Shift TimeLargest Contentful Paint Time": [
+        0.23875995753587834,
+        0.019967322579809925
+    ],
+    "Largest Contentful Paint TimeCumulative Layout Shift Time": [
+        0.23875995753587834,
+        0.019967322579809925
+    ],
+    "Layout ShiftsDOM Size": [
+        0.2467652612971465,
+        0.004409289337303261
+    ],
+    "DOM SizeLayout Shifts": [
+        0.2467652612971465,
+        0.004409289337303277
+    ],
+    "First Contentful Paint TimeTime to Interactive": [
+        0.2516180751423145,
+        4.1694338751483764e-05
+    ],
+    "Time to InteractiveFirst Contentful Paint Time": [
+        0.2516180751423145,
+        4.1694338751483764e-05
+    ],
+    "Time to InteractiveAnzahl div Tags": [
+        0.2537355581521419,
+        5.30899375740334e-05
+    ],
+    "Anzahl div TagsTime to Interactive": [
+        0.2537355581521419,
+        5.30899375740334e-05
+    ],
+    "Total Blocking TimeLargest Contentful Paint Time": [
+        0.2655243669787174,
+        0.0010955396443857494
+    ],
+    "Largest Contentful Paint TimeTotal Blocking Time": [
+        0.26552436697871745,
+        0.0010955396443857494
+    ],
+    "Cumulative Layout Shift TimeDOM Size": [
+        0.2724442708527513,
+        3.675380484649217e-05
+    ],
+    "DOM SizeCumulative Layout Shift Time": [
+        0.27244427085275136,
+        3.675380484649217e-05
+    ],
+    "First Contentful Paint TimeSpeed Index": [
+        0.2737690140009788,
+        1.5626748549993484e-05
+    ],
+    "Speed IndexFirst Contentful Paint Time": [
+        0.27376901400097886,
+        1.5626748549993484e-05
+    ],
+    "Anzahl p TagsAnzahl a Tags": [
+        0.2898621204640908,
+        0.04756488537458827
+    ],
+    "Anzahl a TagsAnzahl p Tags": [
+        0.2898621204640909,
+        0.04756488537458827
+    ],
+    "Cumulative Layout Shift TimeLayout Shifts": [
+        0.2970001312621259,
+        0.05925888589032068
+    ],
+    "Layout ShiftsCumulative Layout Shift Time": [
+        0.2970001312621259,
+        0.05925888589032068
+    ],
+    "Baymard ScoreHomepage & Navigation UX Performance": [
+        0.3030351280796678,
+        8.758223226961731e-08
+    ],
+    "Homepage & Navigation UX PerformanceBaymard Score": [
+        0.30303512807966787,
+        8.7582232269617e-08
+    ],
+    "First Contentful Paint TimeDOM Size": [
+        0.31431960422783733,
+        8.808125018985669e-06
+    ],
+    "DOM SizeFirst Contentful Paint Time": [
+        0.31431960422783733,
+        8.808125018985669e-06
+    ],
+    "Largest Contentful Paint TimeDOM Size": [
+        0.32192674681004585,
+        2.4352267477801166e-06
+    ],
+    "DOM SizeLargest Contentful Paint Time": [
+        0.3219267468100459,
+        2.4352267477801166e-06
+    ],
+    "Anzahl Button TagsAnzahl p Tags": [
+        0.3223821418777257,
+        0.006665346511019119
+    ],
+    "Anzahl p TagsAnzahl Button Tags": [
+        0.32238214187772574,
+        0.006665346511019119
+    ],
+    "DOM SizeTotal Byte Weight": [
+        0.3227621043242767,
+        0.03678527475489449
+    ],
+    "Total Byte WeightDOM Size": [
+        0.3227621043242768,
+        0.03678527475489449
+    ],
+    "Overall UX PerformanceHomepage & Navigation UX Performance": [
+        0.3478860228408396,
+        6.588983505128344e-10
+    ],
+    "Homepage & Navigation UX PerformanceOverall UX Performance": [
+        0.3478860228408396,
+        6.588983505128344e-10
+    ],
+    "Homepage & Navigation UX PerformanceDesktop UX Performance": [
+        0.3548768384937655,
+        2.0329044774716661e-10
+    ],
+    "Desktop UX PerformanceHomepage & Navigation UX Performance": [
+        0.35487683849376556,
+        2.0329044774716661e-10
+    ],
+    "Total Byte WeightLargest Contentful Paint Time": [
+        0.36328302819225083,
+        6.609279098825301e-05
+    ],
+    "Largest Contentful Paint TimeTotal Byte Weight": [
+        0.36328302819225095,
+        6.609279098825301e-05
+    ],
+    "Anzahl div TagsAnzahl p Tags": [
+        0.3709964233748206,
+        2.5387386458171803e-08
+    ],
+    "Anzahl p TagsAnzahl div Tags": [
+        0.37099642337482064,
+        2.5387386458171803e-08
+    ],
+    "Total Byte WeightTotal Blocking Time": [
+        0.37809608805110706,
+        0.0019297881944231952
+    ],
+    "Total Blocking TimeTotal Byte Weight": [
+        0.37809608805110706,
+        0.0019297881944231952
+    ],
+    "Anzahl Button TagsDOM Size": [
+        0.38750371717255777,
+        2.1132152286928962e-08
+    ],
+    "DOM SizeAnzahl Button Tags": [
+        0.38750371717255777,
+        2.1132152286928962e-08
+    ],
+    "First Contentful Paint TimeLargest Contentful Paint Time": [
+        0.3886897911701009,
+        6.53395385980951e-11
+    ],
+    "Largest Contentful Paint TimeFirst Contentful Paint Time": [
+        0.3886897911701009,
+        6.53395385980951e-11
+    ],
+    "DOM SizeTotal Blocking Time": [
+        0.4007024832785901,
+        8.795190872980949e-10
+    ],
+    "Total Blocking TimeDOM Size": [
+        0.4007024832785901,
+        8.795190872980949e-10
+    ],
+    "Homepage UX PerformanceBaymard Score": [
+        0.40160040416393605,
+        2.51842189702914e-10
+    ],
+    "Baymard ScoreHomepage UX Performance": [
+        0.40160040416393605,
+        2.51842189702914e-10
+    ],
+    "Anzahl p TagsAnzahl IMG Tags": [
+        0.40176619431760546,
+        1.3529392502809043e-07
+    ],
+    "Anzahl IMG TagsAnzahl p Tags": [
+        0.4017661943176056,
+        1.3529392502809043e-07
+    ],
+    "Speed IndexDOM Size": [
+        0.4056005335547838,
+        3.721023158335103e-09
+    ],
+    "DOM SizeSpeed Index": [
+        0.4056005335547838,
+        3.721023158335103e-09
+    ],
+    "Desktop UX PerformanceHomepage UX Performance": [
+        0.4115421469805017,
+        9.069263725256676e-11
+    ],
+    "Homepage UX PerformanceDesktop UX Performance": [
+        0.4115421469805017,
+        9.069263725256676e-11
+    ],
+    "Speed IndexTotal Byte Weight": [
+        0.42113455969376834,
+        5.4513870513056914e-05
+    ],
+    "Total Byte WeightSpeed Index": [
+        0.42113455969376834,
+        5.4513870513056914e-05
+    ],
+    "DOM SizeAnzahl IMG Tags": [
+        0.42404237867864264,
+        3.6797564585399116e-13
+    ],
+    "Anzahl IMG TagsDOM Size": [
+        0.42404237867864264,
+        3.6797564585399116e-13
+    ],
+    "Homepage UX PerformanceOverall UX Performance": [
+        0.4280901009245133,
+        1.3558865279823878e-11
+    ],
+    "Overall UX PerformanceHomepage UX Performance": [
+        0.42809010092451333,
+        1.3558865279823836e-11
+    ],
+    "Anzahl a TagsAnzahl Button Tags": [
+        0.44352205216294394,
+        1.62417197264757e-07
+    ],
+    "Anzahl Button TagsAnzahl a Tags": [
+        0.44352205216294394,
+        1.62417197264757e-07
+    ],
+    "Largest Contentful Paint TimeTime to Interactive": [
+        0.4445974182931718,
+        3.229203422979703e-14
+    ],
+    "Time to InteractiveLargest Contentful Paint Time": [
+        0.4445974182931718,
+        3.229203422979703e-14
+    ],
+    "Time to InteractiveDOM Size": [
+        0.4655935185299553,
+        1.5903641551265113e-13
+    ],
+    "DOM SizeTime to Interactive": [
+        0.4655935185299553,
+        1.5903641551265113e-13
+    ],
+    "Anzahl Button TagsAnzahl IMG Tags": [
+        0.46827160754743774,
+        2.104833798571599e-09
+    ],
+    "Anzahl IMG TagsAnzahl Button Tags": [
+        0.4682716075474378,
+        2.104833798571599e-09
+    ],
+    "Largest Contentful Paint TimeSpeed Index": [
+        0.4758993702952968,
+        2.1728499112810843e-15
+    ],
+    "Speed IndexLargest Contentful Paint Time": [
+        0.4758993702952969,
+        2.1728499112810843e-15
+    ],
+    "Anzahl a TagsAnzahl IMG Tags": [
+        0.5190770719490924,
+        1.4994323914352733e-14
+    ],
+    "Anzahl IMG TagsAnzahl a Tags": [
+        0.5190770719490924,
+        1.4994323914352733e-14
+    ],
+    "Anzahl div TagsAnzahl Button Tags": [
+        0.541299903167279,
+        1.8189193341247027e-13
+    ],
+    "Anzahl Button TagsAnzahl div Tags": [
+        0.541299903167279,
+        1.8189193341247027e-13
+    ],
+    "DOM SizeAnzahl a Tags": [
+        0.5477246232768024,
+        2.297206900440938e-20
+    ],
+    "Anzahl a TagsDOM Size": [
+        0.5477246232768024,
+        2.297206900440938e-20
+    ],
+    "Time to InteractiveTotal Byte Weight": [
+        0.5523597544249005,
+        6.1693200473867784e-09
+    ],
+    "Total Byte WeightTime to Interactive": [
+        0.5523597544249005,
+        6.1693200473867784e-09
+    ],
+    "DOM SizeAnzahl div Tags": [
+        0.5794319788785532,
+        1.435819341276596e-23
+    ],
+    "Anzahl div TagsDOM Size": [
+        0.5794319788785532,
+        1.435819341276596e-23
+    ],
+    "Speed IndexTotal Blocking Time": [
+        0.5816366346887473,
+        3.81771227078986e-25
+    ],
+    "Total Blocking TimeSpeed Index": [
+        0.5816366346887474,
+        3.81771227078986e-25
+    ],
+    "Anzahl a TagsAnzahl div Tags": [
+        0.6129285504836063,
+        2.8256658804739307e-27
+    ],
+    "Anzahl div TagsAnzahl a Tags": [
+        0.6129285504836063,
+        2.8256658804740853e-27
+    ],
+    "Anzahl div TagsAnzahl IMG Tags": [
+        0.6720284322925604,
+        5.091286956718993e-31
+    ],
+    "Anzahl IMG TagsAnzahl div Tags": [
+        0.6720284322925604,
+        5.091286956718993e-31
+    ],
+    "Time to InteractiveSpeed Index": [
+        0.6876734323598294,
+        3.0384219027467604e-36
+    ],
+    "Speed IndexTime to Interactive": [
+        0.6876734323598296,
+        3.0384219027467604e-36
+    ],
+    "Total Blocking TimeTime to Interactive": [
+        0.7608646515991334,
+        8.743162232329587e-48
+    ],
+    "Time to InteractiveTotal Blocking Time": [
+        0.7608646515991334,
+        8.743162232329587e-48
+    ],
+    "Desktop UX PerformanceBaymard Score": [
+        0.859151868628103,
+        8.050959777718598e-72
+    ],
+    "Baymard ScoreDesktop UX Performance": [
+        0.8591518686281031,
+        8.050959777718598e-72
+    ],
+    "Baymard ScoreOverall UX Performance": [
+        0.9211601122244515,
+        2.8560134753705416e-91
+    ],
+    "Overall UX PerformanceBaymard Score": [
+        0.9211601122244515,
+        2.8560134753705416e-91
+    ],
+    "Overall UX PerformanceDesktop UX Performance": [
+        0.9293713482573992,
+        9.238976577731883e-88
+    ],
+    "Desktop UX PerformanceOverall UX Performance": [
+        0.9293713482573992,
+        9.238976577731883e-88
+    ]
+}

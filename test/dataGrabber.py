@@ -3,8 +3,9 @@ from PythonPSI.api import PSI
 import time
 import json
 from tqdm import tqdm
+import subprocess
 
-out_json = 'out_new.json'
+out_json = 'out_new_TEST.json'
 
 def json_read(json_file):
     with open(json_file, 'r') as f:
@@ -135,7 +136,7 @@ def get_metrics(url):
 
 
 def parallel_get_metrics(urls):
-    with multiprocessing.Pool(processes=4) as pool:
+    with multiprocessing.Pool(processes=8) as pool:
         results = pool.map(get_metrics, urls)
     all_data = {}
     for result in results:
@@ -146,10 +147,10 @@ def main():
     print("Starte PSI und Selenium")
     psi_start_time = time.time()
     #get URLs
-    # baymard = json_read('/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/baymard_scores_3.json')
-    # url_list = list(baymard.keys())
+    baymard = json_read('/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/baymard_scores_3.json')
+    url_list = list(baymard.keys())
 
-    url_list = ['ae.com','aninebing.com']
+    # url_list = ['ae.com','aninebing.com']
 
     # getting metrics for all urls --> multiprocessing
     results = parallel_get_metrics(url_list)
