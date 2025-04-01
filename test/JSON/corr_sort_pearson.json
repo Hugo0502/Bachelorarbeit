@@ -63,22 +63,8 @@
         "Overall UX PerformanceLargest Contentful Paint TimeKendall Coefficient": -0.11646777714197906,
         "Overall UX PerformanceLargest Contentful Paint TimeKendall P-Value": 0.009502836435271706
     },
-    {
-        "Baymard ScoreLargest Contentful Paint TimePearson Coefficient": -0.1481108097920444,
-        "Baymard ScoreLargest Contentful Paint TimePearson P-Value": 0.026313406056486383,
-        "Baymard ScoreLargest Contentful Paint TimeSpearman Coefficient": -0.17391306638765885,
-        "Baymard ScoreLargest Contentful Paint TimeSpearman P-Value": 0.008945833448864859,
-        "Baymard ScoreLargest Contentful Paint TimeKendall Coefficient": -0.11814230937721117,
-        "Baymard ScoreLargest Contentful Paint TimeKendall P-Value": 0.008394434982109818
-    },
-    {
-        "Largest Contentful Paint TimeBaymard ScorePearson Coefficient": -0.14811080979204438,
-        "Largest Contentful Paint TimeBaymard ScorePearson P-Value": 0.026313406056486383,
-        "Largest Contentful Paint TimeBaymard ScoreSpearman Coefficient": -0.17391306638765885,
-        "Largest Contentful Paint TimeBaymard ScoreSpearman P-Value": 0.008945833448864859,
-        "Largest Contentful Paint TimeBaymard ScoreKendall Coefficient": -0.11814230937721117,
-        "Largest Contentful Paint TimeBaymard ScoreKendall P-Value": 0.008394434982109818
-    },
+    
+    
     {
         "Homepage UX PerformanceDOM SizePearson Coefficient": -0.08469920065630868,
         "Homepage UX PerformanceDOM SizePearson P-Value": 0.2750118200165338,
@@ -127,22 +113,8 @@
         "Layout ShiftsOverall UX PerformanceKendall Coefficient": -0.04593134773339335,
         "Layout ShiftsOverall UX PerformanceKendall P-Value": 0.3772607331389223
     },
-    {
-        "Layout ShiftsBaymard ScorePearson Coefficient": -0.07580658838697533,
-        "Layout ShiftsBaymard ScorePearson P-Value": 0.298561602618531,
-        "Layout ShiftsBaymard ScoreSpearman Coefficient": -0.07449830777139066,
-        "Layout ShiftsBaymard ScoreSpearman P-Value": 0.3070023555006885,
-        "Layout ShiftsBaymard ScoreKendall Coefficient": -0.052380356470490885,
-        "Layout ShiftsBaymard ScoreKendall P-Value": 0.3130412868529485
-    },
-    {
-        "Baymard ScoreLayout ShiftsPearson Coefficient": -0.07580658838697533,
-        "Baymard ScoreLayout ShiftsPearson P-Value": 0.298561602618531,
-        "Baymard ScoreLayout ShiftsSpearman Coefficient": -0.07449830777139066,
-        "Baymard ScoreLayout ShiftsSpearman P-Value": 0.3070023555006885,
-        "Baymard ScoreLayout ShiftsKendall Coefficient": -0.052380356470490885,
-        "Baymard ScoreLayout ShiftsKendall P-Value": 0.3130412868529485
-    },
+    
+    
     {
         "Largest Contentful Paint TimeHomepage UX PerformancePearson Coefficient": -0.0734022502768627,
         "Largest Contentful Paint TimeHomepage UX PerformancePearson P-Value": 0.3443654243965738,
@@ -175,22 +147,8 @@
         "Desktop UX PerformanceFirst Contentful Paint TimeKendall Coefficient": -0.01271810848313486,
         "Desktop UX PerformanceFirst Contentful Paint TimeKendall P-Value": 0.7767794609314895
     },
-    {
-        "Baymard ScoreFirst Contentful Paint TimePearson Coefficient": -0.07132000774056907,
-        "Baymard ScoreFirst Contentful Paint TimePearson P-Value": 0.2867860709621544,
-        "Baymard ScoreFirst Contentful Paint TimeSpearman Coefficient": -0.06970102658872897,
-        "Baymard ScoreFirst Contentful Paint TimeSpearman P-Value": 0.29789474290192264,
-        "Baymard ScoreFirst Contentful Paint TimeKendall Coefficient": -0.050632418304519075,
-        "Baymard ScoreFirst Contentful Paint TimeKendall P-Value": 0.2586365353690693
-    },
-    {
-        "First Contentful Paint TimeBaymard ScorePearson Coefficient": -0.07132000774056906,
-        "First Contentful Paint TimeBaymard ScorePearson P-Value": 0.2867860709621544,
-        "First Contentful Paint TimeBaymard ScoreSpearman Coefficient": -0.06970102658872897,
-        "First Contentful Paint TimeBaymard ScoreSpearman P-Value": 0.29789474290192264,
-        "First Contentful Paint TimeBaymard ScoreKendall Coefficient": -0.05063241830451907,
-        "First Contentful Paint TimeBaymard ScoreKendall P-Value": 0.2586365353690693
-    },
+    
+    
     {
         "DOM SizeHomepage & Navigation UX PerformancePearson Coefficient": -0.06869171902926152,
         "DOM SizeHomepage & Navigation UX PerformancePearson P-Value": 0.30605204351832127,
@@ -399,22 +357,8 @@
         "Total Byte WeightHomepage UX PerformanceKendall Coefficient": -0.030608978945660534,
         "Total Byte WeightHomepage UX PerformanceKendall P-Value": 0.5562252964892793
     },
-    {
-        "Cumulative Layout Shift TimeBaymard ScorePearson Coefficient": -0.024549329204378856,
-        "Cumulative Layout Shift TimeBaymard ScorePearson P-Value": 0.7141829228959312,
-        "Cumulative Layout Shift TimeBaymard ScoreSpearman Coefficient": -0.05272725118432158,
-        "Cumulative Layout Shift TimeBaymard ScoreSpearman P-Value": 0.43125187640089646,
-        "Cumulative Layout Shift TimeBaymard ScoreKendall Coefficient": -0.03544529782580301,
-        "Cumulative Layout Shift TimeBaymard ScoreKendall P-Value": 0.43365350103396005
-    },
-    {
-        "Baymard ScoreCumulative Layout Shift TimePearson Coefficient": -0.02454932920437884,
-        "Baymard ScoreCumulative Layout Shift TimePearson P-Value": 0.7141829228959312,
-        "Baymard ScoreCumulative Layout Shift TimeSpearman Coefficient": -0.05272725118432158,
-        "Baymard ScoreCumulative Layout Shift TimeSpearman P-Value": 0.43125187640089646,
-        "Baymard ScoreCumulative Layout Shift TimeKendall Coefficient": -0.03544529782580301,
-        "Baymard ScoreCumulative Layout Shift TimeKendall P-Value": 0.43365350103396005
-    },
+    
+    
     {
         "Cumulative Layout Shift TimeHomepage UX PerformancePearson Coefficient": -0.023478379897754968,
         "Cumulative Layout Shift TimeHomepage UX PerformancePearson P-Value": 0.7625878776978081,
@@ -799,22 +743,8 @@
         "Cumulative Layout Shift TimeTotal Byte WeightKendall Coefficient": 0.2465087682666227,
         "Cumulative Layout Shift TimeTotal Byte WeightKendall P-Value": 5.075225259904586e-08
     },
-    {
-        "Speed IndexBaymard ScorePearson Coefficient": 0.0200114347106695,
-        "Speed IndexBaymard ScorePearson P-Value": 0.7652990477968132,
-        "Speed IndexBaymard ScoreSpearman Coefficient": -0.006187375930790385,
-        "Speed IndexBaymard ScoreSpearman P-Value": 0.926463991168184,
-        "Speed IndexBaymard ScoreKendall Coefficient": -0.004209189697507216,
-        "Speed IndexBaymard ScoreKendall P-Value": 0.9251779967137663
-    },
-    {
-        "Baymard ScoreSpeed IndexPearson Coefficient": 0.020011434710669507,
-        "Baymard ScoreSpeed IndexPearson P-Value": 0.7652990477968132,
-        "Baymard ScoreSpeed IndexSpearman Coefficient": -0.006187375930790386,
-        "Baymard ScoreSpeed IndexSpearman P-Value": 0.926463991168184,
-        "Baymard ScoreSpeed IndexKendall Coefficient": -0.004209189697507216,
-        "Baymard ScoreSpeed IndexKendall P-Value": 0.9251779967137663
-    },
+    
+    
     {
         "Total Blocking TimeCumulative Layout Shift TimePearson Coefficient": 0.022296814345298187,
         "Total Blocking TimeCumulative Layout Shift TimePearson P-Value": 0.7394130361704554,
@@ -863,22 +793,8 @@
         "Anzahl p TagsOverall UX PerformanceKendall Coefficient": 0.05280799167304984,
         "Anzahl p TagsOverall UX PerformanceKendall P-Value": 0.22417947763928625
     },
-    {
-        "Anzahl p TagsBaymard ScorePearson Coefficient": 0.028790422957949088,
-        "Anzahl p TagsBaymard ScorePearson P-Value": 0.6551806830357285,
-        "Anzahl p TagsBaymard ScoreSpearman Coefficient": 0.0733583437804592,
-        "Anzahl p TagsBaymard ScoreSpearman P-Value": 0.2546270178783056,
-        "Anzahl p TagsBaymard ScoreKendall Coefficient": 0.046712234536307976,
-        "Anzahl p TagsBaymard ScoreKendall P-Value": 0.28138482915642726
-    },
-    {
-        "Baymard ScoreAnzahl p TagsPearson Coefficient": 0.028790422957949112,
-        "Baymard ScoreAnzahl p TagsPearson P-Value": 0.655180683035726,
-        "Baymard ScoreAnzahl p TagsSpearman Coefficient": 0.0733583437804592,
-        "Baymard ScoreAnzahl p TagsSpearman P-Value": 0.2546270178783056,
-        "Baymard ScoreAnzahl p TagsKendall Coefficient": 0.046712234536307976,
-        "Baymard ScoreAnzahl p TagsKendall P-Value": 0.28138482915642726
-    },
+    
+    
     {
         "Cumulative Layout Shift TimeHomepage & Navigation UX PerformancePearson Coefficient": 0.02955379280331368,
         "Cumulative Layout Shift TimeHomepage & Navigation UX PerformancePearson P-Value": 0.6599790280002151,
@@ -975,22 +891,8 @@
         "Anzahl Button TagsTotal Byte WeightKendall Coefficient": 0.18527355886973634,
         "Anzahl Button TagsTotal Byte WeightKendall P-Value": 4.161327669477894e-05
     },
-    {
-        "DOM SizeBaymard ScorePearson Coefficient": 0.0414724120620837,
-        "DOM SizeBaymard ScorePearson P-Value": 0.535990392893137,
-        "DOM SizeBaymard ScoreSpearman Coefficient": 0.07296984580646367,
-        "DOM SizeBaymard ScoreSpearman P-Value": 0.27575504444764876,
-        "DOM SizeBaymard ScoreKendall Coefficient": 0.04862738962093359,
-        "DOM SizeBaymard ScoreKendall P-Value": 0.2781656956128016
-    },
-    {
-        "Baymard ScoreDOM SizePearson Coefficient": 0.0414724120620837,
-        "Baymard ScoreDOM SizePearson P-Value": 0.535990392893137,
-        "Baymard ScoreDOM SizeSpearman Coefficient": 0.07296984580646367,
-        "Baymard ScoreDOM SizeSpearman P-Value": 0.27575504444764876,
-        "Baymard ScoreDOM SizeKendall Coefficient": 0.04862738962093359,
-        "Baymard ScoreDOM SizeKendall P-Value": 0.2781656956128016
-    },
+    
+    
     {
         "Overall UX PerformanceDOM SizePearson Coefficient": 0.043884688753136385,
         "Overall UX PerformanceDOM SizePearson P-Value": 0.5125195831751218,
@@ -1103,22 +1005,8 @@
         "Total Byte WeightAnzahl IMG TagsKendall Coefficient": 0.1766693771640962,
         "Total Byte WeightAnzahl IMG TagsKendall P-Value": 8.738649367877095e-05
     },
-    {
-        "Baymard ScoreAnzahl a TagsPearson Coefficient": 0.0608888378177882,
-        "Baymard ScoreAnzahl a TagsPearson P-Value": 0.3445842458714782,
-        "Baymard ScoreAnzahl a TagsSpearman Coefficient": 0.07644984070230952,
-        "Baymard ScoreAnzahl a TagsSpearman P-Value": 0.235098027246782,
-        "Baymard ScoreAnzahl a TagsKendall Coefficient": 0.04733128038345497,
-        "Baymard ScoreAnzahl a TagsKendall P-Value": 0.27399947072195485
-    },
-    {
-        "Anzahl a TagsBaymard ScorePearson Coefficient": 0.06088883781778823,
-        "Anzahl a TagsBaymard ScorePearson P-Value": 0.3445842458714782,
-        "Anzahl a TagsBaymard ScoreSpearman Coefficient": 0.07644984070230952,
-        "Anzahl a TagsBaymard ScoreSpearman P-Value": 0.235098027246782,
-        "Anzahl a TagsBaymard ScoreKendall Coefficient": 0.04733128038345497,
-        "Anzahl a TagsBaymard ScoreKendall P-Value": 0.27399947072195485
-    },
+    
+    
     {
         "Overall UX PerformanceAnzahl div TagsPearson Coefficient": 0.06228423899256576,
         "Overall UX PerformanceAnzahl div TagsPearson P-Value": 0.3336200359795839,
@@ -1247,22 +1135,8 @@
         "First Contentful Paint TimeAnzahl a TagsKendall Coefficient": 0.139949953785967,
         "First Contentful Paint TimeAnzahl a TagsKendall P-Value": 0.0018307033320250719
     },
-    {
-        "Baymard ScoreAnzahl div TagsPearson Coefficient": 0.07380088030205997,
-        "Baymard ScoreAnzahl div TagsPearson P-Value": 0.2517647558120046,
-        "Baymard ScoreAnzahl div TagsSpearman Coefficient": 0.08660166852429776,
-        "Baymard ScoreAnzahl div TagsSpearman P-Value": 0.178446132643338,
-        "Baymard ScoreAnzahl div TagsKendall Coefficient": 0.0561727934553062,
-        "Baymard ScoreAnzahl div TagsKendall P-Value": 0.19364145149768086
-    },
-    {
-        "Anzahl div TagsBaymard ScorePearson Coefficient": 0.07380088030205997,
-        "Anzahl div TagsBaymard ScorePearson P-Value": 0.2517647558120046,
-        "Anzahl div TagsBaymard ScoreSpearman Coefficient": 0.08660166852429776,
-        "Anzahl div TagsBaymard ScoreSpearman P-Value": 0.178446132643338,
-        "Anzahl div TagsBaymard ScoreKendall Coefficient": 0.056172793455306194,
-        "Anzahl div TagsBaymard ScoreKendall P-Value": 0.19364145149768086
-    },
+    
+    
     {
         "Anzahl p TagsLargest Contentful Paint TimePearson Coefficient": 0.07641820628231452,
         "Anzahl p TagsLargest Contentful Paint TimePearson P-Value": 0.25363752599284906,
@@ -1647,22 +1521,8 @@
         "Layout ShiftsAnzahl Button TagsKendall Coefficient": 0.15751931880414438,
         "Layout ShiftsAnzahl Button TagsKendall P-Value": 0.0025633677925999566
     },
-    {
-        "Baymard ScoreAnzahl IMG TagsPearson Coefficient": 0.10537353246652291,
-        "Baymard ScoreAnzahl IMG TagsPearson P-Value": 0.10127442833645492,
-        "Baymard ScoreAnzahl IMG TagsSpearman Coefficient": 0.11211193254881256,
-        "Baymard ScoreAnzahl IMG TagsSpearman P-Value": 0.08113408237937374,
-        "Baymard ScoreAnzahl IMG TagsKendall Coefficient": 0.07313518151952536,
-        "Baymard ScoreAnzahl IMG TagsKendall P-Value": 0.09173192340844988
-    },
-    {
-        "Anzahl IMG TagsBaymard ScorePearson Coefficient": 0.10537353246652292,
-        "Anzahl IMG TagsBaymard ScorePearson P-Value": 0.10127442833645431,
-        "Anzahl IMG TagsBaymard ScoreSpearman Coefficient": 0.11211193254881258,
-        "Anzahl IMG TagsBaymard ScoreSpearman P-Value": 0.08113408237937368,
-        "Anzahl IMG TagsBaymard ScoreKendall Coefficient": 0.07313518151952536,
-        "Anzahl IMG TagsBaymard ScoreKendall P-Value": 0.09173192340844988
-    },
+    
+    
     {
         "Offscreen ImagesDesktop UX PerformancePearson Coefficient": 0.10561012277099088,
         "Offscreen ImagesDesktop UX PerformancePearson P-Value": 0.1141642661460504,
@@ -1807,38 +1667,10 @@
         "Anzahl a TagsOffscreen ImagesKendall Coefficient": 0.0533118580201103,
         "Anzahl a TagsOffscreen ImagesKendall P-Value": 0.3131578337785641
     },
-    {
-        "Time to InteractiveBaymard ScorePearson Coefficient": 0.11318335705165847,
-        "Time to InteractiveBaymard ScorePearson P-Value": 0.09031450107717504,
-        "Time to InteractiveBaymard ScoreSpearman Coefficient": 0.08374827056761057,
-        "Time to InteractiveBaymard ScoreSpearman P-Value": 0.2107788216434876,
-        "Time to InteractiveBaymard ScoreKendall Coefficient": 0.05698629040547833,
-        "Time to InteractiveBaymard ScoreKendall P-Value": 0.20359498050652092
-    },
-    {
-        "Baymard ScoreTime to InteractivePearson Coefficient": 0.11318335705165847,
-        "Baymard ScoreTime to InteractivePearson P-Value": 0.09031450107717504,
-        "Baymard ScoreTime to InteractiveSpearman Coefficient": 0.08374827056761058,
-        "Baymard ScoreTime to InteractiveSpearman P-Value": 0.21077882164348752,
-        "Baymard ScoreTime to InteractiveKendall Coefficient": 0.05698629040547833,
-        "Baymard ScoreTime to InteractiveKendall P-Value": 0.20359498050652092
-    },
-    {
-        "Baymard ScoreOffscreen ImagesPearson Coefficient": 0.11324572582626174,
-        "Baymard ScoreOffscreen ImagesPearson P-Value": 0.09013606228345877,
-        "Baymard ScoreOffscreen ImagesSpearman Coefficient": 0.00881119267383662,
-        "Baymard ScoreOffscreen ImagesSpearman P-Value": 0.895431763651348,
-        "Baymard ScoreOffscreen ImagesKendall Coefficient": 0.004928954014769066,
-        "Baymard ScoreOffscreen ImagesKendall P-Value": 0.9255622483746864
-    },
-    {
-        "Offscreen ImagesBaymard ScorePearson Coefficient": 0.11324572582626177,
-        "Offscreen ImagesBaymard ScorePearson P-Value": 0.09013606228345877,
-        "Offscreen ImagesBaymard ScoreSpearman Coefficient": 0.00881119267383662,
-        "Offscreen ImagesBaymard ScoreSpearman P-Value": 0.895431763651348,
-        "Offscreen ImagesBaymard ScoreKendall Coefficient": 0.004928954014769067,
-        "Offscreen ImagesBaymard ScoreKendall P-Value": 0.9255622483746864
-    },
+    
+    
+    
+    
     {
         "Desktop UX PerformanceAnzahl Button TagsPearson Coefficient": 0.11710933766606914,
         "Desktop UX PerformanceAnzahl Button TagsPearson P-Value": 0.06839178853417,
@@ -1903,38 +1735,10 @@
         "Anzahl IMG TagsTotal Blocking TimeKendall Coefficient": 0.1435736939097624,
         "Anzahl IMG TagsTotal Blocking TimeKendall P-Value": 0.0015096380368214918
     },
-    {
-        "Baymard ScoreTotal Blocking TimePearson Coefficient": 0.12236399059735248,
-        "Baymard ScoreTotal Blocking TimePearson P-Value": 0.06693242143664958,
-        "Baymard ScoreTotal Blocking TimeSpearman Coefficient": 0.13116930867842244,
-        "Baymard ScoreTotal Blocking TimeSpearman P-Value": 0.049405063452484466,
-        "Baymard ScoreTotal Blocking TimeKendall Coefficient": 0.090238625528093,
-        "Baymard ScoreTotal Blocking TimeKendall P-Value": 0.04511490952702663
-    },
-    {
-        "Total Blocking TimeBaymard ScorePearson Coefficient": 0.12236399059735249,
-        "Total Blocking TimeBaymard ScorePearson P-Value": 0.06693242143664958,
-        "Total Blocking TimeBaymard ScoreSpearman Coefficient": 0.13116930867842244,
-        "Total Blocking TimeBaymard ScoreSpearman P-Value": 0.049405063452484466,
-        "Total Blocking TimeBaymard ScoreKendall Coefficient": 0.09023862552809302,
-        "Total Blocking TimeBaymard ScoreKendall P-Value": 0.04511490952702663
-    },
-    {
-        "Baymard ScoreAnzahl Button TagsPearson Coefficient": 0.12285859471755436,
-        "Baymard ScoreAnzahl Button TagsPearson P-Value": 0.05580536728652242,
-        "Baymard ScoreAnzahl Button TagsSpearman Coefficient": 0.10664536367160954,
-        "Baymard ScoreAnzahl Button TagsSpearman P-Value": 0.09719681950218555,
-        "Baymard ScoreAnzahl Button TagsKendall Coefficient": 0.07174374168362169,
-        "Baymard ScoreAnzahl Button TagsKendall P-Value": 0.09957340955714698
-    },
-    {
-        "Anzahl Button TagsBaymard ScorePearson Coefficient": 0.12285859471755439,
-        "Anzahl Button TagsBaymard ScorePearson P-Value": 0.05580536728652242,
-        "Anzahl Button TagsBaymard ScoreSpearman Coefficient": 0.10664536367160954,
-        "Anzahl Button TagsBaymard ScoreSpearman P-Value": 0.09719681950218555,
-        "Anzahl Button TagsBaymard ScoreKendall Coefficient": 0.07174374168362169,
-        "Anzahl Button TagsBaymard ScoreKendall P-Value": 0.09957340955714698
-    },
+    
+    
+    
+    
     {
         "Desktop UX PerformanceAnzahl IMG TagsPearson Coefficient": 0.12309736134160729,
         "Desktop UX PerformanceAnzahl IMG TagsPearson P-Value": 0.055327188751290314,
@@ -2239,22 +2043,8 @@
         "Anzahl div TagsSpeed IndexKendall Coefficient": 0.16683264932661176,
         "Anzahl div TagsSpeed IndexKendall P-Value": 0.0002008687689833785
     },
-    {
-        "Baymard ScoreTotal Byte WeightPearson Coefficient": 0.1869912407932795,
-        "Baymard ScoreTotal Byte WeightPearson P-Value": 0.004891243762070802,
-        "Baymard ScoreTotal Byte WeightSpearman Coefficient": 0.12840283378887452,
-        "Baymard ScoreTotal Byte WeightSpearman P-Value": 0.05444443359728716,
-        "Baymard ScoreTotal Byte WeightKendall Coefficient": 0.08613126042235622,
-        "Baymard ScoreTotal Byte WeightKendall P-Value": 0.054645994039462
-    },
-    {
-        "Total Byte WeightBaymard ScorePearson Coefficient": 0.18699124079327956,
-        "Total Byte WeightBaymard ScorePearson P-Value": 0.004891243762070802,
-        "Total Byte WeightBaymard ScoreSpearman Coefficient": 0.12840283378887454,
-        "Total Byte WeightBaymard ScoreSpearman P-Value": 0.05444443359728712,
-        "Total Byte WeightBaymard ScoreKendall Coefficient": 0.08613126042235623,
-        "Total Byte WeightBaymard ScoreKendall P-Value": 0.054645994039462
-    },
+    
+    
     {
         "Offscreen ImagesAnzahl Button TagsPearson Coefficient": 0.18997581951802248,
         "Offscreen ImagesAnzahl Button TagsPearson P-Value": 0.004238337964592866,
@@ -2575,22 +2365,8 @@
         "Anzahl IMG TagsAnzahl p TagsKendall Coefficient": 0.3757513257213836,
         "Anzahl IMG TagsAnzahl p TagsKendall P-Value": 6.797698574116294e-18
     },
-    {
-        "Baymard ScoreHomepage & Navigation UX PerformancePearson Coefficient": 0.33181829925188494,
-        "Baymard ScoreHomepage & Navigation UX PerformancePearson P-Value": 1.25246035612183e-07,
-        "Baymard ScoreHomepage & Navigation UX PerformanceSpearman Coefficient": 0.33194834797825895,
-        "Baymard ScoreHomepage & Navigation UX PerformanceSpearman P-Value": 1.2375116915595312e-07,
-        "Baymard ScoreHomepage & Navigation UX PerformanceKendall Coefficient": 0.24533873700885958,
-        "Baymard ScoreHomepage & Navigation UX PerformanceKendall P-Value": 1.3749492040715791e-08
-    },
-    {
-        "Homepage & Navigation UX PerformanceBaymard ScorePearson Coefficient": 0.33181829925188494,
-        "Homepage & Navigation UX PerformanceBaymard ScorePearson P-Value": 1.25246035612183e-07,
-        "Homepage & Navigation UX PerformanceBaymard ScoreSpearman Coefficient": 0.331948347978259,
-        "Homepage & Navigation UX PerformanceBaymard ScoreSpearman P-Value": 1.237511691559522e-07,
-        "Homepage & Navigation UX PerformanceBaymard ScoreKendall Coefficient": 0.24533873700885955,
-        "Homepage & Navigation UX PerformanceBaymard ScoreKendall P-Value": 1.3749492040715791e-08
-    },
+    
+    
     {
         "Anzahl p TagsAnzahl div TagsPearson Coefficient": 0.3364957654776408,
         "Anzahl p TagsAnzahl div TagsPearson P-Value": 7.616186983248777e-08,
@@ -2751,22 +2527,8 @@
         "Anzahl Button TagsAnzahl div TagsKendall Coefficient": 0.5088324560821101,
         "Anzahl Button TagsAnzahl div TagsKendall P-Value": 2.056213455431954e-31
     },
-    {
-        "Homepage UX PerformanceBaymard ScorePearson Coefficient": 0.4472334242114132,
-        "Homepage UX PerformanceBaymard ScorePearson P-Value": 1.9593234383327037e-10,
-        "Homepage UX PerformanceBaymard ScoreSpearman Coefficient": 0.4446215699773387,
-        "Homepage UX PerformanceBaymard ScoreSpearman P-Value": 2.5670458956507725e-10,
-        "Homepage UX PerformanceBaymard ScoreKendall Coefficient": 0.3129462183030563,
-        "Homepage UX PerformanceBaymard ScoreKendall P-Value": 3.0288963571039445e-10
-    },
-    {
-        "Baymard ScoreHomepage UX PerformancePearson Coefficient": 0.44723342421141327,
-        "Baymard ScoreHomepage UX PerformancePearson P-Value": 1.9593234383327037e-10,
-        "Baymard ScoreHomepage UX PerformanceSpearman Coefficient": 0.4446215699773387,
-        "Baymard ScoreHomepage UX PerformanceSpearman P-Value": 2.5670458956507725e-10,
-        "Baymard ScoreHomepage UX PerformanceKendall Coefficient": 0.31294621830305624,
-        "Baymard ScoreHomepage UX PerformanceKendall P-Value": 3.0288963571039445e-10
-    },
+    
+    
     {
         "DOM SizeAnzahl IMG TagsPearson Coefficient": 0.4517367049723424,
         "DOM SizeAnzahl IMG TagsPearson P-Value": 1.0303249742872064e-12,
@@ -2991,38 +2753,10 @@
         "Time to InteractiveTotal Blocking TimeKendall Coefficient": 0.6502760016316448,
         "Time to InteractiveTotal Blocking TimeKendall P-Value": 2.6229317074097064e-47
     },
-    {
-        "Desktop UX PerformanceBaymard ScorePearson Coefficient": 0.9052861956432936,
-        "Desktop UX PerformanceBaymard ScorePearson P-Value": 1.4005850280731383e-91,
-        "Desktop UX PerformanceBaymard ScoreSpearman Coefficient": 0.9010580235784982,
-        "Desktop UX PerformanceBaymard ScoreSpearman P-Value": 2.0778664904381618e-89,
-        "Desktop UX PerformanceBaymard ScoreKendall Coefficient": 0.7711113866625171,
-        "Desktop UX PerformanceBaymard ScoreKendall P-Value": 2.4152879333155792e-71
-    },
-    {
-        "Baymard ScoreDesktop UX PerformancePearson Coefficient": 0.9052861956432937,
-        "Baymard ScoreDesktop UX PerformancePearson P-Value": 1.4005850280727789e-91,
-        "Baymard ScoreDesktop UX PerformanceSpearman Coefficient": 0.9010580235784983,
-        "Baymard ScoreDesktop UX PerformanceSpearman P-Value": 2.0778664904377484e-89,
-        "Baymard ScoreDesktop UX PerformanceKendall Coefficient": 0.7711113866625172,
-        "Baymard ScoreDesktop UX PerformanceKendall P-Value": 2.4152879333155792e-71
-    },
-    {
-        "Baymard ScoreOverall UX PerformancePearson Coefficient": 0.9455690429362388,
-        "Baymard ScoreOverall UX PerformancePearson P-Value": 1.714497356057352e-119,
-        "Baymard ScoreOverall UX PerformanceSpearman Coefficient": 0.9446500184756892,
-        "Baymard ScoreOverall UX PerformanceSpearman P-Value": 1.2191190771588488e-118,
-        "Baymard ScoreOverall UX PerformanceKendall Coefficient": 0.8732612752614263,
-        "Baymard ScoreOverall UX PerformanceKendall P-Value": 8.568040426111625e-91
-    },
-    {
-        "Overall UX PerformanceBaymard ScorePearson Coefficient": 0.9455690429362388,
-        "Overall UX PerformanceBaymard ScorePearson P-Value": 1.714497356057352e-119,
-        "Overall UX PerformanceBaymard ScoreSpearman Coefficient": 0.9446500184756893,
-        "Overall UX PerformanceBaymard ScoreSpearman P-Value": 1.2191190771585712e-118,
-        "Overall UX PerformanceBaymard ScoreKendall Coefficient": 0.8732612752614262,
-        "Overall UX PerformanceBaymard ScoreKendall P-Value": 8.568040426111625e-91
-    },
+    
+    
+    
+    
     {
         "Overall UX PerformanceDesktop UX PerformancePearson Coefficient": 0.9652651234218693,
         "Overall UX PerformanceDesktop UX PerformancePearson P-Value": 1.7588381340986358e-142,

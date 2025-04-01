@@ -108,7 +108,7 @@ def correlate_all(dataframe, keys):
 
 # 0 Website ID, 1 Overall Category, 2 FCP Time, 3 FCP Score, 4 LCP Time, 5 LCP Score, 6 TBT, 
 # 7 CLS Time, 8 CLS Score, 9 Layout Shifts, 10 Speed Index, 11 Time to Interactive, 12 FMP Time, 
-# 13 DOM Size, 14 Baymard Score, 15 A Tags, 16 P Tags, 17 Div Tags, 18 IMG Tags, 19 Button Tags
+# 13 DOM Size, 14 A Tags, 15 P Tags, 16 Div Tags, 17 IMG Tags, 18 Button Tags
 def __main__():
     keys = get_keys("output.json")
     data = extract(keys)

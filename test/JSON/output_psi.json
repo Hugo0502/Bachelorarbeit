@@ -13,8 +13,7 @@
         "Speed Index": "2.5",
         "Time to Interactive": "4.8",
         "FMP Time": "1.2",
-        "DOM Size": 1149,
-        "Baymard Score": 65.8
+        "DOM Size": 1149
     },
     "http://firebase.google.com": {
         "Website ID": "https://firebase.google.com/",
@@ -30,9 +29,9 @@
         "Speed Index": "1.9",
         "Time to Interactive": "3.7",
         "FMP Time": "1.0",
-        "DOM Size": 1025,
-        "Baymard Score": 65.6
+        "DOM Size": 1025
     },
+    
     "http://avast.com": {
         "Website ID": "https://www.avast.com/de-de/index",
         "Overall Category": "FAST",
@@ -47,8 +46,7 @@
         "Speed Index": "1.9",
         "Time to Interactive": "3.1",
         "FMP Time": "1.0",
-        "DOM Size": 1551,
-        "Baymard Score": 60.4
+        "DOM Size": 1551
     },
     "http://crutchfield.com": {
         "Website ID": "https://www.crutchfield.com/",
@@ -64,8 +62,7 @@
         "Speed Index": "1.5",
         "Time to Interactive": "2.0",
         "FMP Time": "1.1",
-        "DOM Size": 4567,
-        "Baymard Score": 57.6
+        "DOM Size": 4567
     },
     "http://codecademy.com": {
         "Website ID": "https://www.codecademy.com/",
@@ -81,8 +78,7 @@
         "Speed Index": "2.8",
         "Time to Interactive": "6.9",
         "FMP Time": "0.5",
-        "DOM Size": 3164,
-        "Baymard Score": 57.4
+        "DOM Size": 3164
     },
     "http://rei.com": {
         "Website ID": "https://www.rei.com/",
@@ -98,8 +94,7 @@
         "Speed Index": "2.4",
         "Time to Interactive": "4.8",
         "FMP Time": "0.8",
-        "DOM Size": 5119,
-        "Baymard Score": 54.7
+        "DOM Size": 5119
     },
     "http://evernote.com": {
         "Website ID": "https://evernote.com/",
@@ -115,8 +110,7 @@
         "Speed Index": "0.7",
         "Time to Interactive": "1.7",
         "FMP Time": "0.7",
-        "DOM Size": 578,
-        "Baymard Score": 54.3
+        "DOM Size": 578
     },
     "http://slack.com": {
         "Website ID": "https://slack.com/",
@@ -132,8 +126,7 @@
         "Speed Index": "1.9",
         "Time to Interactive": "6.1",
         "FMP Time": "1.4",
-        "DOM Size": 1491,
-        "Baymard Score": 53.9
+        "DOM Size": 1491
     },
     "http://lowes.com": {
         "Website ID": "https://www.lowes.com/",
@@ -149,8 +142,7 @@
         "Speed Index": "4.5",
         "Time to Interactive": "9.2",
         "FMP Time": "0.7",
-        "DOM Size": 4483,
-        "Baymard Score": 53.2
+        "DOM Size": 4483
     },
     "http://target.com": {
         "Website ID": "https://www.target.com/",
@@ -166,8 +158,7 @@
         "Speed Index": "3.5",
         "Time to Interactive": "7.6",
         "FMP Time": "0.9",
-        "DOM Size": 1952,
-        "Baymard Score": 50.9
+        "DOM Size": 1952
     },
     "http://johnlewis.com": {
         "Website ID": "https://www.johnlewis.com/",
@@ -183,8 +174,7 @@
         "Speed Index": "2.1",
         "Time to Interactive": "3.8",
         "FMP Time": "0.9",
-        "DOM Size": 1776,
-        "Baymard Score": 50.1
+        "DOM Size": 1776
     },
     "http://build.com": {
         "Website ID": "https://www.build.com/",
@@ -200,8 +190,7 @@
         "Speed Index": "2.1",
         "Time to Interactive": "5.7",
         "FMP Time": "0.6",
-        "DOM Size": 479,
-        "Baymard Score": 49.8
+        "DOM Size": 479
     },
     "http://hollandandbarrett.com": {
         "Website ID": "https://www.hollandandbarrett.com/",
@@ -217,8 +206,7 @@
         "Speed Index": "2.9",
         "Time to Interactive": "3.8",
         "FMP Time": "1.9",
-        "DOM Size": 2024,
-        "Baymard Score": 49.8
+        "DOM Size": 2024
     },
     "http://acehardware.com": {
         "Website ID": "https://www.acehardware.com/",
@@ -234,8 +222,7 @@
         "Speed Index": "2.6",
         "Time to Interactive": "7.0",
         "FMP Time": "1.1",
-        "DOM Size": 5589,
-        "Baymard Score": 49.7
+        "DOM Size": 5589
     },
     "http://jimmychoo.com": {
         "Website ID": "https://us.jimmychoo.com/en/home",
@@ -251,8 +238,7 @@
         "Speed Index": "5.8",
         "Time to Interactive": "5.1",
         "FMP Time": "2.3",
-        "DOM Size": 3646,
-        "Baymard Score": 49.3
+        "DOM Size": 3646
     },
     "http://zendesk.com": {
         "Website ID": "https://www.zendesk.com/",
@@ -268,8 +254,7 @@
         "Speed Index": "3.7",
         "Time to Interactive": "7.6",
         "FMP Time": "1.1",
-        "DOM Size": 2214,
-        "Baymard Score": 48.2
+        "DOM Size": 2214
     },
     "http://kiwico.com": {
         "Website ID": "https://www.kiwico.com/",
@@ -285,8 +270,7 @@
         "Speed Index": "3.1",
         "Time to Interactive": "4.2",
         "FMP Time": "0.8",
-        "DOM Size": 1205,
-        "Baymard Score": 48.0
+        "DOM Size": 1205
     },
     "http://bhphotovideo.com": {
         "Website ID": "https://www.bhphotovideo.com/",
@@ -302,8 +286,7 @@
         "Speed Index": "2.4",
         "Time to Interactive": "5.0",
         "FMP Time": "0.5",
-        "DOM Size": 1134,
-        "Baymard Score": 49.0
+        "DOM Size": 1134
     },
     "http://store.hp.com": {
         "Website ID": "https://www.hp.com/us-en/shop",
@@ -319,8 +302,7 @@
         "Speed Index": "5.1",
         "Time to Interactive": "4.3",
         "FMP Time": "1.3",
-        "DOM Size": 1079,
-        "Baymard Score": 47.4
+        "DOM Size": 1079
     },
     "http://adobe.com": {
         "Website ID": "https://www.adobe.com/",
@@ -336,8 +318,7 @@
         "Speed Index": "4.8",
         "Time to Interactive": "4.0",
         "FMP Time": "1.4",
-        "DOM Size": 1162,
-        "Baymard Score": 47.4
+        "DOM Size": 1162
     },
     "http://expedia.com": {
         "Website ID": "https://www.expedia.com/",
@@ -353,8 +334,7 @@
         "Speed Index": "3.0",
         "Time to Interactive": "5.9",
         "FMP Time": "0.9",
-        "DOM Size": 1322,
-        "Baymard Score": 47.2
+        "DOM Size": 1322
     },
     "http://muchbetteradventures.com": {
         "Website ID": "https://www.muchbetteradventures.com/",
@@ -370,8 +350,7 @@
         "Speed Index": "3.0",
         "Time to Interactive": "3.2",
         "FMP Time": "0.7",
-        "DOM Size": 1558,
-        "Baymard Score": 47.1
+        "DOM Size": 1558
     },
     "http://breuninger.com": {
         "Website ID": "https://www.breuninger.com/",
@@ -387,8 +366,7 @@
         "Speed Index": "0.9",
         "Time to Interactive": "0.8",
         "FMP Time": "0.8",
-        "DOM Size": 264,
-        "Baymard Score": 47.0
+        "DOM Size": 264
     },
     "http://bestbuy.com": {
         "Website ID": "https://www.bestbuy.com/",
@@ -404,8 +382,7 @@
         "Speed Index": "4.8",
         "Time to Interactive": "9.0",
         "FMP Time": "1.4",
-        "DOM Size": 1381,
-        "Baymard Score": 46.9
+        "DOM Size": 1381
     },
     "http://gamma.nl": {
         "Website ID": "https://www.gamma.nl/",
@@ -421,8 +398,7 @@
         "Speed Index": "1.5",
         "Time to Interactive": "3.5",
         "FMP Time": "0.7",
-        "DOM Size": 1850,
-        "Baymard Score": 46.7
+        "DOM Size": 1850
     },
     "http://shop.nordstrom.com": {
         "Website ID": "https://siteclosed.nordstrom.com/invitation.html",
@@ -438,8 +414,7 @@
         "Speed Index": "0.7",
         "Time to Interactive": "0.7",
         "FMP Time": "0.7",
-        "DOM Size": 11,
-        "Baymard Score": 45.6
+        "DOM Size": 11
     },
     "http://amazon.com": {
         "Website ID": "https://www.amazon.com/",
@@ -455,8 +430,7 @@
         "Speed Index": "3.4",
         "Time to Interactive": "3.4",
         "FMP Time": "1.0",
-        "DOM Size": 2190,
-        "Baymard Score": 44.8
+        "DOM Size": 2190
     },
     "http://fromourplace.com": {
         "Website ID": "https://fromourplace.com/",
@@ -472,8 +446,7 @@
         "Speed Index": "10.4",
         "Time to Interactive": "18.9",
         "FMP Time": "0.8",
-        "DOM Size": 4020,
-        "Baymard Score": 44.7
+        "DOM Size": 4020
     },
     "http://generali.it": {
         "Website ID": "https://www.generali.it/",
@@ -489,8 +462,7 @@
         "Speed Index": "2.8",
         "Time to Interactive": "3.3",
         "FMP Time": "1.1",
-        "DOM Size": 3208,
-        "Baymard Score": 44.4
+        "DOM Size": 3208
     },
     "http://netflix.com": {
         "Website ID": "https://www.netflix.com/",
@@ -506,8 +478,7 @@
         "Speed Index": "0.9",
         "Time to Interactive": "1.2",
         "FMP Time": "0.9",
-        "DOM Size": 253,
-        "Baymard Score": 43.8
+        "DOM Size": 253
     },
     "http://smiletwice.com": {
         "Website ID": "https://smiletwice.com/",
@@ -523,8 +494,7 @@
         "Speed Index": "8.1",
         "Time to Interactive": "7.9",
         "FMP Time": "1.0",
-        "DOM Size": 1492,
-        "Baymard Score": 43.5
+        "DOM Size": 1492
     },
     "http://zalando.co.uk": {
         "Website ID": "https://www.zalando.co.uk/",
@@ -540,8 +510,7 @@
         "Speed Index": "3.3",
         "Time to Interactive": "3.3",
         "FMP Time": "1.1",
-        "DOM Size": 1758,
-        "Baymard Score": 43.4
+        "DOM Size": 1758
     },
     "http://sephora.com": {
         "Website ID": "https://www.sephora.com/",
@@ -557,8 +526,7 @@
         "Speed Index": "9.4",
         "Time to Interactive": "11.2",
         "FMP Time": "2.8",
-        "DOM Size": 6672,
-        "Baymard Score": 43.0
+        "DOM Size": 6672
     },
     "http://kohls.com": {
         "Website ID": "https://www.kohls.com/",
@@ -574,8 +542,7 @@
         "Speed Index": "4.4",
         "Time to Interactive": "9.4",
         "FMP Time": "1.3",
-        "DOM Size": 2957,
-        "Baymard Score": 42.2
+        "DOM Size": 2957
     },
     "http://netonnet.se": {
         "Website ID": "https://www.netonnet.se/",
@@ -591,8 +558,7 @@
         "Speed Index": "1.5",
         "Time to Interactive": "1.6",
         "FMP Time": "1.0",
-        "DOM Size": 2732,
-        "Baymard Score": 42.0
+        "DOM Size": 2732
     },
     "http://carparts.com": {
         "Website ID": "https://www.carparts.com/",
@@ -608,8 +574,7 @@
         "Speed Index": "1.8",
         "Time to Interactive": "0.9",
         "FMP Time": "0.9",
-        "DOM Size": 16,
-        "Baymard Score": 42.0
+        "DOM Size": 16
     },
     "http://booking.com": {
         "Website ID": "https://www.booking.com/index.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaJUCiAEBmAEJuAEHyAEM2AEB6AEBiAIBqAIDuAKNl8CzBsACAdICJDU1ZjY0YjJmLTFkNzctNDgxYy1iZmRiLTQ3NjQzYThjZWQ3OdgCBeACAQ&sid=541e2b30429366b78fe277883f2c0e04&keep_landing=1&sb_price_type=total&",
@@ -625,8 +590,7 @@
         "Speed Index": "3.0",
         "Time to Interactive": "7.1",
         "FMP Time": "1.4",
-        "DOM Size": 2061,
-        "Baymard Score": 41.9
+        "DOM Size": 2061
     },
     "http://airbnb.com": {
         "Website ID": "https://www.airbnb.com/",
@@ -642,8 +606,7 @@
         "Speed Index": "5.5",
         "Time to Interactive": "4.1",
         "FMP Time": "0.8",
-        "DOM Size": 3854,
-        "Baymard Score": 41.7
+        "DOM Size": 3854
     },
     "http://statefarm.com": {
         "Website ID": "https://www.statefarm.com/",
@@ -659,8 +622,7 @@
         "Speed Index": "2.0",
         "Time to Interactive": "4.6",
         "FMP Time": "1.1",
-        "DOM Size": 1744,
-        "Baymard Score": 41.2
+        "DOM Size": 1744
     },
     "http://evo.com": {
         "Website ID": "https://www.evo.com/",
@@ -676,8 +638,7 @@
         "Speed Index": "4.7",
         "Time to Interactive": "5.9",
         "FMP Time": "1.3",
-        "DOM Size": 2199,
-        "Baymard Score": 40.9
+        "DOM Size": 2199
     },
     "http://overstock.com": {
         "Website ID": "https://www.overstock.com/",
@@ -693,8 +654,7 @@
         "Speed Index": "2.2",
         "Time to Interactive": "3.5",
         "FMP Time": "0.9",
-        "DOM Size": 3748,
-        "Baymard Score": 40.9
+        "DOM Size": 3748
     },
     "http://gousto.co.uk": {
         "Website ID": "https://www.gousto.co.uk/",
@@ -710,8 +670,7 @@
         "Speed Index": "4.3",
         "Time to Interactive": "5.0",
         "FMP Time": "1.6",
-        "DOM Size": 2552,
-        "Baymard Score": 40.5
+        "DOM Size": 2552
     },
     "http://bol.com": {
         "Website ID": "https://www.bol.com/nl/nl/",
@@ -727,8 +686,7 @@
         "Speed Index": "1.9",
         "Time to Interactive": "3.0",
         "FMP Time": "1.1",
-        "DOM Size": 2717,
-        "Baymard Score": 40.3
+        "DOM Size": 2717
     },
     "http://asos.co.uk": {
         "Website ID": "https://www.asos.com/",
@@ -744,8 +702,7 @@
         "Speed Index": "2.1",
         "Time to Interactive": "5.3",
         "FMP Time": "0.8",
-        "DOM Size": 3409,
-        "Baymard Score": 40.1
+        "DOM Size": 3409
     },
     "http://harrys.com": {
         "Website ID": "https://www.harrys.com/en/us",
@@ -761,8 +718,7 @@
         "Speed Index": "5.8",
         "Time to Interactive": "7.2",
         "FMP Time": "2.2",
-        "DOM Size": 1213,
-        "Baymard Score": 39.9
+        "DOM Size": 1213
     },
     "http://everlane.com": {
         "Website ID": "https://www.everlane.com/",
@@ -778,8 +734,7 @@
         "Speed Index": "6.5",
         "Time to Interactive": "5.8",
         "FMP Time": "1.0",
-        "DOM Size": 1449,
-        "Baymard Score": 39.6
+        "DOM Size": 1449
     },
     "http://adidas.co.uk": {
         "Website ID": "https://www.adidas.co.uk/",
@@ -795,8 +750,7 @@
         "Speed Index": "1.3",
         "Time to Interactive": "4.5",
         "FMP Time": "0.9",
-        "DOM Size": 4898,
-        "Baymard Score": 39.6
+        "DOM Size": 4898
     },
     "http://laredoute.com": {
         "Website ID": "https://www.laredoute.com/",
@@ -812,8 +766,7 @@
         "Speed Index": "2.2",
         "Time to Interactive": "3.3",
         "FMP Time": "1.4",
-        "DOM Size": 2644,
-        "Baymard Score": 39.4
+        "DOM Size": 2644
     },
     "http://vancleefarpels.com/fr/en/home.html": {
         "Website ID": "https://www.vancleefarpels.com/fr/en/home.html",
@@ -829,8 +782,7 @@
         "Speed Index": "3.6",
         "Time to Interactive": "3.7",
         "FMP Time": "0.7",
-        "DOM Size": 1940,
-        "Baymard Score": 39.0
+        "DOM Size": 1940
     },
     "http://revzilla.com": {
         "Website ID": "https://www.revzilla.com/",
@@ -846,8 +798,7 @@
         "Speed Index": "4.2",
         "Time to Interactive": "5.4",
         "FMP Time": "0.9",
-        "DOM Size": 5378,
-        "Baymard Score": 38.8
+        "DOM Size": 5378
     },
     "http://marksandspencer.com": {
         "Website ID": "https://www.marksandspencer.com/",
@@ -863,8 +814,7 @@
         "Speed Index": "2.7",
         "Time to Interactive": "3.1",
         "FMP Time": "0.7",
-        "DOM Size": 4993,
-        "Baymard Score": 38.7
+        "DOM Size": 4993
     },
     "http://urbanoutfitters.com": {
         "Website ID": "https://www.urbanoutfitters.com/de-de/?ar=uo-us,uo-de",
@@ -880,8 +830,7 @@
         "Speed Index": "2.9",
         "Time to Interactive": "6.4",
         "FMP Time": "0.7",
-        "DOM Size": 850,
-        "Baymard Score": 38.0
+        "DOM Size": 850
     },
     "http://libertymutualgroup.com": {
         "Website ID": "https://www.libertymutualgroup.com/about-lm/corporate-information/overview",
@@ -897,8 +846,7 @@
         "Speed Index": "3.4",
         "Time to Interactive": "1.8",
         "FMP Time": "1.1",
-        "DOM Size": 886,
-        "Baymard Score": 37.9
+        "DOM Size": 886
     },
     "http://gucci.com/it/en_gb/": {
         "Website ID": "https://www.gucci.com/it/en_gb/",
@@ -914,8 +862,7 @@
         "Speed Index": "5.0",
         "Time to Interactive": "8.7",
         "FMP Time": "1.2",
-        "DOM Size": 3613,
-        "Baymard Score": 37.9
+        "DOM Size": 3613
     },
     "http://hbomax.com": {
         "Website ID": "https://www.hbomax.com/geo-availability",
@@ -931,8 +878,7 @@
         "Speed Index": "2.2",
         "Time to Interactive": "3.3",
         "FMP Time": "0.8",
-        "DOM Size": 243,
-        "Baymard Score": 37.8
+        "DOM Size": 243
     },
     "http://iherb.com": {
         "Website ID": "https://www.iherb.com/",
@@ -948,8 +894,7 @@
         "Speed Index": "7.1",
         "Time to Interactive": "8.3",
         "FMP Time": "1.7",
-        "DOM Size": 7778,
-        "Baymard Score": 37.8
+        "DOM Size": 7778
     },
     "http://travelers.com": {
         "Website ID": "https://www.travelers.com/",
@@ -965,8 +910,7 @@
         "Speed Index": "4.0",
         "Time to Interactive": "4.7",
         "FMP Time": "1.5",
-        "DOM Size": 1313,
-        "Baymard Score": 37.3
+        "DOM Size": 1313
     },
     "http://ikea.co.uk": {
         "Website ID": "https://www.ikea.com/gb/en/",
@@ -982,8 +926,7 @@
         "Speed Index": "2.0",
         "Time to Interactive": "3.5",
         "FMP Time": "1.1",
-        "DOM Size": 3549,
-        "Baymard Score": 37.1
+        "DOM Size": 3549
     },
     "http://obi.de": {
         "Website ID": "https://www.obi.de/",
@@ -999,8 +942,7 @@
         "Speed Index": "2.6",
         "Time to Interactive": "4.0",
         "FMP Time": "1.4",
-        "DOM Size": 3811,
-        "Baymard Score": 37.0
+        "DOM Size": 3811
     },
     "http://snowehome.com": {
         "Website ID": "https://snowehome.com/",
@@ -1016,8 +958,7 @@
         "Speed Index": "8.7",
         "Time to Interactive": "7.5",
         "FMP Time": "1.0",
-        "DOM Size": 2139,
-        "Baymard Score": 37.0
+        "DOM Size": 2139
     },
     "http://crateandbarrel.com": {
         "Website ID": "https://www.crateandbarrel.com/",
@@ -1033,8 +974,7 @@
         "Speed Index": "4.2",
         "Time to Interactive": "6.0",
         "FMP Time": "1.2",
-        "DOM Size": 3683,
-        "Baymard Score": 36.8
+        "DOM Size": 3683
     },
     "http://staples.com": {
         "Website ID": "https://www.staples.com/",
@@ -1050,8 +990,7 @@
         "Speed Index": "1.4",
         "Time to Interactive": "0.9",
         "FMP Time": "0.9",
-        "DOM Size": 915,
-        "Baymard Score": 36.7
+        "DOM Size": 915
     },
     "http://gamestop.com": {
         "Website ID": "https://www.gamestop.com/",
@@ -1067,8 +1006,7 @@
         "Speed Index": "2.6",
         "Time to Interactive": "4.9",
         "FMP Time": "1.1",
-        "DOM Size": 4207,
-        "Baymard Score": 36.7
+        "DOM Size": 4207
     },
     "http://macys.com": {
         "Website ID": "https://www.macys.com/",
@@ -1084,8 +1022,7 @@
         "Speed Index": "5.1",
         "Time to Interactive": "7.9",
         "FMP Time": "1.0",
-        "DOM Size": 1744,
-        "Baymard Score": 37.0
+        "DOM Size": 1744
     },
     "http://dell.com": {
         "Website ID": "https://www.dell.com/de-de",
@@ -1101,8 +1038,7 @@
         "Speed Index": "1.6",
         "Time to Interactive": "5.8",
         "FMP Time": "0.6",
-        "DOM Size": 1668,
-        "Baymard Score": 36.4
+        "DOM Size": 1668
     },
     "http://mytoys.de": {
         "Website ID": "https://www.otto.de/mytoys/",
@@ -1118,8 +1054,7 @@
         "Speed Index": "1.5",
         "Time to Interactive": "2.0",
         "FMP Time": "1.0",
-        "DOM Size": 2542,
-        "Baymard Score": 36.2
+        "DOM Size": 2542
     },
     "http://dollarshaveclub.com": {
         "Website ID": "https://us.dollarshaveclub.com/",
@@ -1135,8 +1070,7 @@
         "Speed Index": "2.2",
         "Time to Interactive": "4.8",
         "FMP Time": "1.1",
-        "DOM Size": 843,
-        "Baymard Score": 36.1
+        "DOM Size": 843
     },
     "http://chewy.com": {
         "Website ID": "https://www.chewy.com/",
@@ -1152,8 +1086,7 @@
         "Speed Index": "6.7",
         "Time to Interactive": "10.2",
         "FMP Time": "1.2",
-        "DOM Size": 2625,
-        "Baymard Score": 35.8
+        "DOM Size": 2625
     },
     "http://en.louisvuitton.com/eng-nl/": {
         "Website ID": "https://en.louisvuitton.com/eng-nl/homepage",
@@ -1169,8 +1102,7 @@
         "Speed Index": "3.9",
         "Time to Interactive": "3.4",
         "FMP Time": "0.6",
-        "DOM Size": 1139,
-        "Baymard Score": 35.7
+        "DOM Size": 1139
     },
     "http://ellos.se": {
         "Website ID": "https://www.ellos.se/",
@@ -1186,8 +1118,7 @@
         "Speed Index": "2.2",
         "Time to Interactive": "2.8",
         "FMP Time": "1.1",
-        "DOM Size": 1420,
-        "Baymard Score": 35.6
+        "DOM Size": 1420
     },
     "http://backcountry.com": {
         "Website ID": "https://www.backcountry.com/",
@@ -1203,8 +1134,7 @@
         "Speed Index": "1.0",
         "Time to Interactive": "0.6",
         "FMP Time": "0.6",
-        "DOM Size": 5,
-        "Baymard Score": 35.4
+        "DOM Size": 5
     },
     "http://hellofresh.com": {
         "Website ID": "https://www.hellofresh.com/",
@@ -1220,8 +1150,7 @@
         "Speed Index": "5.2",
         "Time to Interactive": "5.8",
         "FMP Time": "0.7",
-        "DOM Size": 1563,
-        "Baymard Score": 35.3
+        "DOM Size": 1563
     },
     "http://academy.com": {
         "Website ID": "https://www.academy.com/",
@@ -1237,8 +1166,7 @@
         "Speed Index": "3.3",
         "Time to Interactive": "5.2",
         "FMP Time": "1.3",
-        "DOM Size": 1964,
-        "Baymard Score": 34.9
+        "DOM Size": 1964
     },
     "http://mediamarkt.de": {
         "Website ID": "https://www.mediamarkt.de/",
@@ -1254,8 +1182,7 @@
         "Speed Index": "4.0",
         "Time to Interactive": "7.9",
         "FMP Time": "1.9",
-        "DOM Size": 3165,
-        "Baymard Score": 34.7
+        "DOM Size": 3165
     },
     "http://us.trip.com": {
         "Website ID": "https://us.trip.com/",
@@ -1271,8 +1198,7 @@
         "Speed Index": "1.9",
         "Time to Interactive": "2.8",
         "FMP Time": "0.9",
-        "DOM Size": 960,
-        "Baymard Score": 34.5
+        "DOM Size": 960
     },
     "http://allstate.com": {
         "Website ID": "https://www.allstate.com/",
@@ -1288,8 +1214,7 @@
         "Speed Index": "3.9",
         "Time to Interactive": "5.0",
         "FMP Time": "1.7",
-        "DOM Size": 1532,
-        "Baymard Score": 34.2
+        "DOM Size": 1532
     },
     "http://backdrophome.com": {
         "Website ID": "https://www.backdrophome.com/",
@@ -1305,8 +1230,7 @@
         "Speed Index": "1.5",
         "Time to Interactive": "3.7",
         "FMP Time": "0.9",
-        "DOM Size": 1357,
-        "Baymard Score": 34.1
+        "DOM Size": 1357
     },
     "http://xero.com/us/": {
         "Website ID": "https://www.xero.com/us/",
@@ -1322,8 +1246,7 @@
         "Speed Index": "2.5",
         "Time to Interactive": "7.8",
         "FMP Time": "0.7",
-        "DOM Size": 1070,
-        "Baymard Score": 34.0
+        "DOM Size": 1070
     },
     "http://allegromedical.com": {
         "Website ID": "https://www.allegromedical.com/",
@@ -1339,8 +1262,7 @@
         "Speed Index": "5.2",
         "Time to Interactive": "5.3",
         "FMP Time": "1.2",
-        "DOM Size": 2296,
-        "Baymard Score": 33.8
+        "DOM Size": 2296
     },
     "http://ulta.com": {
         "Website ID": "https://www.ulta.com/",
@@ -1356,8 +1278,7 @@
         "Speed Index": "3.1",
         "Time to Interactive": "4.2",
         "FMP Time": "0.8",
-        "DOM Size": 2150,
-        "Baymard Score": 33.5
+        "DOM Size": 2150
     },
     "http://bang-olufsen.com/en": {
         "Website ID": "https://www.bang-olufsen.com/en/de",
@@ -1373,8 +1294,7 @@
         "Speed Index": "3.1",
         "Time to Interactive": "4.0",
         "FMP Time": "1.0",
-        "DOM Size": 2999,
-        "Baymard Score": 33.4
+        "DOM Size": 2999
     },
     "http://smythstoys.com": {
         "Website ID": "https://www.smythstoys.com/",
@@ -1390,8 +1310,7 @@
         "Speed Index": "2.0",
         "Time to Interactive": "2.0",
         "FMP Time": "0.8",
-        "DOM Size": 2139,
-        "Baymard Score": 32.2
+        "DOM Size": 2139
     },
     "http://sportsdirect.com": {
         "Website ID": "https://www.sportsdirect.com/",
@@ -1407,8 +1326,7 @@
         "Speed Index": "2.7",
         "Time to Interactive": "2.7",
         "FMP Time": "1.1",
-        "DOM Size": 1907,
-        "Baymard Score": 32.1
+        "DOM Size": 1907
     },
     "http://walgreens.com": {
         "Website ID": "https://www.walgreens.com/",
@@ -1424,8 +1342,7 @@
         "Speed Index": "8.3",
         "Time to Interactive": "6.6",
         "FMP Time": "1.4",
-        "DOM Size": 2220,
-        "Baymard Score": 32.6
+        "DOM Size": 2220
     },
     "http://newegg.com": {
         "Website ID": "https://www.newegg.com/",
@@ -1441,8 +1358,7 @@
         "Speed Index": "6.3",
         "Time to Interactive": "13.6",
         "FMP Time": "1.2",
-        "DOM Size": 7752,
-        "Baymard Score": 31.8
+        "DOM Size": 7752
     },
     "http://att.com": {
         "Website ID": "https://www.att.com/",
@@ -1458,8 +1374,7 @@
         "Speed Index": "3.1",
         "Time to Interactive": "5.8",
         "FMP Time": "1.1",
-        "DOM Size": 597,
-        "Baymard Score": 31.7
+        "DOM Size": 597
     },
     "http://shopdisney.com": {
         "Website ID": "https://www.disneystore.com/",
@@ -1475,8 +1390,7 @@
         "Speed Index": "5.9",
         "Time to Interactive": "7.0",
         "FMP Time": "0.9",
-        "DOM Size": 3707,
-        "Baymard Score": 31.5
+        "DOM Size": 3707
     },
     "http://nike.com": {
         "Website ID": "https://www.nike.com/de/",
@@ -1492,8 +1406,7 @@
         "Speed Index": "5.0",
         "Time to Interactive": "5.2",
         "FMP Time": "1.6",
-        "DOM Size": 2524,
-        "Baymard Score": 31.4
+        "DOM Size": 2524
     },
     "http://waters.com/nextgen/us/en.html": {
         "Website ID": "https://www.waters.com/nextgen/us/en.html",
@@ -1509,8 +1422,7 @@
         "Speed Index": "2.1",
         "Time to Interactive": "4.8",
         "FMP Time": "0.9",
-        "DOM Size": 1980,
-        "Baymard Score": 31.2
+        "DOM Size": 1980
     },
     "http://swansonvitamins.com": {
         "Website ID": "https://www.swansonvitamins.com/",
@@ -1526,8 +1438,7 @@
         "Speed Index": "3.0",
         "Time to Interactive": "6.6",
         "FMP Time": "1.3",
-        "DOM Size": 1095,
-        "Baymard Score": 31.0
+        "DOM Size": 1095
     },
     "http://euro.com.pl": {
         "Website ID": "https://www.euro.com.pl/",
@@ -1543,8 +1454,7 @@
         "Speed Index": "3.5",
         "Time to Interactive": "6.5",
         "FMP Time": "0.9",
-        "DOM Size": 8595,
-        "Baymard Score": 30.9
+        "DOM Size": 8595
     },
     "http://aninebing.com": {
         "Website ID": "https://eu.aninebing.com/",
@@ -1560,8 +1470,7 @@
         "Speed Index": "5.0",
         "Time to Interactive": "8.5",
         "FMP Time": "2.3",
-        "DOM Size": 1719,
-        "Baymard Score": 30.0
+        "DOM Size": 1719
     },
     "http://thomann.de": {
         "Website ID": "https://www.thomannmusic.com/",
@@ -1577,8 +1486,7 @@
         "Speed Index": "2.6",
         "Time to Interactive": "3.5",
         "FMP Time": "2.6",
-        "DOM Size": 4512,
-        "Baymard Score": 29.9
+        "DOM Size": 4512
     },
     "http://neimanmarcus.com": {
         "Website ID": "https://www.neimanmarcus.com/",
@@ -1594,8 +1502,7 @@
         "Speed Index": "4.7",
         "Time to Interactive": "8.4",
         "FMP Time": "2.9",
-        "DOM Size": 2716,
-        "Baymard Score": 29.7
+        "DOM Size": 2716
     },
     "http://argos.co.uk": {
         "Website ID": "https://www.argos.co.uk/",
@@ -1611,8 +1518,7 @@
         "Speed Index": "2.3",
         "Time to Interactive": "2.4",
         "FMP Time": "1.1",
-        "DOM Size": 3169,
-        "Baymard Score": 29.7
+        "DOM Size": 3169
     },
     "http://fitbit.com": {
         "Website ID": "https://accounts.fitbit.com/login?targetUrl=https%3A%2F%2Fwww.fitbit.com%2Fglobal%2Ffr%2Fhome",
@@ -1628,8 +1534,7 @@
         "Speed Index": "3.7",
         "Time to Interactive": "4.8",
         "FMP Time": "3.8",
-        "DOM Size": 262,
-        "Baymard Score": 29.7
+        "DOM Size": 262
     },
     "http://mcdonalds.com/gb/en-gb.html": {
         "Website ID": "https://www.mcdonalds.com/gb/en-gb.html",
@@ -1645,8 +1550,7 @@
         "Speed Index": "2.1",
         "Time to Interactive": "4.3",
         "FMP Time": "0.8",
-        "DOM Size": 1674,
-        "Baymard Score": 29.5
+        "DOM Size": 1674
     },
     "http://shop-apotheke.com": {
         "Website ID": "https://www.shop-apotheke.com/",
@@ -1662,8 +1566,7 @@
         "Speed Index": "2.6",
         "Time to Interactive": "4.0",
         "FMP Time": "1.3",
-        "DOM Size": 2152,
-        "Baymard Score": 29.4
+        "DOM Size": 2152
     },
     "http://gap.com": {
         "Website ID": "https://www.gap.com/",
@@ -1679,8 +1582,7 @@
         "Speed Index": "5.2",
         "Time to Interactive": "7.6",
         "FMP Time": "0.5",
-        "DOM Size": 752,
-        "Baymard Score": 29.4
+        "DOM Size": 752
     },
     "http://northerntool.com": {
         "Website ID": "https://www.northerntool.com/",
@@ -1696,8 +1598,7 @@
         "Speed Index": "1.0",
         "Time to Interactive": "1.5",
         "FMP Time": "1.2",
-        "DOM Size": 860,
-        "Baymard Score": 29.3
+        "DOM Size": 860
     },
     "http://ae.com": {
         "Website ID": "https://www.ae.com/us/en",
@@ -1713,8 +1614,7 @@
         "Speed Index": "4.0",
         "Time to Interactive": "8.9",
         "FMP Time": "1.0",
-        "DOM Size": 1944,
-        "Baymard Score": 29.2
+        "DOM Size": 1944
     },
     "http://bespokepost.com": {
         "Website ID": "https://www.bespokepost.com/",
@@ -1730,8 +1630,7 @@
         "Speed Index": "4.3",
         "Time to Interactive": "5.8",
         "FMP Time": "1.7",
-        "DOM Size": 3287,
-        "Baymard Score": 29.0
+        "DOM Size": 3287
     },
     "http://tagheuer.com/de/en/": {
         "Website ID": "https://www.tagheuer.com/de/en/",
@@ -1747,8 +1646,7 @@
         "Speed Index": "4.0",
         "Time to Interactive": "3.9",
         "FMP Time": "2.0",
-        "DOM Size": 2116,
-        "Baymard Score": 28.8
+        "DOM Size": 2116
     },
     "http://dickssportinggoods.com": {
         "Website ID": "https://www.dickssportinggoods.com/",
@@ -1764,8 +1662,7 @@
         "Speed Index": "3.4",
         "Time to Interactive": "4.0",
         "FMP Time": "1.6",
-        "DOM Size": 1105,
-        "Baymard Score": 28.7
+        "DOM Size": 1105
     },
     "http://costco.com": {
         "Website ID": "https://www.costco.com/",
@@ -1781,8 +1678,7 @@
         "Speed Index": "3.9",
         "Time to Interactive": "11.7",
         "FMP Time": "3.5",
-        "DOM Size": 3141,
-        "Baymard Score": 28.4
+        "DOM Size": 3141
     },
     "http://reserved.com/pl/pl/": {
         "Website ID": "https://www.reserved.com/pl/pl/",
@@ -1798,8 +1694,7 @@
         "Speed Index": "3.5",
         "Time to Interactive": "5.9",
         "FMP Time": "1.0",
-        "DOM Size": 3364,
-        "Baymard Score": 28.0
+        "DOM Size": 3364
     },
     "http://guitarcenter.com": {
         "Website ID": "https://www.guitarcenter.com/",
@@ -1815,8 +1710,7 @@
         "Speed Index": "6.3",
         "Time to Interactive": "10.6",
         "FMP Time": "1.6",
-        "DOM Size": 7755,
-        "Baymard Score": 27.7
+        "DOM Size": 7755
     },
     "http://shop.advanceautoparts.com": {
         "Website ID": "https://shop.advanceautoparts.com/",
@@ -1832,8 +1726,7 @@
         "Speed Index": "3.2",
         "Time to Interactive": "5.7",
         "FMP Time": "0.4",
-        "DOM Size": 1580,
-        "Baymard Score": 27.6
+        "DOM Size": 1580
     },
     "http://albertsons.com": {
         "Website ID": "https://www.albertsons.com/",
@@ -1849,8 +1742,7 @@
         "Speed Index": "6.4",
         "Time to Interactive": "7.9",
         "FMP Time": "1.3",
-        "DOM Size": 2242,
-        "Baymard Score": 27.2
+        "DOM Size": 2242
     },
     "http://anntaylor.com": {
         "Website ID": "https://www.anntaylor.com/",
@@ -1866,8 +1758,7 @@
         "Speed Index": "7.8",
         "Time to Interactive": "9.6",
         "FMP Time": "4.7",
-        "DOM Size": 2114,
-        "Baymard Score": 26.7
+        "DOM Size": 2114
     },
     "http://cabelas.com": {
         "Website ID": "https://www.cabelas.com/shop/en",
@@ -1883,8 +1774,7 @@
         "Speed Index": "8.1",
         "Time to Interactive": "7.5",
         "FMP Time": "2.6",
-        "DOM Size": 4258,
-        "Baymard Score": 26.6
+        "DOM Size": 4258
     },
     "http://lego.com": {
         "Website ID": "https://www.lego.com/fr-fr",
@@ -1900,8 +1790,7 @@
         "Speed Index": "7.8",
         "Time to Interactive": "5.8",
         "FMP Time": "1.2",
-        "DOM Size": 3123,
-        "Baymard Score": 26.3
+        "DOM Size": 3123
     },
     "http://zooplus.de": {
         "Website ID": "https://www.zooplus.de/",
@@ -1917,8 +1806,7 @@
         "Speed Index": "2.4",
         "Time to Interactive": "2.6",
         "FMP Time": "1.4",
-        "DOM Size": 3714,
-        "Baymard Score": 26.2
+        "DOM Size": 3714
     },
     "http://basspro.com": {
         "Website ID": "https://www.basspro.com/shop/en",
@@ -1934,8 +1822,7 @@
         "Speed Index": "3.8",
         "Time to Interactive": "7.5",
         "FMP Time": "1.9",
-        "DOM Size": 4215,
-        "Baymard Score": 26.1
+        "DOM Size": 4215
     },
     "http://greenchef.com": {
         "Website ID": "https://www.greenchef.com/",
@@ -1951,8 +1838,7 @@
         "Speed Index": "6.4",
         "Time to Interactive": "8.4",
         "FMP Time": "1.5",
-        "DOM Size": 1760,
-        "Baymard Score": 26.1
+        "DOM Size": 1760
     },
     "http://farmtopeople.com": {
         "Website ID": "https://farmtopeople.com/",
@@ -1968,8 +1854,7 @@
         "Speed Index": "2.4",
         "Time to Interactive": "3.5",
         "FMP Time": "1.0",
-        "DOM Size": 816,
-        "Baymard Score": 26.0
+        "DOM Size": 816
     },
     "http://us.norton.com": {
         "Website ID": "https://us.norton.com/",
@@ -1985,8 +1870,7 @@
         "Speed Index": "1.9",
         "Time to Interactive": "5.1",
         "FMP Time": "0.8",
-        "DOM Size": 1862,
-        "Baymard Score": 25.5
+        "DOM Size": 1862
     },
     "http://digikey.com": {
         "Website ID": "https://www.digikey.com/",
@@ -2002,8 +1886,7 @@
         "Speed Index": "1.4",
         "Time to Interactive": "2.4",
         "FMP Time": "1.0",
-        "DOM Size": 65,
-        "Baymard Score": 25.5
+        "DOM Size": 65
     },
     "http://just-eat.co.uk": {
         "Website ID": "https://www.just-eat.co.uk/",
@@ -2019,8 +1902,7 @@
         "Speed Index": "1.4",
         "Time to Interactive": "2.3",
         "FMP Time": "1.3",
-        "DOM Size": 607,
-        "Baymard Score": 25.2
+        "DOM Size": 607
     },
     "http://menards.com/main/home.html": {
         "Website ID": "https://www.menards.com/main/home.html",
@@ -2036,8 +1918,7 @@
         "Speed Index": "2.8",
         "Time to Interactive": "2.7",
         "FMP Time": "1.7",
-        "DOM Size": 574,
-        "Baymard Score": 24.7
+        "DOM Size": 574
     },
     "http://mms.mckesson.com": {
         "Website ID": "https://mms.mckesson.com/",
@@ -2053,8 +1934,7 @@
         "Speed Index": "2.8",
         "Time to Interactive": "6.0",
         "FMP Time": "1.5",
-        "DOM Size": 1313,
-        "Baymard Score": 24.5
+        "DOM Size": 1313
     },
     "http://basecamp.com": {
         "Website ID": "https://basecamp.com/",
@@ -2070,8 +1950,7 @@
         "Speed Index": "0.4",
         "Time to Interactive": "0.4",
         "FMP Time": "0.4",
-        "DOM Size": 686,
-        "Baymard Score": 24.4
+        "DOM Size": 686
     },
     "http://marleyspoon.com": {
         "Website ID": "https://marleyspoon.com/",
@@ -2087,8 +1966,7 @@
         "Speed Index": "3.3",
         "Time to Interactive": "6.1",
         "FMP Time": "1.0",
-        "DOM Size": 559,
-        "Baymard Score": 24.2
+        "DOM Size": 559
     },
     "http://purplecarrot.com": {
         "Website ID": "https://www.purplecarrot.com/",
@@ -2104,8 +1982,7 @@
         "Speed Index": "1.6",
         "Time to Interactive": "3.6",
         "FMP Time": "0.9",
-        "DOM Size": 512,
-        "Baymard Score": 24.1
+        "DOM Size": 512
     },
     "http://coleparmer.com": {
         "Website ID": "https://www.coleparmer.com/",
@@ -2121,8 +1998,7 @@
         "Speed Index": "5.0",
         "Time to Interactive": "6.3",
         "FMP Time": "1.0",
-        "DOM Size": 3249,
-        "Baymard Score": 23.7
+        "DOM Size": 3249
     },
     "http://chanel.com/gb/makeup/": {
         "Website ID": "https://www.chanel.com/gb/makeup/",
@@ -2138,8 +2014,7 @@
         "Speed Index": "3.2",
         "Time to Interactive": "3.3",
         "FMP Time": "1.1",
-        "DOM Size": 2089,
-        "Baymard Score": 23.5
+        "DOM Size": 2089
     },
     "http://barkbox.com": {
         "Website ID": "https://www.barkbox.com/",
@@ -2155,8 +2030,7 @@
         "Speed Index": "1.7",
         "Time to Interactive": "5.2",
         "FMP Time": "1.0",
-        "DOM Size": 575,
-        "Baymard Score": 23.5
+        "DOM Size": 575
     },
     "http://sears.com": {
         "Website ID": "https://www.sears.com/",
@@ -2172,8 +2046,7 @@
         "Speed Index": "3.8",
         "Time to Interactive": "5.0",
         "FMP Time": "2.1",
-        "DOM Size": 567,
-        "Baymard Score": 23.4
+        "DOM Size": 567
     },
     "http://lyko.com/sv": {
         "Website ID": "https://lyko.com/sv",
@@ -2189,8 +2062,7 @@
         "Speed Index": "1.9",
         "Time to Interactive": "2.7",
         "FMP Time": "0.7",
-        "DOM Size": 4349,
-        "Baymard Score": 22.5
+        "DOM Size": 4349
     },
     "http://ubereats.com/gb": {
         "Website ID": "https://www.ubereats.com/gb",
@@ -2206,8 +2078,7 @@
         "Speed Index": "1.4",
         "Time to Interactive": "3.5",
         "FMP Time": "3.0",
-        "DOM Size": 377,
-        "Baymard Score": 22.4
+        "DOM Size": 377
     },
     "http://freshdirect.com": {
         "Website ID": "https://www.freshdirect.com/",
@@ -2223,8 +2094,7 @@
         "Speed Index": "7.0",
         "Time to Interactive": "9.6",
         "FMP Time": "3.2",
-        "DOM Size": 2816,
-        "Baymard Score": 22.2
+        "DOM Size": 2816
     },
     "http://abcam.com": {
         "Website ID": "https://www.abcam.com/",
@@ -2240,8 +2110,7 @@
         "Speed Index": "3.3",
         "Time to Interactive": "3.8",
         "FMP Time": "1.3",
-        "DOM Size": 814,
-        "Baymard Score": 22.2
+        "DOM Size": 814
     },
     "http://verizon.com": {
         "Website ID": "https://www.verizon.com/",
@@ -2257,8 +2126,7 @@
         "Speed Index": "2.2",
         "Time to Interactive": "3.1",
         "FMP Time": "1.3",
-        "DOM Size": 1529,
-        "Baymard Score": 23.1
+        "DOM Size": 1529
     },
     "http://deliveroo.co.uk": {
         "Website ID": "https://deliveroo.co.uk/",
@@ -2274,8 +2142,7 @@
         "Speed Index": "1.9",
         "Time to Interactive": "2.9",
         "FMP Time": "0.7",
-        "DOM Size": 516,
-        "Baymard Score": 21.4
+        "DOM Size": 516
     },
     "http://ocado.com": {
         "Website ID": "https://www.ocado.com/webshop/startWebshop.do",
@@ -2291,8 +2158,7 @@
         "Speed Index": "3.9",
         "Time to Interactive": "4.9",
         "FMP Time": "1.8",
-        "DOM Size": 861,
-        "Baymard Score": 20.8
+        "DOM Size": 861
     },
     "http://gilt.com": {
         "Website ID": "https://www.gilt.com/boutique/",
@@ -2308,8 +2174,7 @@
         "Speed Index": "6.6",
         "Time to Interactive": "7.4",
         "FMP Time": "2.4",
-        "DOM Size": 3731,
-        "Baymard Score": 20.7
+        "DOM Size": 3731
     },
     "http://hamleys.com": {
         "Website ID": "https://www.hamleys.com/",
@@ -2325,8 +2190,7 @@
         "Speed Index": "6.1",
         "Time to Interactive": "10.2",
         "FMP Time": "2.0",
-        "DOM Size": 3883,
-        "Baymard Score": 20.7
+        "DOM Size": 3883
     },
     "http://leroymerlin.fr": {
         "Website ID": "https://www.leroymerlin.fr/",
@@ -2342,8 +2206,7 @@
         "Speed Index": "1.4",
         "Time to Interactive": "1.2",
         "FMP Time": "0.7",
-        "DOM Size": 1670,
-        "Baymard Score": 19.8
+        "DOM Size": 1670
     },
     "http://grainger.com": {
         "Website ID": "https://www.grainger.com/",
@@ -2359,8 +2222,7 @@
         "Speed Index": "2.6",
         "Time to Interactive": "4.6",
         "FMP Time": "1.3",
-        "DOM Size": 1398,
-        "Baymard Score": 19.6
+        "DOM Size": 1398
     },
     "http://thetoyshop.com": {
         "Website ID": "https://www.thetoyshop.com/",
@@ -2376,8 +2238,7 @@
         "Speed Index": "2.8",
         "Time to Interactive": "4.3",
         "FMP Time": "1.0",
-        "DOM Size": 1519,
-        "Baymard Score": 19.4
+        "DOM Size": 1519
     },
     "http://doordash.com": {
         "Website ID": "https://www.doordash.com/",
@@ -2393,8 +2254,7 @@
         "Speed Index": "2.5",
         "Time to Interactive": "8.3",
         "FMP Time": "0.9",
-        "DOM Size": 876,
-        "Baymard Score": 18.7
+        "DOM Size": 876
     },
     "http://birchbox.com": {
         "Website ID": "https://www.birchbox.com/",
@@ -2410,8 +2270,7 @@
         "Speed Index": "1.3",
         "Time to Interactive": "2.8",
         "FMP Time": "1.0",
-        "DOM Size": 269,
-        "Baymard Score": 18.5
+        "DOM Size": 269
     },
     "http://viasat.com": {
         "Website ID": "https://www.viasat.com/",
@@ -2427,8 +2286,7 @@
         "Speed Index": "2.4",
         "Time to Interactive": "4.2",
         "FMP Time": "0.7",
-        "DOM Size": 2583,
-        "Baymard Score": 18.5
+        "DOM Size": 2583
     },
     "http://demon-tweeks.com/uk/": {
         "Website ID": "https://www.demon-tweeks.com/us/",
@@ -2444,8 +2302,7 @@
         "Speed Index": "3.7",
         "Time to Interactive": "8.0",
         "FMP Time": "1.4",
-        "DOM Size": 4006,
-        "Baymard Score": 18.0
+        "DOM Size": 4006
     },
     "http://hibbett.com": {
         "Website ID": "https://www.hibbett.com/",
@@ -2461,8 +2318,7 @@
         "Speed Index": "6.1",
         "Time to Interactive": "3.8",
         "FMP Time": "0.9",
-        "DOM Size": 5341,
-        "Baymard Score": 17.7
+        "DOM Size": 5341
     },
     "http://vitaminworld.com": {
         "Website ID": "https://www.vitaminworld.com/",
@@ -2478,8 +2334,7 @@
         "Speed Index": "2.1",
         "Time to Interactive": "2.6",
         "FMP Time": "1.0",
-        "DOM Size": 4006,
-        "Baymard Score": 17.6
+        "DOM Size": 4006
     },
     "http://takewalks.com": {
         "Website ID": "https://www.takewalks.com/",
@@ -2495,8 +2350,7 @@
         "Speed Index": "1.4",
         "Time to Interactive": "3.4",
         "FMP Time": "0.7",
-        "DOM Size": 2494,
-        "Baymard Score": 17.6
+        "DOM Size": 2494
     },
     "http://sainsburys.co.uk": {
         "Website ID": "https://www.sainsburys.co.uk/",
@@ -2512,8 +2366,7 @@
         "Speed Index": "1.5",
         "Time to Interactive": "2.6",
         "FMP Time": "1.0",
-        "DOM Size": 1041,
-        "Baymard Score": 17.0
+        "DOM Size": 1041
     },
     "http://apple.com/apple-music/": {
         "Website ID": "https://www.apple.com/apple-music/",
@@ -2529,8 +2382,7 @@
         "Speed Index": "2.0",
         "Time to Interactive": "1.9",
         "FMP Time": "1.9",
-        "DOM Size": 2636,
-        "Baymard Score": 16.6
+        "DOM Size": 2636
     },
     "http://orange.fr/portail": {
         "Website ID": "https://www.orange.fr/portail",
@@ -2546,8 +2398,7 @@
         "Speed Index": "3.4",
         "Time to Interactive": "3.2",
         "FMP Time": "0.7",
-        "DOM Size": 2469,
-        "Baymard Score": 16.4
+        "DOM Size": 2469
     },
     "http://centurylink.com": {
         "Website ID": "https://www.centurylink.com/",
@@ -2563,8 +2414,7 @@
         "Speed Index": "2.4",
         "Time to Interactive": "6.4",
         "FMP Time": "1.0",
-        "DOM Size": 1588,
-        "Baymard Score": 15.8
+        "DOM Size": 1588
     },
     "http://autodoc.co.uk": {
         "Website ID": "https://www.autodoc.co.uk/",
@@ -2580,8 +2430,7 @@
         "Speed Index": "1.3",
         "Time to Interactive": "2.1",
         "FMP Time": "1.0",
-        "DOM Size": 1186,
-        "Baymard Score": 15.3
+        "DOM Size": 1186
     },
     "http://kfc.com": {
         "Website ID": "https://www.kfc.de/",
@@ -2597,8 +2446,7 @@
         "Speed Index": "2.9",
         "Time to Interactive": "2.8",
         "FMP Time": "1.2",
-        "DOM Size": 1019,
-        "Baymard Score": 14.4
+        "DOM Size": 1019
     },
     "http://lifeextension.com": {
         "Website ID": "https://www.lifeextension.com/",
@@ -2614,8 +2462,7 @@
         "Speed Index": "3.1",
         "Time to Interactive": "6.0",
         "FMP Time": "0.8",
-        "DOM Size": 2627,
-        "Baymard Score": 14.0
+        "DOM Size": 2627
     },
     "http://microsoft.com/en-us/microsoft-teams/group-chat-software": {
         "Website ID": "https://www.microsoft.com/en-us/microsoft-teams/group-chat-software",
@@ -2631,8 +2478,7 @@
         "Speed Index": "3.1",
         "Time to Interactive": "2.3",
         "FMP Time": "1.2",
-        "DOM Size": 2088,
-        "Baymard Score": 13.9
+        "DOM Size": 2088
     },
     "http://zoom.us": {
         "Website ID": "https://zoom.us/",
@@ -2648,8 +2494,7 @@
         "Speed Index": "2.8",
         "Time to Interactive": "6.6",
         "FMP Time": "1.7",
-        "DOM Size": 3436,
-        "Baymard Score": 13.5
+        "DOM Size": 3436
     },
     "http://renttherunway.com": {
         "Website ID": "https://www.renttherunway.com/",
@@ -2665,8 +2510,7 @@
         "Speed Index": "2.8",
         "Time to Interactive": "8.5",
         "FMP Time": "1.6",
-        "DOM Size": 2140,
-        "Baymard Score": 13.3
+        "DOM Size": 2140
     },
     "http://bt.com": {
         "Website ID": "https://www.bt.com/exp/home",
@@ -2682,8 +2526,7 @@
         "Speed Index": "1.3",
         "Time to Interactive": "2.4",
         "FMP Time": "1.1",
-        "DOM Size": 1290,
-        "Baymard Score": 13.2
+        "DOM Size": 1290
     },
     "http://safeway.com": {
         "Website ID": "https://www.safeway.com/",
@@ -2699,8 +2542,7 @@
         "Speed Index": "7.3",
         "Time to Interactive": "7.9",
         "FMP Time": "1.3",
-        "DOM Size": 2274,
-        "Baymard Score": 13.0
+        "DOM Size": 2274
     },
     "http://box.com/home": {
         "Website ID": "https://www.box.com/home",
@@ -2716,8 +2558,7 @@
         "Speed Index": "1.9",
         "Time to Interactive": "3.5",
         "FMP Time": "0.9",
-        "DOM Size": 1139,
-        "Baymard Score": 12.7
+        "DOM Size": 1139
     },
     "http://blivakker.no": {
         "Website ID": "https://www.blivakker.no/",
@@ -2733,8 +2574,7 @@
         "Speed Index": "1.5",
         "Time to Interactive": "2.0",
         "FMP Time": "1.0",
-        "DOM Size": 3125,
-        "Baymard Score": 12.3
+        "DOM Size": 3125
     },
     "http://whistler.ziptrek.com": {
         "Website ID": "https://whistler.ziptrek.com/",
@@ -2750,8 +2590,7 @@
         "Speed Index": "2.2",
         "Time to Interactive": "5.0",
         "FMP Time": "1.1",
-        "DOM Size": 505,
-        "Baymard Score": 12.0
+        "DOM Size": 505
     },
     "http://mouser.com": {
         "Website ID": "https://www.mouser.com/",
@@ -2767,8 +2606,7 @@
         "Speed Index": "7.7",
         "Time to Interactive": "3.1",
         "FMP Time": "0.7",
-        "DOM Size": 1388,
-        "Baymard Score": 11.8
+        "DOM Size": 1388
     },
     "http://telekom.de": {
         "Website ID": "https://www.telekom.de/start",
@@ -2784,8 +2622,7 @@
         "Speed Index": "1.8",
         "Time to Interactive": "3.7",
         "FMP Time": "1.4",
-        "DOM Size": 1197,
-        "Baymard Score": 11.8
+        "DOM Size": 1197
     },
     "http://thermofisher.com": {
         "Website ID": "https://www.thermofisher.com/de/de/home.html",
@@ -2801,8 +2638,7 @@
         "Speed Index": "2.3",
         "Time to Interactive": "2.5",
         "FMP Time": "0.9",
-        "DOM Size": 1123,
-        "Baymard Score": 11.6
+        "DOM Size": 1123
     },
     "http://dominos.co.uk": {
         "Website ID": "https://www.dominos.co.uk/",
@@ -2818,8 +2654,7 @@
         "Speed Index": "1.3",
         "Time to Interactive": "1.8",
         "FMP Time": "0.7",
-        "DOM Size": 514,
-        "Baymard Score": 11.6
+        "DOM Size": 514
     },
     "http://kidandcoe.com": {
         "Website ID": "https://www.kidandcoe.com/",
@@ -2835,8 +2670,7 @@
         "Speed Index": "4.7",
         "Time to Interactive": "6.0",
         "FMP Time": "1.3",
-        "DOM Size": 5486,
-        "Baymard Score": 11.5
+        "DOM Size": 5486
     },
     "http://kroger.com": {
         "Website ID": "https://www.kroger.com/",
@@ -2852,8 +2686,7 @@
         "Speed Index": "6.4",
         "Time to Interactive": "6.3",
         "FMP Time": "0.7",
-        "DOM Size": 1813,
-        "Baymard Score": 11.3
+        "DOM Size": 1813
     },
     "http://sunbasket.com": {
         "Website ID": "https://sunbasket.com/",
@@ -2869,8 +2702,7 @@
         "Speed Index": "3.1",
         "Time to Interactive": "4.1",
         "FMP Time": "1.2",
-        "DOM Size": 2522,
-        "Baymard Score": 11.2
+        "DOM Size": 2522
     },
     "http://jpcycles.com": {
         "Website ID": "https://www.jpcycles.com/",
@@ -2886,8 +2718,7 @@
         "Speed Index": "3.1",
         "Time to Interactive": "5.1",
         "FMP Time": "1.0",
-        "DOM Size": 4342,
-        "Baymard Score": 10.1
+        "DOM Size": 4342
     },
     "http://pepboys.com": {
         "Website ID": "https://www.pepboys.com/",
@@ -2903,8 +2734,7 @@
         "Speed Index": "2.7",
         "Time to Interactive": "8.8",
         "FMP Time": "1.2",
-        "DOM Size": 2009,
-        "Baymard Score": 10.1
+        "DOM Size": 2009
     },
     "http://extranomical.com": {
         "Website ID": "https://www.extranomical.com/",
@@ -2920,8 +2750,7 @@
         "Speed Index": "2.7",
         "Time to Interactive": "4.8",
         "FMP Time": "1.3",
-        "DOM Size": 2007,
-        "Baymard Score": 9.6
+        "DOM Size": 2007
     },
     "http://abelandcole.co.uk": {
         "Website ID": "https://www.abelandcole.co.uk/",
@@ -2937,8 +2766,7 @@
         "Speed Index": "2.1",
         "Time to Interactive": "2.4",
         "FMP Time": "1.1",
-        "DOM Size": 1034,
-        "Baymard Score": 9.3
+        "DOM Size": 1034
     },
     "http://burgerking.co.uk": {
         "Website ID": "https://www.burgerking.co.uk/",
@@ -2954,8 +2782,7 @@
         "Speed Index": "4.3",
         "Time to Interactive": "5.1",
         "FMP Time": "1.0",
-        "DOM Size": 396,
-        "Baymard Score": 8.2
+        "DOM Size": 396
     },
     "http://tesco.com": {
         "Website ID": "https://www.tesco.com/",
@@ -2971,8 +2798,7 @@
         "Speed Index": "1.8",
         "Time to Interactive": "4.2",
         "FMP Time": "0.5",
-        "DOM Size": 825,
-        "Baymard Score": 7.5
+        "DOM Size": 825
     },
     "http://heb.com": {
         "Website ID": "https://www.heb.com/",
@@ -2988,8 +2814,7 @@
         "Speed Index": "4.0",
         "Time to Interactive": "4.5",
         "FMP Time": "0.9",
-        "DOM Size": 9223,
-        "Baymard Score": 7.0
+        "DOM Size": 9223
     },
     "http://xfinity.com/mobile/": {
         "Website ID": "https://www.xfinity.com/mobile/",
@@ -3005,8 +2830,7 @@
         "Speed Index": "6.9",
         "Time to Interactive": "7.9",
         "FMP Time": "1.6",
-        "DOM Size": 1517,
-        "Baymard Score": 6.5
+        "DOM Size": 1517
     },
     "http://microsoft.com/en-us/": {
         "Website ID": "https://www.microsoft.com/en-us/",
@@ -3022,8 +2846,7 @@
         "Speed Index": "4.6",
         "Time to Interactive": "2.0",
         "FMP Time": "0.6",
-        "DOM Size": 905,
-        "Baymard Score": 6.3
+        "DOM Size": 905
     },
     "http://sigmaaldrich.com/gb/en": {
         "Website ID": "https://www.sigmaaldrich.com/GB/en",
@@ -3039,8 +2862,7 @@
         "Speed Index": "2.6",
         "Time to Interactive": "4.3",
         "FMP Time": "0.9",
-        "DOM Size": 1153,
-        "Baymard Score": 4.5
+        "DOM Size": 1153
     },
     "http://arrow.com": {
         "Website ID": "https://www.arrow.com/",
@@ -3056,8 +2878,7 @@
         "Speed Index": "3.9",
         "Time to Interactive": "4.8",
         "FMP Time": "1.0",
-        "DOM Size": 2820,
-        "Baymard Score": 4.1
+        "DOM Size": 2820
     },
     "http://avnet.com/wps/portal/us": {
         "Website ID": "https://www.avnet.com/wps/portal/us",
@@ -3073,8 +2894,7 @@
         "Speed Index": "3.1",
         "Time to Interactive": "7.2",
         "FMP Time": "1.0",
-        "DOM Size": 3062,
-        "Baymard Score": 2.8
+        "DOM Size": 3062
     },
     "http://norgren.com/us/en": {
         "Website ID": "https://www.norgren.com/en",
@@ -3090,8 +2910,7 @@
         "Speed Index": "2.5",
         "Time to Interactive": "2.9",
         "FMP Time": "0.8",
-        "DOM Size": 1173,
-        "Baymard Score": 2.4
+        "DOM Size": 1173
     },
     "http://theprinceakatokilondon.com": {
         "Website ID": "https://www.theprinceakatokilondon.com/",
@@ -3107,8 +2926,7 @@
         "Speed Index": "3.4",
         "Time to Interactive": "3.7",
         "FMP Time": "0.8",
-        "DOM Size": 523,
-        "Baymard Score": 1.6
+        "DOM Size": 523
     },
     "http://se.com/ww/en/": {
         "Website ID": "https://www.se.com/ww/en/",
@@ -3124,8 +2942,7 @@
         "Speed Index": "2.4",
         "Time to Interactive": "2.9",
         "FMP Time": "0.9",
-        "DOM Size": 1143,
-        "Baymard Score": 1.3
+        "DOM Size": 1143
     },
     "http://seaparadise.com": {
         "Website ID": "https://www.seaparadise.com/",
@@ -3141,8 +2958,7 @@
         "Speed Index": "3.7",
         "Time to Interactive": "3.3",
         "FMP Time": "1.1",
-        "DOM Size": 494,
-        "Baymard Score": -1.7
+        "DOM Size": 494
     },
     "http://wildrovertours.com": {
         "Website ID": "https://wildrovertours.com/",
@@ -3158,8 +2974,7 @@
         "Speed Index": "0.7",
         "Time to Interactive": "2.0",
         "FMP Time": "0.7",
-        "DOM Size": 604,
-        "Baymard Score": -3.0
+        "DOM Size": 604
     },
     "http://bossard.com/ch-en/": {
         "Website ID": "https://www.bossard.com/ch-en/",
@@ -3175,8 +2990,7 @@
         "Speed Index": "1.7",
         "Time to Interactive": "1.9",
         "FMP Time": "1.2",
-        "DOM Size": 1270,
-        "Baymard Score": -3.3
+        "DOM Size": 1270
     },
     "http://berlinpackaging.com": {
         "Website ID": "https://www.berlinpackaging.com/",
@@ -3192,8 +3006,7 @@
         "Speed Index": "10.3",
         "Time to Interactive": "4.6",
         "FMP Time": "1.9",
-        "DOM Size": 2891,
-        "Baymard Score": -4.3
+        "DOM Size": 2891
     },
     "http://fastenal.com": {
         "Website ID": "https://www.fastenal.com/",
@@ -3209,8 +3022,7 @@
         "Speed Index": "3.0",
         "Time to Interactive": "3.3",
         "FMP Time": "0.4",
-        "DOM Size": 796,
-        "Baymard Score": -8.7
+        "DOM Size": 796
     },
     "http://shangri-la.com": {
         "Website ID": "https://www.shangri-la.com/",
@@ -3226,8 +3038,7 @@
         "Speed Index": "3.0",
         "Time to Interactive": "3.2",
         "FMP Time": "1.4",
-        "DOM Size": 1306,
-        "Baymard Score": -16.0
+        "DOM Size": 1306
     },
     "http://maxongroup.com": {
         "Website ID": "https://www.maxongroup.com/en",
@@ -3243,8 +3054,7 @@
         "Speed Index": "3.6",
         "Time to Interactive": "3.5",
         "FMP Time": "1.1",
-        "DOM Size": 926,
-        "Baymard Score": -17.6
+        "DOM Size": 926
     },
     "http://groceries.morrisons.com": {
         "Website ID": "https://groceries.morrisons.com/webshop/startWebshop.do",
@@ -3260,8 +3070,7 @@
         "Speed Index": "2.6",
         "Time to Interactive": "3.1",
         "FMP Time": "1.8",
-        "DOM Size": 915,
-        "Baymard Score": -31.2
+        "DOM Size": 915
     },
     "http://hitachicm.co.uk": {
         "Website ID": "https://www.hitachicm.co.uk/",
@@ -3277,7 +3086,6 @@
         "Speed Index": "1.6",
         "Time to Interactive": "2.5",
         "FMP Time": "1.2",
-        "DOM Size": 1805,
-        "Baymard Score": -33.3
+        "DOM Size": 1805
     }
 }

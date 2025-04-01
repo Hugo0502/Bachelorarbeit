@@ -124,20 +124,11 @@ def create_graph(ax, ay, x_label, y_label, save_location):
     plt.figure(figsize=(10, 10))
 
     #! Erstellen Sie einen Graphen mit einer linearen Regression
-    # lineare Regression
-    # coef = np.polyfit(ax,ay,1)
-    # poly1d_fn = np.poly1d(coef)
-    # plt.plot(ax,ay, 'b.')
-    # plt.plot(ax, poly1d_fn(ax), '--r', label='Lineare Regression') 
-    
-    # #! Erstellen des Graphen mit Regression 2. Ordnung
-    # Berechnung der Koeffizienten des Polynoms 2. Grades
-    coefficients = np.polyfit(ax, ay, 2)
-    # Erstellen der Polynomfunktion
-    poly2d_fn = np.poly1d([])
-    poly2d_fn = np.poly1d(coefficients)
-    plt.plot(ax, ay, 'b.')
-    plt.plot(ax, poly2d_fn(ax), '--r', label='Quadratische Regression')
+    #lineare Regression
+    coef = np.polyfit(ax,ay,1)
+    poly1d_fn = np.poly1d(coef)
+    plt.plot(ax,ay, 'b.')
+    plt.plot(ax, poly1d_fn(ax), '--r', label='Lineare Regression') 
 
     plt.xlim(min_width, max_width)
     plt.ylim(min_height, max_height)
@@ -167,7 +158,6 @@ def get_unit(key):
         'DOM Size': '',
         'Offscreen Images': '',
         'Total Byte Weight': 'in Bytes',
-        'Baymard Score': 'in Punkten',
         'Anzahl a Tags': '',
         'Anzahl p Tags': '',
         'Anzahl div Tags': '',
@@ -194,21 +184,19 @@ def create_graphs_one_category(data, category, keys, save_location):
 
 # 'Website ID', 'Overall Category', 'First Contentful Paint Time', 'First Contentful Paint Score', 'Largest Contentful Paint Time',
 # 'Largest Contentful PaintCP Score', 'Total Blocking Time', 'Cumulative Layout Shift Time', 'Cumulative Layout Shift Score', 
-# 'Layout Shifts', 'Speed Index', 'Time to Interactive', 'DOM Size', 'Offscreen Images', 'Total Byte Weight', 'Baymard Score', 
+# 'Layout Shifts', 'Speed Index', 'Time to Interactive', 'DOM Size', 'Offscreen Images', 'Total Byte Weight', 
 # 'Anzahl a Tags', 'Anzahl p Tags', 'Anzahl div Tags', 'Anzahl IMG Tags', 'Anzahl Button Tags'
 def main():
     file = "/Users/HugoWienhold/Uni-Lokal/Bachelorarbeit/test/JSON/merged_data.json"
     keys = get_keys(file)
     data = extract(file, keys)
-    # for key , value in data.items():
-    #     print(f"{key}: {value}\n\n")
+   
 
     for key in keys:
         if key in unwanted:
             continue
         try:
             create_graphs_one_category(data, key, keys, save_location)
-            # time.sleep(10)
         except Exception as e:
             print(f"Ein Fehler ist aufgetreten: {e}")
             continue

@@ -7,14 +7,6 @@
         -0.15544047735030983,
         0.04870089976457744
     ],
-    "Baymard ScoreLargest Contentful Paint Time": [
-        -0.14672206185230482,
-        0.014551224829153686
-    ],
-    "Largest Contentful Paint TimeBaymard Score": [
-        -0.1467220618523048,
-        0.014551224829153686
-    ],
     "Largest Contentful Paint TimeOverall UX Performance": [
         -0.14542040242602494,
         0.015017748829092075
@@ -79,22 +71,6 @@
         -0.06838824672491293,
         0.32023452370447963
     ],
-    "Layout ShiftsBaymard Score": [
-        -0.06756175087628563,
-        0.306201748324056
-    ],
-    "Baymard ScoreLayout Shifts": [
-        -0.06756175087628563,
-        0.306201748324056
-    ],
-    "Baymard ScoreFirst Contentful Paint Time": [
-        -0.06388448421127237,
-        0.28110578307771544
-    ],
-    "First Contentful Paint TimeBaymard Score": [
-        -0.06388448421127237,
-        0.28110578307771544
-    ],
     "Overall UX PerformanceLayout Shifts": [
         -0.06240518003107329,
         0.3485885783080171
@@ -150,14 +126,6 @@
     "Anzahl div TagsHomepage UX Performance": [
         -0.042266375874230606,
         0.5181307666301799
-    ],
-    "Cumulative Layout Shift TimeBaymard Score": [
-        -0.03757395940483448,
-        0.5263627667769293
-    ],
-    "Baymard ScoreCumulative Layout Shift Time": [
-        -0.037573959404834475,
-        0.5263627667769293
     ],
     "Desktop UX PerformanceCumulative Layout Shift Time": [
         -0.03644304922400641,
@@ -287,14 +255,6 @@
         -0.00837833187607788,
         0.8153005046554402
     ],
-    "Speed IndexBaymard Score": [
-        0.003204956360790633,
-        0.8723136785595879
-    ],
-    "Baymard ScoreSpeed Index": [
-        0.0032049563607906353,
-        0.8723136785595879
-    ],
     "Time to InteractiveHomepage & Navigation UX Performance": [
         0.006649087242793259,
         0.9148943380315157
@@ -383,14 +343,6 @@
         0.039585221231303674,
         0.6268019684514393
     ],
-    "Baymard ScoreOffscreen Images": [
-        0.042328624171622475,
-        0.6370433581031644
-    ],
-    "Offscreen ImagesBaymard Score": [
-        0.04232862417162248,
-        0.6370433581031644
-    ],
     "Speed IndexAnzahl p Tags": [
         0.0495062189973371,
         0.4014970713262691
@@ -398,14 +350,6 @@
     "Anzahl p TagsSpeed Index": [
         0.04950621899733711,
         0.4014970713262691
-    ],
-    "Anzahl p TagsBaymard Score": [
-        0.04962033375823876,
-        0.39706417669015376
-    ],
-    "Baymard ScoreAnzahl p Tags": [
-        0.049620333758238766,
-        0.39706417669015287
     ],
     "Offscreen ImagesDesktop UX Performance": [
         0.052451662488562555,
@@ -430,14 +374,6 @@
     "Anzahl p TagsOverall UX Performance": [
         0.053812665995977206,
         0.36813598469976666
-    ],
-    "DOM SizeBaymard Score": [
-        0.054356549163160316,
-        0.3633037109845291
-    ],
-    "Baymard ScoreDOM Size": [
-        0.054356549163160316,
-        0.3633037109845291
     ],
     "Overall UX PerformanceAnzahl div Tags": [
         0.056783488082398435,
@@ -470,14 +406,6 @@
     "Anzahl p TagsDesktop UX Performance": [
         0.06154775427514824,
         0.30095038301211696
-    ],
-    "Baymard ScoreAnzahl a Tags": [
-        0.0615566529678509,
-        0.28456058128007167
-    ],
-    "Anzahl a TagsBaymard Score": [
-        0.0615566529678509,
-        0.28456058128007167
     ],
     "Speed IndexHomepage UX Performance": [
         0.06444869728340212,
@@ -567,14 +495,6 @@
         0.07166250566788578,
         0.2166898246871191
     ],
-    "Baymard ScoreAnzahl div Tags": [
-        0.07219178076055464,
-        0.20795077998434117
-    ],
-    "Anzahl div TagsBaymard Score": [
-        0.07219178076055464,
-        0.20795077998434117
-    ],
     "Total Blocking TimeOverall UX Performance": [
         0.07271227016542245,
         0.22573465093120337
@@ -639,14 +559,6 @@
         0.08428803485032248,
         0.3293683594356031
     ],
-    "Time to InteractiveBaymard Score": [
-        0.08463930600824911,
-        0.1682294344090612
-    ],
-    "Baymard ScoreTime to Interactive": [
-        0.08463930600824913,
-        0.16822943440906116
-    ],
     "Desktop UX PerformanceTotal Blocking Time": [
         0.08568244033593665,
         0.15034841571131843
@@ -687,14 +599,6 @@
         0.09505487373625336,
         0.11452017660947049
     ],
-    "Anzahl IMG TagsBaymard Score": [
-        0.09687354884495362,
-        0.09138014470809262
-    ],
-    "Baymard ScoreAnzahl IMG Tags": [
-        0.09687354884495362,
-        0.09138014470809284
-    ],
     "Desktop UX PerformanceAnzahl Button Tags": [
         0.09836206070839049,
         0.08884107867319592
@@ -719,14 +623,6 @@
         0.0992580351906327,
         0.11397472641123253
     ],
-    "Baymard ScoreAnzahl Button Tags": [
-        0.10041590002426186,
-        0.08419186544861833
-    ],
-    "Anzahl Button TagsBaymard Score": [
-        0.10041590002426187,
-        0.08419186544861833
-    ],
     "Layout ShiftsLargest Contentful Paint Time": [
         0.11201069380730393,
         0.20638654565323988
@@ -734,14 +630,6 @@
     "Largest Contentful Paint TimeLayout Shifts": [
         0.11201069380730393,
         0.20638654565323988
-    ],
-    "Baymard ScoreTotal Blocking Time": [
-        0.11459064160128933,
-        0.0538174648053869
-    ],
-    "Total Blocking TimeBaymard Score": [
-        0.11459064160128933,
-        0.0538174648053869
     ],
     "Cumulative Layout Shift TimeAnzahl IMG Tags": [
         0.11529306377366448,
@@ -838,14 +726,6 @@
     "Offscreen ImagesAnzahl IMG Tags": [
         0.13194232778770568,
         0.03633040415080981
-    ],
-    "Total Byte WeightBaymard Score": [
-        0.13384177833483676,
-        0.03799389046627331
-    ],
-    "Baymard ScoreTotal Byte Weight": [
-        0.13384177833483676,
-        0.03799389046627332
     ],
     "Layout ShiftsAnzahl IMG Tags": [
         0.13532278993650262,
@@ -1215,14 +1095,6 @@
         0.2970001312621259,
         0.05925888589032068
     ],
-    "Baymard ScoreHomepage & Navigation UX Performance": [
-        0.3030351280796678,
-        8.758223226961731e-08
-    ],
-    "Homepage & Navigation UX PerformanceBaymard Score": [
-        0.30303512807966787,
-        8.7582232269617e-08
-    ],
     "First Contentful Paint TimeDOM Size": [
         0.31431960422783733,
         8.808125018985669e-06
@@ -1318,14 +1190,6 @@
     "Total Blocking TimeDOM Size": [
         0.4007024832785901,
         8.795190872980949e-10
-    ],
-    "Homepage UX PerformanceBaymard Score": [
-        0.40160040416393605,
-        2.51842189702914e-10
-    ],
-    "Baymard ScoreHomepage UX Performance": [
-        0.40160040416393605,
-        2.51842189702914e-10
     ],
     "Anzahl p TagsAnzahl IMG Tags": [
         0.40176619431760546,
@@ -1494,22 +1358,6 @@
     "Time to InteractiveTotal Blocking Time": [
         0.7608646515991334,
         8.743162232329587e-48
-    ],
-    "Desktop UX PerformanceBaymard Score": [
-        0.859151868628103,
-        8.050959777718598e-72
-    ],
-    "Baymard ScoreDesktop UX Performance": [
-        0.8591518686281031,
-        8.050959777718598e-72
-    ],
-    "Baymard ScoreOverall UX Performance": [
-        0.9211601122244515,
-        2.8560134753705416e-91
-    ],
-    "Overall UX PerformanceBaymard Score": [
-        0.9211601122244515,
-        2.8560134753705416e-91
     ],
     "Overall UX PerformanceDesktop UX Performance": [
         0.9293713482573992,
