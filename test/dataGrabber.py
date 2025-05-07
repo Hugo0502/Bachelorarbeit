@@ -31,7 +31,7 @@ def get_metrics(url):
     data = {}
     metrics = {url: {}}
     try:
-        data =  PSI(url, api_key='AIzaSyBuX1dCHH9wbWuGXwo14LvadstFbtLz6cE')
+        data =  PSI(url, api_key='')
     except Exception as e:
         print(f"PSI Fehler: {e} at {url}")
 
