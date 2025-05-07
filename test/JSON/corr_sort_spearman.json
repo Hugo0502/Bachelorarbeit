@@ -160,7 +160,7 @@
         "Largest Contentful Paint TimeHomepage UX PerformanceKendall P-Value": 0.3016568647983032
     },
     {
-        "Anzahl div TagsHomepage & Navigation UX PerformancePearson Coefficient": -0.02253175655358549,
+        "cHomepage & Navigation UX PerformancePearson Coefficient": -0.02253175655358549,
         "Anzahl div TagsHomepage & Navigation UX PerformancePearson P-Value": 0.7272835044037141,
         "Anzahl div TagsHomepage & Navigation UX PerformanceSpearman Coefficient": -0.06843278517778253,
         "Anzahl div TagsHomepage & Navigation UX PerformanceSpearman P-Value": 0.28901001117747466,
